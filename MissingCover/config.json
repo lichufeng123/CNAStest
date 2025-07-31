@@ -1,0 +1,26 @@
+{
+    "yolo": {
+        "model_path": "weights/miss_cover_yolo_1280_v0.1.pt",
+        "input_size": [1280, 1280],
+        "conf_threshold": 0.25,
+        "iou_threshold": 0.5,
+        "augment": true,
+        "verbose": false,
+        "open_class_id": 1,
+        "device": "3"
+    },
+    "vlm": {
+        "api_base": "http://localhost:9999/v1",
+        "model_name": "MissCover-Qwen2.5VL-7B",
+        "timeout": 30,
+        "max_retries": 3
+    },
+    "flask": {
+        "host": "0.0.0.0",
+        "port": 5000,
+        "debug": true,
+        "max_batch_size": 16,
+        "max_workers": 8
+    },
+    "prompt": "<image> 你是一位电力沟盖板异常监控的专家，请判断图片中电缆沟是否存在盖板缺失的情况。\n\n## 任务要求\n\n请仔细观察图片，判断图片中电缆沟是否存在盖板缺失的情况。如果存在任何一处电缆沟的盖板缺失，则输出存在盖板缺失；如果不存在盖板缺失的情况，则输出不存在盖板缺失。\n\n## 输出格式\n\n1. 在<think></think>标签中输出根据当前任务分析当前图片的思考过程，然后在<answer></answer>标签中直接输出**存在盖板缺失**或者**不存在盖板缺失**。\n2. 输出示例：<think>...</think><answer>存在盖板缺失</answer>\n"
+} 
