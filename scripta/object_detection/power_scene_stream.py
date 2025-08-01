@@ -1,3 +1,13 @@
+
+import time
+import sys
+
+def stream_print(text, delay=0.03):
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print()
+
 import os
 from PIL import Image, ImageDraw
 
@@ -56,8 +66,8 @@ with open(output_txt_path, "w", encoding="utf-8") as f:
 img.save(output_img_path)
 with open(output_txt_path,"r",encoding="UTF-8") as f:
     content = f.read()
-    print(content)
+    stream_print(content)
 
-print("✅输出结果已保存：")
-print(f"- 标注图像保存路径：{output_img_path}")
-print(f"- 文本保存路径：{output_txt_path}")
+stream_print("✅输出结果已保存：")
+stream_print(f"- 标注图像保存路径：{output_img_path}")
+stream_print(f"- 文本保存路径：{output_txt_path}")

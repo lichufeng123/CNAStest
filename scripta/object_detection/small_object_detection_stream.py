@@ -1,3 +1,13 @@
+
+import time
+import sys
+
+def stream_print(text, delay=0.03):
+    for char in text:
+        print(char, end='', flush=True)
+        time.sleep(delay)
+    print()
+
 import os
 from PIL import Image, ImageDraw
 
@@ -74,7 +84,7 @@ for idx, (label_zh, label_en, color) in enumerate(scene_labels):
             summary_f.write(text_block + "\n")
 
         # 控制台输出
-        print(text_block)
-        print(f"✅ 检测完成：{filename}\n")
+        stream_print(text_block)
+        stream_print(f"✅ 检测完成：{filename}\n")
 
         image_index += 1  # 最后再加1
