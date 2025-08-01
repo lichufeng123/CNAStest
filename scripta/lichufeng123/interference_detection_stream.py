@@ -7,7 +7,7 @@ def stream_print(text, delay=0.03):
         print(char, end='', flush=True)
         time.sleep(delay)
     print()
-
+# 抗干扰能力
 import os
 import random
 import time

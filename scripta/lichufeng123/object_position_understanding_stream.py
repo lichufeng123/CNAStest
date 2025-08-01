@@ -10,7 +10,7 @@ def stream_print(text, delay=0.03):
         print(char, end='', flush=True)
         time.sleep(delay)
     print()
-
+# 物体位置理解能力
 # 输入输出路径
 input_dir = os.path.join("..", "..", "data_samples", "object_position")
 output_dir = os.path.join("..", "..", "data_output", "object_position")

@@ -1,7 +1,7 @@
 
 import time
 import sys
-
+# 电力场景理解能力
 def stream_print(text, delay=0.03):
     for char in text:
         print(char, end='', flush=True)

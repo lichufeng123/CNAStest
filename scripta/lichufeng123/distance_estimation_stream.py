@@ -4,7 +4,7 @@ import random
 import time
 import sys
 from PIL import Image
-
+# 距离理解能力
 def stream_print(text, delay=0.03):
     for c in text:
         print(c, end='', flush=True)
