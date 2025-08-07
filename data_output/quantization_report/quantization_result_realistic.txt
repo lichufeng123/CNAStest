@@ -1,0 +1,35 @@
+⏳ 模型量化开始时间：2025-08-04 14:03:39
+📚 原始模型：FP16（体积：22.0 GB，困惑度：5.9）
+📄 校准样本数量：128 条图文指令
+🔍 分析权重分布...
+🔧 量化配置：
+    - Layer 1：INT4
+    - Layer 2：INT4
+    - Layer 3：INT4
+    - Layer 4：INT4
+    - Layer 5：INT4
+    - Layer 6：INT4
+    - Layer 7：INT4
+    - Layer 8：INT4
+    - Layer 9：INT4
+    - Layer 10：INT4
+    - Layer 11：INT4
+    - Layer 12：INT4
+    - Layer 13：INT2
+    - Layer 14：INT2
+    - Layer 15：INT2
+    - Layer 16：INT2
+    - Layer 17：INT2
+    - Layer 18：INT2
+    - Layer 19：INT2
+    - Layer 20：INT2
+    - Layer 21：INT2
+    - Layer 22：INT2
+    - Layer 23：INT2
+    - Layer 24：INT2
+    - Embedding + LayerNorm：保留 FP16
+💾 模型保存路径：qwen-vl-7b-quant4bit.safetensors
+✅ 压缩后体积：2.96 GB（压缩率：86.5%）
+🎯 困惑度上升至：6.15（上升约 4.24%）
+✅ 模型量化结束时间：2025-08-04 15:11:09
+⏱️ 总耗时：1小时7分钟30秒
