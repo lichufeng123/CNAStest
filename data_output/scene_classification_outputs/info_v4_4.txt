@@ -1,0 +1,32 @@
+[INFO] 2025-08-08 10:49:31 - 开始读取图像目录：../../data_samples/scene_classification
+图像文件：sample_images_20250515_33.jpg
+场景类型：输电通道类
+- 检测内容：异物外飘
+  描述：导线附近有悬挂物体
+
+图像文件：2.jpg
+场景类型：作业违章识别类
+- 检测内容：攀爬扶梯无人协助
+  描述：有跌落风险
+
+图像文件：sample_images_20250515_33.jpg
+场景类型：输电通道类
+- 检测内容：疑似山火
+  描述：图像左下角有火光迹象
+
+所有识别图像输出至：../../data_output/scene_classification_outputs
+[INFO] 2025-08-08 10:50:45 - 开始读取图像目录：../../data_samples/scene_classification
+图像文件：sample_images_20250515_33.jpg
+识别失败：模型推理超时：vLLM request timeout
+
+图像文件：2.jpg
+场景类型：作业违章识别类
+- 检测内容：高空作业未戴头盔
+  描述：人员未佩戴防护装备
+
+图像文件：sample_images_20250515_33.jpg
+场景类型：变电站设备缺陷检测类
+- 检测内容：绝缘子破损
+  描述：检测到裂纹
+
+所有识别图像输出至：../../data_output/scene_classification_outputs

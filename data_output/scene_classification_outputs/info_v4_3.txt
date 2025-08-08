@@ -1,0 +1,28 @@
+图像文件：sample_images_20250515_33.jpg
+场景类型：输电通道类
+- 检测内容：异物外飘
+  描述：导线附近有悬挂物体
+
+图像文件：2.jpg
+场景类型：变电站设备缺陷检测类
+- 检测内容：变压器渗油
+  描述：密封件老化引起渗油
+
+图像文件：sample_images_20250515_33.jpg
+识别失败：模型内部错误：CUDA out of memory
+
+📁 所有识别图像输出至：../../data_output/scene_classification_outputs
+图像文件：sample_images_20250515_33.jpg
+场景类型：作业违章识别类
+- 检测内容：高空作业未戴头盔
+  描述：人员未佩戴防护装备
+
+图像文件：2.jpg
+识别失败：图像格式不受支持：unsupported image mode
+
+图像文件：sample_images_20250515_33.jpg
+场景类型：变电站设备缺陷检测类
+- 检测内容：变压器渗油
+  描述：密封件老化引起渗油
+
+📁 所有识别图像输出至：../../data_output/scene_classification_outputs
