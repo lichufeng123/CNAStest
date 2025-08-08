@@ -1,0 +1,2 @@
+图像文件：3.jpg
+识别失败：模型推理超时：vLLM request timeout

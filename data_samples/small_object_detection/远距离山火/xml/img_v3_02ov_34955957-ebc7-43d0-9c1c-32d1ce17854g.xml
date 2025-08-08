@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>img_v3_02ov_34955957-ebc7-43d0-9c1c-32d1ce17854g.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\远距离山火\远距离山火-已截图\img_v3_02ov_34955957-ebc7-43d0-9c1c-32d1ce17854g.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1918</width>
+    <height>964</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>山火</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1240</xmin>
+      <ymin>262</ymin>
+      <xmax>1259</xmax>
+      <ymax>281</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>11jyst02844.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工器具标注\images\11jyst02844.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>3968</width>
+    <height>2976</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绝缘操作杆</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1671</xmin>
+      <ymin>107</ymin>
+      <xmax>2144</xmax>
+      <ymax>2223</ymax>
+    </bndbox>
+  </object>
+</annotation>

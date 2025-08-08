@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>VH_01_20240403_23.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工厂排烟\工厂排烟-已截图\VH_01_20240403_23.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1200</width>
+    <height>668</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>工厂排烟</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>434</xmin>
+      <ymin>0</ymin>
+      <xmax>847</xmax>
+      <ymax>411</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>工厂排烟</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>556</xmin>
+      <ymin>268</ymin>
+      <xmax>649</xmax>
+      <ymax>437</ymax>
+    </bndbox>
+  </object>
+</annotation>

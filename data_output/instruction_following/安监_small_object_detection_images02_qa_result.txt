@@ -1,0 +1,4 @@
+图像文件：small_object_detection_images02.png
+输入指令：违规类型：
+输出内容：
+问题：违规类型：回答：图像未能清晰识别

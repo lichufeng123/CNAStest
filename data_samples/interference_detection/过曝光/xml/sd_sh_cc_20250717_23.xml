@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>sd_sh_cc_20250717_23.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\过曝光\过曝灯光-已截图\sd_sh_cc_20250717_23.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1920</width>
+    <height>836</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>过爆灯光</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1051</xmin>
+      <ymin>597</ymin>
+      <xmax>1389</xmax>
+      <ymax>820</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>过爆灯光</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1387</xmin>
+      <ymin>484</ymin>
+      <xmax>1919</xmax>
+      <ymax>715</ymax>
+    </bndbox>
+  </object>
+</annotation>

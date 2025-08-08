@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>100_WRFT_141.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\攀爬扶梯违章\攀爬扶梯违章图片\100_WRFT_141.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>2400</width>
+    <height>1600</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>未系安全绳的工作人员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1599</xmin>
+      <ymin>129</ymin>
+      <xmax>1783</xmax>
+      <ymax>701</ymax>
+    </bndbox>
+  </object>
+</annotation>

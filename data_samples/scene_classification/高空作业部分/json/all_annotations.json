@@ -1,0 +1,1238 @@
+[
+    {
+        "id": 1083099,
+        "annotations": [
+            {
+                "id": 914659,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "BiKoaEqZx7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 26.703370055323738,
+                            "y": 15.891472868217052,
+                            "width": 40.65086782873208,
+                            "height": 74.28940568475454,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 4160
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:31:21.841192Z",
+                "updated_at": "2025-08-08T01:34:47.090385Z",
+                "draft_created_at": "2025-08-08T01:31:13.730224Z",
+                "lead_time": 41.094,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1636ed9a-2bf9-4806-b055-ba11e0e53d63",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083099,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02317.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02317.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.391813Z",
+        "updated_at": "2025-08-08T01:34:47.203057Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083100,
+        "annotations": [
+            {
+                "id": 914675,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "fQIG70ziF2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.68844287026096,
+                            "y": 7.012987012987018,
+                            "width": 39.67227000993246,
+                            "height": 86.23376623376615,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 4160
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:35:47.530989Z",
+                "updated_at": "2025-08-08T01:35:47.530989Z",
+                "draft_created_at": "2025-08-08T01:35:00.443061Z",
+                "lead_time": 58.929,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6c31ad6a-b2d6-4ac1-ad89-38ce81abe333",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083100,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02323.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02323.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.391882Z",
+        "updated_at": "2025-08-08T01:35:47.604601Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083101,
+        "annotations": [
+            {
+                "id": 914721,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "MTls6ZlRyh",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.012042343910444,
+                            "y": 17.092756662654235,
+                            "width": 16.78024269863839,
+                            "height": 17.03103436940723,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1080,
+                        "original_height": 1440
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:46:42.557012Z",
+                "updated_at": "2025-08-08T01:46:42.557012Z",
+                "draft_created_at": "2025-08-08T01:36:12.516532Z",
+                "lead_time": 653.452,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "341a626f-9dff-46fe-b12b-057cfdede2ea",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083101,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02403.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02403.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.391925Z",
+        "updated_at": "2025-08-08T01:46:42.705254Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083102,
+        "annotations": [
+            {
+                "id": 914724,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "WJnEWPOnv9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 41.24999999999998,
+                            "y": 17.16666666666668,
+                            "width": 25.75000000000003,
+                            "height": 82,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2592,
+                        "original_height": 1944
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:47:04.318322Z",
+                "updated_at": "2025-08-08T01:47:04.318322Z",
+                "draft_created_at": "2025-08-08T01:47:03.836785Z",
+                "lead_time": 19.969,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "226cb035-a382-42f6-b93f-687ad2941108",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083102,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02765.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02765.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.391967Z",
+        "updated_at": "2025-08-08T01:47:04.399201Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083103,
+        "annotations": [
+            {
+                "id": 914727,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ELzvhguv6r",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 27.374999999999993,
+                            "y": 68.00000000000001,
+                            "width": 9.375,
+                            "height": 30.666666666666682,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "安全帽、工作服均未穿戴的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:47:25.061342Z",
+                "updated_at": "2025-08-08T01:47:25.061342Z",
+                "draft_created_at": "2025-08-08T01:47:24.439764Z",
+                "lead_time": 19.049,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "538d112f-5cbd-4dc3-9199-76ef47298b6d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083103,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "02wzqsyaqd00028.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "02wzqsyaqd00028.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392006Z",
+        "updated_at": "2025-08-08T01:47:25.157085Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083104,
+        "annotations": [
+            {
+                "id": 914662,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "1kLMsEPpQ0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 28.59396062528885,
+                            "y": 13.697775093123916,
+                            "width": 35.99914855327972,
+                            "height": 70.53995100506734,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "无人扶梯"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 750,
+                        "original_height": 1000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:32:04.272327Z",
+                "updated_at": "2025-08-08T01:47:39.887156Z",
+                "draft_created_at": "2025-08-08T01:32:00.113131Z",
+                "lead_time": 28.39,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1e4649c7-d44e-407e-8a6b-a45ae2fdc154",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083104,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "02wzqsyaqd00095.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "02wzqsyaqd00095.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392044Z",
+        "updated_at": "2025-08-08T02:00:43.950478Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083105,
+        "annotations": [
+            {
+                "id": 914730,
+                "completed_by": 99,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:48:01.959883Z",
+                "updated_at": "2025-08-08T01:48:01.959883Z",
+                "draft_created_at": null,
+                "lead_time": 20.61,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c55dda95-4881-4a4d-a3fa-272d3475bcb7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083105,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "02wzqsyaqd00231.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "02wzqsyaqd00231.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392086Z",
+        "updated_at": "2025-08-08T01:48:02.116246Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083106,
+        "annotations": [
+            {
+                "id": 914733,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "I4RuFWlCcR",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 64.6536585365853,
+                            "y": 19.06873614190687,
+                            "width": 13.631042128603092,
+                            "height": 63.636363636363626,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "安全帽、工作服均未穿戴的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 2256
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:48:35.834877Z",
+                "updated_at": "2025-08-08T01:48:35.834877Z",
+                "draft_created_at": "2025-08-08T01:48:34.222758Z",
+                "lead_time": 31.909,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "050d031a-4eb0-4801-a30b-a4bdb9a5efb4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083106,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "02wzqsyaqd00464.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "02wzqsyaqd00464.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392127Z",
+        "updated_at": "2025-08-08T01:48:35.932043Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083107,
+        "annotations": [
+            {
+                "id": 914735,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "0mTCkSpnO5",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 4.501602147964631,
+                            "y": 15.299334811529933,
+                            "width": 16.507710490616283,
+                            "height": 84.70066518847003,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "安全帽、工作服均未穿戴的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 2256
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:49:03.980102Z",
+                "updated_at": "2025-08-08T01:49:03.980102Z",
+                "draft_created_at": "2025-08-08T01:48:56.945976Z",
+                "lead_time": 26.847,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c1fc4ed2-4d7d-4fce-8e80-5ee0ba3ca22a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083107,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "04gczy00601.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "04gczy00601.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392165Z",
+        "updated_at": "2025-08-08T01:49:04.080553Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083108,
+        "annotations": [
+            {
+                "id": 914737,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "THXQQunbpG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.33513502721359,
+                            "y": 28.3116883116882,
+                            "width": 24.390553835163605,
+                            "height": 27.811922696526548,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 864,
+                        "original_height": 1920
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:49:34.007876Z",
+                "updated_at": "2025-08-08T01:49:34.007876Z",
+                "draft_created_at": "2025-08-08T01:49:25.683621Z",
+                "lead_time": 28.298,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "99d4a5d7-58bb-4bf9-9cb5-8f61b87583f9",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083108,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd00111.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd00111.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392202Z",
+        "updated_at": "2025-08-08T01:49:34.107820Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083109,
+        "annotations": [
+            {
+                "id": 914740,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "XQORh07OdJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 41.01012958513549,
+                            "y": 52.63139021563923,
+                            "width": 9.865225321428541,
+                            "height": 24.924822885491444,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 1707
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:50:03.003910Z",
+                "updated_at": "2025-08-08T01:50:03.003910Z",
+                "draft_created_at": "2025-08-08T01:50:00.444189Z",
+                "lead_time": 27.689,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "724b5ecd-d5fe-452e-a07a-ccef3f764c72",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083109,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd00152.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd00152.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392246Z",
+        "updated_at": "2025-08-08T01:50:03.099045Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083110,
+        "annotations": [
+            {
+                "id": 914742,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "PNKjYoSkdW",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.99999999999997,
+                            "y": 22.499999999999943,
+                            "width": 25.250000000000018,
+                            "height": 77.49999999999982,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5184,
+                        "original_height": 3888
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:50:23.390703Z",
+                "updated_at": "2025-08-08T01:50:23.390703Z",
+                "draft_created_at": "2025-08-08T01:50:18.341967Z",
+                "lead_time": 18.653,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e33a3860-07d1-48ac-a1e6-2de03f96a1a1",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083110,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd00192.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd00192.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392290Z",
+        "updated_at": "2025-08-08T01:50:23.491594Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083111,
+        "annotations": [
+            {
+                "id": 914747,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "0JJT48XHmH",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.62499999999999,
+                            "y": 11.16666666666667,
+                            "width": 23.00000000000002,
+                            "height": 81.33333333333333,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未穿工作服的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4608,
+                        "original_height": 3456
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:51:00.719323Z",
+                "updated_at": "2025-08-08T01:51:00.719323Z",
+                "draft_created_at": "2025-08-08T01:50:55.182751Z",
+                "lead_time": 33.543,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3b8f3f6f-04b1-4b06-8aff-448026ebb0f2",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083111,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd00211.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd00211.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392332Z",
+        "updated_at": "2025-08-08T01:51:00.787492Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083112,
+        "annotations": [
+            {
+                "id": 914752,
+                "completed_by": 99,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:51:27.357968Z",
+                "updated_at": "2025-08-08T01:51:27.357968Z",
+                "draft_created_at": null,
+                "lead_time": 24.912,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f918d7e8-7ff4-4035-8d97-29c637860b72",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083112,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02063.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02063.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392374Z",
+        "updated_at": "2025-08-08T01:51:27.423638Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083113,
+        "annotations": [
+            {
+                "id": 914756,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "xEVs6oR-lM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 18.001911508404987,
+                            "y": 11.81818181818181,
+                            "width": 38.11907572946544,
+                            "height": 77.27272727272731,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 4160
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:52:10.571011Z",
+                "updated_at": "2025-08-08T01:52:10.571011Z",
+                "draft_created_at": "2025-08-08T01:51:46.705464Z",
+                "lead_time": 41.957,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "cdb96d36-6e5d-415c-86fb-baf83e7cc725",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083113,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02068.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02068.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392416Z",
+        "updated_at": "2025-08-08T01:52:10.671532Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083114,
+        "annotations": [
+            {
+                "id": 914757,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "fMALmnYj6V",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40,
+                            "y": 14.935064935064934,
+                            "width": 37.40259740259741,
+                            "height": 79.22077922077924,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 4160
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:52:29.178356Z",
+                "updated_at": "2025-08-08T01:52:29.178356Z",
+                "draft_created_at": null,
+                "lead_time": 13.486,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "bfa5e5ba-23e4-42f6-b8e3-3982bded302b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083114,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02080.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02080.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392457Z",
+        "updated_at": "2025-08-08T01:52:29.250093Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083115,
+        "annotations": [
+            {
+                "id": 914761,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "8-gQtaKTV8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.93184310036008,
+                            "y": 22.092718339150768,
+                            "width": 11.827072820173921,
+                            "height": 29.804223506839207,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2736,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:53:00.780058Z",
+                "updated_at": "2025-08-08T01:53:00.780058Z",
+                "draft_created_at": "2025-08-08T01:52:54.515061Z",
+                "lead_time": 30.031,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0e9bb2d1-ab55-49c1-89b8-c96cc5e6e053",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083115,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02100.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02100.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392499Z",
+        "updated_at": "2025-08-08T01:53:00.894932Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    },
+    {
+        "id": 1083116,
+        "annotations": [
+            {
+                "id": 914763,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "wNUKZZktVR",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.2718277393602,
+                            "y": 0.5194805194805193,
+                            "width": 34.28661381908127,
+                            "height": 59.350649350649356,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "未系安全绳的工作人员"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 4160
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:53:32.970791Z",
+                "updated_at": "2025-08-08T01:53:32.970791Z",
+                "draft_created_at": "2025-08-08T01:53:24.731194Z",
+                "lead_time": 30.197,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8dd96abf-eb4c-4869-be24-20bc9afabc89",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083116,
+                "project": 614,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd02161.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd02161.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T10:19:22.392541Z",
+        "updated_at": "2025-08-08T01:53:33.079554Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 614,
+        "updated_by": 99,
+        "batch": 21502,
+        "comment_authors": []
+    }
+]

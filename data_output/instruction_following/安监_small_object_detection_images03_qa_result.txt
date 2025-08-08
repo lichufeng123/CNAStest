@@ -1,0 +1,4 @@
+图像文件：small_object_detection_images03.png
+输入指令：人员数量：
+输出内容：
+问题：人员数量：回答：图像未能清晰识别

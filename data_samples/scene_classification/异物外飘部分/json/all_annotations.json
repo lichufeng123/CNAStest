@@ -1,0 +1,2392 @@
+[
+    {
+        "id": 1079103,
+        "annotations": [
+            {
+                "id": 908895,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "BYoMPPTzkU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.390577479049455,
+                            "y": 38.720260494842826,
+                            "width": 2.2777882514673524,
+                            "height": 16.98621266136775,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    },
+                    {
+                        "id": "j8VSdGpI9d",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.45333463453819,
+                            "y": 37.02521559502205,
+                            "width": 2.513098353767075,
+                            "height": 16.44309025970013,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    },
+                    {
+                        "id": "ThK8mqj0BM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.57272720782894,
+                            "y": 80.54421613125788,
+                            "width": 1.4283904479782177,
+                            "height": 2.7688799453118693,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:43:50.608897Z",
+                "updated_at": "2025-08-06T02:59:06.261912Z",
+                "draft_created_at": "2025-08-06T02:42:16.322871Z",
+                "lead_time": 120.486,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5a224c79-a5df-404d-bce2-29617540730d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079103,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_6.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_6.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.497660Z",
+        "updated_at": "2025-08-06T03:00:48.731392Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079104,
+        "annotations": [
+            {
+                "id": 908886,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "xKFD3-lFBo",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.257788232372015,
+                            "y": 28.207880403435304,
+                            "width": 12.155041206494916,
+                            "height": 21.691682237797597,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:43:03.969048Z",
+                "updated_at": "2025-08-08T05:35:31.252916Z",
+                "draft_created_at": "2025-08-06T02:42:12.789469Z",
+                "lead_time": 69.28999999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e6ae8ea4-03af-4bed-933f-634e08f7b897",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079104,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_7.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_7.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.497785Z",
+        "updated_at": "2025-08-08T05:35:31.349138Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079105,
+        "annotations": [
+            {
+                "id": 908909,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "0sgFnl3vOL",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 69.24413938468736,
+                            "y": 46.17923223019649,
+                            "width": 2.898591881219488,
+                            "height": 3.149087475892756,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:45:28.523125Z",
+                "updated_at": "2025-08-06T02:45:28.523125Z",
+                "draft_created_at": "2025-08-06T02:43:31.843652Z",
+                "lead_time": 139.827,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "41cff1be-83f2-4422-be9f-195505ed8644",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079105,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_8.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_8.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.497864Z",
+        "updated_at": "2025-08-06T03:10:42.472440Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079106,
+        "annotations": [
+            {
+                "id": 908906,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "nJzURMXmjs",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 28.984149672453807,
+                            "y": 43.270227152108944,
+                            "width": 25.42415986095261,
+                            "height": 25.171025377993644,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:45:09.928854Z",
+                "updated_at": "2025-08-06T03:01:40.608788Z",
+                "draft_created_at": "2025-08-06T02:44:05.397837Z",
+                "lead_time": 90.049,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "107d76f4-4ef9-4b85-9e75-aba33debed0b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079106,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_9.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_9.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.497942Z",
+        "updated_at": "2025-08-06T03:01:40.644741Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079107,
+        "annotations": [
+            {
+                "id": 908918,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "lHxuxQtmGA",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.29394449677157,
+                            "y": 38.88801864659664,
+                            "width": 2.7826869216148253,
+                            "height": 15.59380110663377,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:46:12.314612Z",
+                "updated_at": "2025-08-06T02:46:12.314612Z",
+                "draft_created_at": null,
+                "lead_time": 39.793,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "77711997-53de-4f92-9f44-c57e191ff78d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079107,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_10.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_10.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498015Z",
+        "updated_at": "2025-08-06T03:10:54.467545Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079108,
+        "annotations": [
+            {
+                "id": 908955,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "epcY41iEJO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 29.76273223001825,
+                            "y": 56.349215740129935,
+                            "width": 4.466164181295796,
+                            "height": 12.75412059733224,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    },
+                    {
+                        "id": "N787QO-CtB",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.8284914231046,
+                            "y": 59.015582415530055,
+                            "width": 1.1998650039302983,
+                            "height": 7.065871689811644,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:49:11.009051Z",
+                "updated_at": "2025-08-08T05:35:45.416143Z",
+                "draft_created_at": "2025-08-06T02:47:22.168163Z",
+                "lead_time": 244.335,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "14c2aa2e-ab88-455a-9167-ac8cc23ba301",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079108,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_11.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_11.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498086Z",
+        "updated_at": "2025-08-08T05:35:45.544837Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079109,
+        "annotations": [
+            {
+                "id": 908912,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "5Qi1Stwbx1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.23125150013438,
+                            "y": 59.48725107197159,
+                            "width": 1.5782216138501404,
+                            "height": 6.046519938295388,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:45:51.372211Z",
+                "updated_at": "2025-08-08T05:35:32.908275Z",
+                "draft_created_at": "2025-08-06T02:45:27.012084Z",
+                "lead_time": 39.637,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1e3abc56-9525-4346-9628-8db9eb8e83ca",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079109,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_12.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_12.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498161Z",
+        "updated_at": "2025-08-08T05:35:32.988794Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079110,
+        "annotations": [
+            {
+                "id": 908973,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "w530lBCn9k",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.81125107254778,
+                            "y": 14.15734028709453,
+                            "width": 31.073279968365572,
+                            "height": 49.55069100483085,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:51:49.221166Z",
+                "updated_at": "2025-08-06T02:51:49.221166Z",
+                "draft_created_at": "2025-08-06T02:50:50.512943Z",
+                "lead_time": 85.584,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "69c5a7f8-2c1b-41e2-a2e1-91608280575a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079110,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_14.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_14.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498232Z",
+        "updated_at": "2025-08-06T03:12:41.623375Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079111,
+        "annotations": [
+            {
+                "id": 908994,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "aXyCIGL2yv",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.64549385575734,
+                            "y": 24.940051834830534,
+                            "width": 3.145646085303681,
+                            "height": 18.28238750432935,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:53:32.228781Z",
+                "updated_at": "2025-08-06T02:53:32.228781Z",
+                "draft_created_at": "2025-08-06T02:52:48.352721Z",
+                "lead_time": 100.414,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d6628bce-bda0-4b41-b8d3-17f3998946cb",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079111,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_15.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_15.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498302Z",
+        "updated_at": "2025-08-06T03:12:54.661458Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079112,
+        "annotations": [
+            {
+                "id": 908999,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "kKChfsU75V",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 59.49605361907777,
+                            "y": 56.210634578676554,
+                            "width": 3.9925508005777886,
+                            "height": 7.743128825362966,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:53:53.641279Z",
+                "updated_at": "2025-08-06T02:53:53.641279Z",
+                "draft_created_at": "2025-08-06T02:53:49.270592Z",
+                "lead_time": 20.139,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6f04a555-842f-4645-8ceb-66312a17e60a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079112,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_16.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_16.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498374Z",
+        "updated_at": "2025-08-06T03:13:30.370329Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079113,
+        "annotations": [
+            {
+                "id": 908927,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "GWa0UhCUjx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 19.974803598732326,
+                            "y": 18.253614818934714,
+                            "width": 31.991136796960085,
+                            "height": 49.10349195287455,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    },
+                    {
+                        "id": "NO8l4Lj5H7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.2109815245935,
+                            "y": 48.456117902159654,
+                            "width": 33.78901847540647,
+                            "height": 51.54388209784027,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:47:04.362391Z",
+                "updated_at": "2025-08-06T03:10:16.679428Z",
+                "draft_created_at": "2025-08-06T02:46:14.333344Z",
+                "lead_time": 159.718,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3691d58c-04a1-447d-82f4-5f45a4810c8f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079113,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_17.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_17.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498445Z",
+        "updated_at": "2025-08-06T03:10:16.705488Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079114,
+        "annotations": [
+            {
+                "id": 909022,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "rHYcqOZ1Mf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.72292845912128,
+                            "y": 64.3568157573613,
+                            "width": 1.8780757011178566,
+                            "height": 5.655929311455508,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    },
+                    {
+                        "id": "mBpRbYI-Bi",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.60938365881458,
+                            "y": 22.777780300940275,
+                            "width": 1.5735078615107128,
+                            "height": 3.603104958242204,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    },
+                    {
+                        "id": "dyNhydStQB",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.1486848276839,
+                            "y": 21.044641207102266,
+                            "width": 0.3762736190569287,
+                            "height": 3.1242112612605912,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8000,
+                        "original_height": 6000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:55:38.830159Z",
+                "updated_at": "2025-08-06T03:47:01.739590Z",
+                "draft_created_at": "2025-08-06T02:54:23.463166Z",
+                "lead_time": 112.21799999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "75b072db-9293-4765-bf82-af3d80965359",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079114,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_18.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_18.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498517Z",
+        "updated_at": "2025-08-06T03:47:01.870210Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079115,
+        "annotations": [
+            {
+                "id": 909036,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "sCuJ7-VIkH",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.06851477031922,
+                            "y": 45.194469138902846,
+                            "width": 4.1144834888134145,
+                            "height": 15.374678521355827,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5472,
+                        "original_height": 3078
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:57:11.403844Z",
+                "updated_at": "2025-08-06T02:57:11.403844Z",
+                "draft_created_at": "2025-08-06T02:56:02.314258Z",
+                "lead_time": 91.257,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "20394409-2fb9-4961-ba62-219bb3bae7f4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079115,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_19.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_19.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498588Z",
+        "updated_at": "2025-08-06T03:15:08.324099Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079116,
+        "annotations": [
+            {
+                "id": 908933,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "XSDrQVgXs8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.107883790621116,
+                            "y": 36.8044764512783,
+                            "width": 0.8370051911355064,
+                            "height": 10.095969592306634,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:47:32.962687Z",
+                "updated_at": "2025-08-06T02:47:32.962714Z",
+                "draft_created_at": "2025-08-06T02:47:18.718500Z",
+                "lead_time": 24.991,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e4669afe-d14b-4a4b-98e6-c25df66cd1f9",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079116,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_21.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_21.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498659Z",
+        "updated_at": "2025-08-06T03:06:56.749582Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079117,
+        "annotations": [
+            {
+                "id": 909046,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qm4kKkdtre",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.02273705926645,
+                            "y": 21.534591514399136,
+                            "width": 18.20159548307847,
+                            "height": 26.09058012051638,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:58:35.000247Z",
+                "updated_at": "2025-08-08T05:35:34.299303Z",
+                "draft_created_at": "2025-08-06T02:57:44.281941Z",
+                "lead_time": 68.656,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "237ddb89-7f28-4a28-8bc6-576ab3364c11",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079117,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_22.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_22.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498729Z",
+        "updated_at": "2025-08-08T05:35:34.379248Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079118,
+        "annotations": [
+            {
+                "id": 909050,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "UnfUK0Dd7D",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.60051704216495,
+                            "y": 55.56143086705053,
+                            "width": 1.3175417641906648,
+                            "height": 10.280078950228415,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:59:10.195976Z",
+                "updated_at": "2025-08-06T02:59:10.195976Z",
+                "draft_created_at": "2025-08-06T02:59:05.319021Z",
+                "lead_time": 32.593,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "89046ef5-e801-461d-aeae-2de20147de42",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079118,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_24.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_24.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498798Z",
+        "updated_at": "2025-08-06T03:15:49.049579Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079119,
+        "annotations": [
+            {
+                "id": 908941,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "KASl_0TEGP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.14985552470157,
+                            "y": 40.254138110646956,
+                            "width": 14.155315001069807,
+                            "height": 6.510238305832868,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:48:11.419705Z",
+                "updated_at": "2025-08-06T02:48:11.419737Z",
+                "draft_created_at": "2025-08-06T02:47:48.867188Z",
+                "lead_time": 36.636,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "97516012-02b8-434e-9524-761f1042bf96",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079119,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_25.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_25.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498868Z",
+        "updated_at": "2025-08-06T03:07:01.114151Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079120,
+        "annotations": [
+            {
+                "id": 909056,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "JNuWCkSzLu",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 60.61549400438846,
+                            "y": 44.946066701378456,
+                            "width": 21.35221376735882,
+                            "height": 15.02973568039723,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T03:00:01.942624Z",
+                "updated_at": "2025-08-06T03:46:49.031590Z",
+                "draft_created_at": "2025-08-06T02:59:46.367576Z",
+                "lead_time": 74.822,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f6e2f30b-ea78-4436-bd0d-41345b5bd167",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079120,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_29.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_29.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.498940Z",
+        "updated_at": "2025-08-06T03:46:49.104374Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079121,
+        "annotations": [
+            {
+                "id": 908950,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "QE9l4eHty-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.52385138531287,
+                            "y": 72.98171542652773,
+                            "width": 2.180997905190786,
+                            "height": 12.6789220769196,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5472,
+                        "original_height": 3076
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:48:36.309889Z",
+                "updated_at": "2025-08-06T02:48:45.929016Z",
+                "draft_created_at": "2025-08-06T02:48:24.772915Z",
+                "lead_time": 32.127,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f71a4dc7-587d-4fd1-b322-1f1d6ac27b8c",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079121,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_31.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_31.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499009Z",
+        "updated_at": "2025-08-06T03:07:06.409180Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079122,
+        "annotations": [
+            {
+                "id": 909059,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "LjCPFaSSyV",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.690030147856284,
+                            "y": 53.214630952143125,
+                            "width": 0.7657168147809021,
+                            "height": 4.497723993127205,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T03:00:25.159361Z",
+                "updated_at": "2025-08-06T03:00:25.159361Z",
+                "draft_created_at": "2025-08-06T03:00:18.896494Z",
+                "lead_time": 22.013,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f3d21bac-3b78-4f37-9843-b2729b1ced58",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079122,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_32.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_32.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499078Z",
+        "updated_at": "2025-08-06T03:16:37.506600Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079123,
+        "annotations": [
+            {
+                "id": 908958,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "bsE_Z87aMy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.85359402329815,
+                            "y": 47.79811812266963,
+                            "width": 1.738442263276031,
+                            "height": 15.959469957943998,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:49:38.729224Z",
+                "updated_at": "2025-08-08T05:35:35.716493Z",
+                "draft_created_at": "2025-08-06T02:48:59.769010Z",
+                "lead_time": 61.805,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "81a449f8-5bb9-463e-b0a5-e8b8e98d0f09",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079123,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_34.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_34.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499146Z",
+        "updated_at": "2025-08-08T05:35:35.795257Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079124,
+        "annotations": [
+            {
+                "id": 908963,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ObulkiIEAS",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.38729603932024,
+                            "y": 37.94819938579905,
+                            "width": 5.932984773326666,
+                            "height": 14.370431823603447,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 960
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:50:39.083729Z",
+                "updated_at": "2025-08-08T05:35:37.137763Z",
+                "draft_created_at": null,
+                "lead_time": 30.410000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "278a55a8-0a7c-472b-aec0-44b5979acf9b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079124,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_106.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_106.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499215Z",
+        "updated_at": "2025-08-08T05:35:37.223880Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079125,
+        "annotations": [
+            {
+                "id": 908975,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "zkOi8DJzfd",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.82733558560989,
+                            "y": 49.66405391517562,
+                            "width": 11.72223122825927,
+                            "height": 18.108295133682077,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 862,
+                        "original_height": 647
+                    },
+                    {
+                        "id": "9kd9KF3Ik7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 18.516540235068263,
+                            "y": 11.472098864503756,
+                            "width": 20.918119519393098,
+                            "height": 9.760976930795165,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 862,
+                        "original_height": 647
+                    },
+                    {
+                        "id": "lWBb_TzUDz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.57594566986473,
+                            "y": 17.207601937508123,
+                            "width": 15.801126734016854,
+                            "height": 14.993350144481779,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 862,
+                        "original_height": 647
+                    },
+                    {
+                        "id": "FyQ9p6axm9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.3180721380361,
+                            "y": 2.3366259965426144,
+                            "width": 6.180144705693692,
+                            "height": 15.688774548214695,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 862,
+                        "original_height": 647
+                    },
+                    {
+                        "id": "h0bej7Q_9k",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 61.39369875963598,
+                            "y": 1.123019905324377e-16,
+                            "width": 1.822155687182416,
+                            "height": 1.972476490587921,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 862,
+                        "original_height": 647
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:52:03.862726Z",
+                "updated_at": "2025-08-06T02:52:03.862754Z",
+                "draft_created_at": "2025-08-06T02:51:04.907458Z",
+                "lead_time": 67.211,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c0271cbd-ed91-4622-b962-0dacc4a6f725",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079125,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_108.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_108.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499283Z",
+        "updated_at": "2025-08-06T03:07:20.753264Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079126,
+        "annotations": [
+            {
+                "id": 909063,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "uhu_0bJgKH",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.36291482188301,
+                            "y": 24.507773281135414,
+                            "width": 12.080686829393612,
+                            "height": 10.47858857603316,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2736,
+                        "original_height": 2052
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T03:00:56.645821Z",
+                "updated_at": "2025-08-06T03:00:56.645821Z",
+                "draft_created_at": "2025-08-06T03:00:46.380629Z",
+                "lead_time": 30.069,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ee2ea64f-4835-4733-800e-938bbc62b537",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079126,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_109.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_109.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499377Z",
+        "updated_at": "2025-08-06T03:16:45.839878Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079127,
+        "annotations": [
+            {
+                "id": 908982,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "-eFQuenAT3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.8078398479231,
+                            "y": 48.478751449079674,
+                            "width": 36.8856833579197,
+                            "height": 18.83134118275946,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3648,
+                        "original_height": 2736
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:52:49.963074Z",
+                "updated_at": "2025-08-08T05:35:38.582858Z",
+                "draft_created_at": "2025-08-06T02:52:18.741142Z",
+                "lead_time": 49.184000000000005,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4d46f698-9888-4cd3-b028-084dc4dbd5d5",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079127,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_111.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_111.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499449Z",
+        "updated_at": "2025-08-08T05:35:38.660703Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079128,
+        "annotations": [
+            {
+                "id": 909000,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "SjLme7oise",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.86830774742996,
+                            "y": 80.47638826263479,
+                            "width": 1.957993675613496,
+                            "height": 4.367212231203837,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4032,
+                        "original_height": 3024
+                    },
+                    {
+                        "id": "e7EXmbD3J5",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.89313888563112,
+                            "y": 79.52384912857609,
+                            "width": 1.4866248277805563,
+                            "height": 4.173830139785113,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4032,
+                        "original_height": 3024
+                    },
+                    {
+                        "id": "xZL_CHj-t7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.16692558001439,
+                            "y": 56.143427141532165,
+                            "width": 1.8686627523035175,
+                            "height": 5.268590815522415,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4032,
+                        "original_height": 3024
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:53:55.254631Z",
+                "updated_at": "2025-08-08T05:35:40.058012Z",
+                "draft_created_at": "2025-08-06T02:53:09.384207Z",
+                "lead_time": 88.404,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "189b8718-99d7-4e48-8d60-ea8bc96bff7e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079128,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_112.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_112.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499519Z",
+        "updated_at": "2025-08-08T05:35:40.130284Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079129,
+        "annotations": [
+            {
+                "id": 909011,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "0a05mvMC3z",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.66606171780695,
+                            "y": 18.15616374039145,
+                            "width": 22.603393303019214,
+                            "height": 37.24654162626904,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3456,
+                        "original_height": 2592
+                    },
+                    {
+                        "id": "HIVzujvPe7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.365707946152256,
+                            "y": 0,
+                            "width": 38.478538741498504,
+                            "height": 29.11176810500627,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3456,
+                        "original_height": 2592
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:54:47.615455Z",
+                "updated_at": "2025-08-06T02:54:47.615498Z",
+                "draft_created_at": "2025-08-06T02:54:05.546408Z",
+                "lead_time": 50.5,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2fea5047-67d7-47f1-8d5f-4208cddf9885",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079129,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_113.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_113.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499587Z",
+        "updated_at": "2025-08-06T03:08:31.836235Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079130,
+        "annotations": [
+            {
+                "id": 909069,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "h7KgrDzOzw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 60.559267330893654,
+                            "y": 57.2380046319301,
+                            "width": 3.3329583442506214,
+                            "height": 7.554705580301331,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T03:01:50.183825Z",
+                "updated_at": "2025-08-08T05:35:41.357182Z",
+                "draft_created_at": "2025-08-06T03:01:22.650135Z",
+                "lead_time": 35.436,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "fe84928e-bcb9-4d67-979c-de9b75f5898c",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079130,
+                "project": 600,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_0.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_0.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499656Z",
+        "updated_at": "2025-08-08T05:35:41.430353Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 23,
+        "batch": 21364,
+        "comment_authors": []
+    },
+    {
+        "id": 1079131,
+        "annotations": [
+            {
+                "id": 909020,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ncB2hf7hs2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.687730000704875,
+                            "y": 30.586794322375926,
+                            "width": 5.026196707534356,
+                            "height": 8.808798353410824,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:55:20.585890Z",
+                "updated_at": "2025-08-06T02:55:20.585934Z",
+                "draft_created_at": "2025-08-06T02:55:01.063466Z",
+                "lead_time": 29.149,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2ff4b5ee-031f-4571-91fb-0b0ceb6934bf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079131,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_2.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_2.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499726Z",
+        "updated_at": "2025-08-06T03:08:54.234937Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    },
+    {
+        "id": 1079132,
+        "annotations": [
+            {
+                "id": 909028,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "spPYnbkaEx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.02193854134001,
+                            "y": 71.85855695393741,
+                            "width": 4.167988389106714,
+                            "height": 9.94467405120232,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "异物"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4864,
+                        "original_height": 3648
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-06T02:56:01.576394Z",
+                "updated_at": "2025-08-06T02:56:01.576427Z",
+                "draft_created_at": "2025-08-06T02:55:46.407999Z",
+                "lead_time": 39.254,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "301252f7-b849-4d7b-8a69-26fdc965be42",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1079132,
+                "project": 600,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sample_images_20250515_5.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sample_images_20250515_5.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-06T02:18:12.499794Z",
+        "updated_at": "2025-08-06T03:09:01.278565Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 600,
+        "updated_by": 99,
+        "batch": 21365,
+        "comment_authors": []
+    }
+]

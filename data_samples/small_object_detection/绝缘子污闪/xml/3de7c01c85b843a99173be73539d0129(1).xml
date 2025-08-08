@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>3de7c01c85b843a99173be73539d0129(1).png</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\绝缘子污闪\绝缘子污闪爬电-已截图\3de7c01c85b843a99173be73539d0129(1).png</path>
+  <source>Unknown</source>
+  <size>
+    <width>1920</width>
+    <height>937</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绝缘子污闪</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>964</xmin>
+      <ymin>766</ymin>
+      <xmax>988</xmax>
+      <ymax>780</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>绝缘子污闪</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1099</xmin>
+      <ymin>782</ymin>
+      <xmax>1120</xmax>
+      <ymax>793</ymax>
+    </bndbox>
+  </object>
+</annotation>

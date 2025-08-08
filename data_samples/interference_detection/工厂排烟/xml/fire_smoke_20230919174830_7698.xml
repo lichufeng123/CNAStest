@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>fire_smoke_20230919174830_7698.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工厂排烟\工厂排烟-已截图\fire_smoke_20230919174830_7698.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>405</width>
+    <height>228</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>工厂排烟</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3</xmin>
+      <ymin>4</ymin>
+      <xmax>251</xmax>
+      <ymax>112</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>工厂排烟</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>4</ymin>
+      <xmax>372</xmax>
+      <ymax>123</ymax>
+    </bndbox>
+  </object>
+</annotation>

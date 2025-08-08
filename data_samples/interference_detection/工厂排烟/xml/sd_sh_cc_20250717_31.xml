@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>sd_sh_cc_20250717_31.jpeg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工厂排烟\工厂排烟-已截图\sd_sh_cc_20250717_31.jpeg</path>
+  <source>Unknown</source>
+  <size>
+    <width>3840</width>
+    <height>2048</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>工厂排烟</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1760</xmin>
+      <ymin>693</ymin>
+      <xmax>1980</xmax>
+      <ymax>964</ymax>
+    </bndbox>
+  </object>
+</annotation>

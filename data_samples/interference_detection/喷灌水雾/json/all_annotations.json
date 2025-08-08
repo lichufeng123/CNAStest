@@ -1,0 +1,2623 @@
+[
+    {
+        "id": 1083273,
+        "annotations": [
+            {
+                "id": 914683,
+                "completed_by": 23,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:37:02.182183Z",
+                "updated_at": "2025-08-08T02:33:17.105343Z",
+                "draft_created_at": "2025-08-08T01:37:00.707608Z",
+                "lead_time": 329.207,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1484b11e-fc66-4987-9726-3ee34ab7d12a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083273,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091312_868.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091312_868.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:33:17.224348Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083274,
+        "annotations": [
+            {
+                "id": 914700,
+                "completed_by": 99,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:41:59.344418Z",
+                "updated_at": "2025-08-08T01:41:59.344418Z",
+                "draft_created_at": null,
+                "lead_time": 2.083,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d978aa32-5cf7-4005-91e0-5a6b7d0244db",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083274,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091639_875.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091639_875.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:12:28.564731Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083275,
+        "annotations": [
+            {
+                "id": 914709,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "L-J5evZEjZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.12590360145681,
+                            "y": 36.184210526315816,
+                            "width": 16.113130608262473,
+                            "height": 13.552631578947388,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1021,
+                        "original_height": 767
+                    },
+                    {
+                        "id": "uo5UhZk-wM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.20498803221239,
+                            "y": 36.84210526315788,
+                            "width": 9.984786046244494,
+                            "height": 10.921052631578974,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1021,
+                        "original_height": 767
+                    },
+                    {
+                        "id": "R8IYx5ANwj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.51853321745292,
+                            "y": 41.57894736842108,
+                            "width": 9.490303064356057,
+                            "height": 5.657894736842091,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1021,
+                        "original_height": 767
+                    },
+                    {
+                        "id": "vT0WZSITCw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.61494307917591,
+                            "y": 37.36842105263151,
+                            "width": 4.2496105893986265,
+                            "height": 11.447368421052612,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1021,
+                        "original_height": 767
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:43:39.058637Z",
+                "updated_at": "2025-08-08T05:40:47.596094Z",
+                "draft_created_at": "2025-08-08T01:42:51.795435Z",
+                "lead_time": 96.461,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f2e52c40-88cf-4de1-a023-2b71f63ff2db",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083275,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091743_193.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091743_193.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:47.676342Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083276,
+        "annotations": [
+            {
+                "id": 914711,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Pa8wM4MDFN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.31826741996222,
+                            "y": 43.338430198243614,
+                            "width": 25.70621468926568,
+                            "height": 6.8900190411114615,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 936,
+                        "original_height": 665
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:44:37.894176Z",
+                "updated_at": "2025-08-08T05:40:49.054256Z",
+                "draft_created_at": "2025-08-08T01:44:25.668468Z",
+                "lead_time": 57.875,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "66484539-1ec2-4fc6-8bef-192bc9dc595e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083276,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091759_905.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091759_905.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:49.126410Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083277,
+        "annotations": [
+            {
+                "id": 914713,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "NHo13n4iXI",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.00895063167211,
+                            "y": 36.31578947368421,
+                            "width": 23.22269358071884,
+                            "height": 7.894736842105261,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1129,
+                        "original_height": 820
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:45:05.893434Z",
+                "updated_at": "2025-08-08T01:45:05.893434Z",
+                "draft_created_at": null,
+                "lead_time": 26.485,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "23d1502d-6236-461b-bd8a-9bdc98faf321",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083277,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091824_337.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091824_337.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:13:14.907281Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083278,
+        "annotations": [
+            {
+                "id": 914716,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "_HB_fsgIxZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.49117920148563,
+                            "y": 44.357764053167095,
+                            "width": 46.61095636025981,
+                            "height": 33.060864129041576,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 426
+                    },
+                    {
+                        "id": "7gcppOVp2X",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 77.90157845868151,
+                            "y": 54.12356528524279,
+                            "width": 6.22098421541319,
+                            "height": 11.298991721919247,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 426
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:45:44.109709Z",
+                "updated_at": "2025-08-08T05:40:50.472397Z",
+                "draft_created_at": "2025-08-08T01:45:27.704437Z",
+                "lead_time": 59.675000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "50b91008-353d-4f80-9da4-148b4ac0d385",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083278,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091904_118.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091904_118.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:50.562453Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083279,
+        "annotations": [
+            {
+                "id": 914722,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qpZc8G6rV1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.05680879304739,
+                            "y": 57.23905723905707,
+                            "width": 32.1746919542161,
+                            "height": 29.80830971179676,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 636,
+                        "original_height": 351
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:46:44.423537Z",
+                "updated_at": "2025-08-08T02:35:18.270451Z",
+                "draft_created_at": "2025-08-08T01:46:38.680286Z",
+                "lead_time": 53.282,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "19c3df44-2e70-4a45-a601-1c572b8e79e7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083279,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_091923_264.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_091923_264.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:35:18.343857Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083280,
+        "annotations": [
+            {
+                "id": 914726,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "pFjLTmAEIe",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.44661095636026,
+                            "y": 41.89260290931598,
+                            "width": 24.883936861652696,
+                            "height": 45.70123555888607,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 642,
+                        "original_height": 360
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:47:17.102797Z",
+                "updated_at": "2025-08-08T02:35:35.909446Z",
+                "draft_created_at": "2025-08-08T01:47:15.704252Z",
+                "lead_time": 34.531,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a12cbf6e-540d-41f0-9162-531b2aabf6a7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083280,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092043_105.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092043_105.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:35:36.005719Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083281,
+        "annotations": [
+            {
+                "id": 914731,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "sS9SMoBLCv",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.15299263459555,
+                            "y": 0,
+                            "width": 83.84700736540418,
+                            "height": 95.15260323159777,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 331
+                    },
+                    {
+                        "id": "R3wnEyZTbE",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.584374271165622,
+                            "y": 23.698384201077157,
+                            "width": 44.755727532717785,
+                            "height": 76.30161579892285,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 331
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:48:05.363828Z",
+                "updated_at": "2025-08-08T01:48:44.420373Z",
+                "draft_created_at": "2025-08-08T01:47:51.178245Z",
+                "lead_time": 83.455,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "05b51d5e-cbe4-4c01-a45e-6109ed134034",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083281,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092110_099.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092110_099.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:14:26.472904Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083282,
+        "annotations": [
+            {
+                "id": 914736,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "A_5WsrhD5j",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 1.7529837230923524e-15,
+                            "width": 68.98841651958801,
+                            "height": 55.65789473684213,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1124,
+                        "original_height": 821
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:49:24.326856Z",
+                "updated_at": "2025-08-08T01:49:24.326856Z",
+                "draft_created_at": "2025-08-08T01:49:15.143263Z",
+                "lead_time": 38.503,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c6f0a06e-2d5b-448d-84fa-b7efc75e5521",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083282,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092140_722.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092140_722.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:14:33.612191Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083283,
+        "annotations": [
+            {
+                "id": 914739,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "YmsgrSwGvt",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.81151346332398,
+                            "y": 44.607368387650666,
+                            "width": 24.512534818941443,
+                            "height": 31.332201499402316,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 385
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:49:55.653895Z",
+                "updated_at": "2025-08-08T02:24:57.016336Z",
+                "draft_created_at": "2025-08-08T01:49:54.447068Z",
+                "lead_time": 48.578,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "31ff7dbd-d8e1-46ca-b4ad-9bbd0000d235",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083283,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092219_025.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092219_025.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:24:57.147044Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083284,
+        "annotations": [
+            {
+                "id": 914741,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "2jGB4xTmu-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.29474427458897,
+                            "y": 29.47368421052631,
+                            "width": 34.444426661601106,
+                            "height": 45.52631578947359,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1130,
+                        "original_height": 824
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:50:15.098088Z",
+                "updated_at": "2025-08-08T02:36:03.551142Z",
+                "draft_created_at": "2025-08-08T01:50:11.214145Z",
+                "lead_time": 51.512,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4030f0b8-5ee4-4b47-9ef2-82887a4ae075",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083284,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092236_567.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092236_567.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:36:03.674851Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083285,
+        "annotations": [
+            {
+                "id": 914750,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "dyTfQfodNJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 25.998142989786395,
+                            "y": 20.720213883522938,
+                            "width": 55.33890436397405,
+                            "height": 55.08240974252113,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 639,
+                        "original_height": 418
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:51:21.248422Z",
+                "updated_at": "2025-08-08T05:40:51.895753Z",
+                "draft_created_at": "2025-08-08T01:51:08.991017Z",
+                "lead_time": 42.748000000000005,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3318fa2a-b7ce-4b09-a39c-f8581ee03ebc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083285,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092306_139.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092306_139.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:51.987981Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083286,
+        "annotations": [
+            {
+                "id": 914759,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "RDWVIunVWZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.710700450566854,
+                            "y": 66.28172277402604,
+                            "width": 6.517331339742054,
+                            "height": 3.2430814872679727,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1019,
+                        "original_height": 627
+                    },
+                    {
+                        "id": "siw4CtcY_d",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 17.25209412097606,
+                            "y": 76.17086329227261,
+                            "width": 10.709129519889366,
+                            "height": 16.481195907806264,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1019,
+                        "original_height": 627
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:52:39.262271Z",
+                "updated_at": "2025-08-08T05:40:53.787792Z",
+                "draft_created_at": "2025-08-08T01:52:07.840317Z",
+                "lead_time": 69.476,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a0acdb9d-713b-4c88-9560-3b2504e820ed",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083286,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092332_364.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092332_364.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:53.864972Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083287,
+        "annotations": [
+            {
+                "id": 914765,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "-AD0ejeNV9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 29.52765189171388,
+                            "y": 30.263157894736807,
+                            "width": 42.32392540834372,
+                            "height": 42.89473684210521,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 639,
+                        "original_height": 478
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:53:46.812718Z",
+                "updated_at": "2025-08-08T02:36:52.750736Z",
+                "draft_created_at": "2025-08-08T01:53:39.717392Z",
+                "lead_time": 69.837,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3fffeccf-d19f-4dce-8dbe-bced0a11c455",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083287,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092347_908.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092347_908.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:36:52.825843Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083288,
+        "annotations": [
+            {
+                "id": 914768,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Yz1GV4BhUz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.717894492622754,
+                            "y": 22.53756260434053,
+                            "width": 23.28116156029379,
+                            "height": 21.441220322751352,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 636,
+                        "original_height": 354
+                    },
+                    {
+                        "id": "gXQvHKYofQ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 52.03629146484998,
+                            "y": 53.088480801335514,
+                            "width": 10.221559670690322,
+                            "height": 10.183639398998356,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 636,
+                        "original_height": 354
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:54:32.069298Z",
+                "updated_at": "2025-08-08T02:25:46.632649Z",
+                "draft_created_at": "2025-08-08T01:54:26.050554Z",
+                "lead_time": 87.90899999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6b806e39-7b7b-4de1-89ae-7615bc610c2d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083288,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092410_484.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092410_484.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:25:46.749794Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083289,
+        "annotations": [
+            {
+                "id": 914774,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "G18bdRwif2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 36.30454967502323,
+                            "y": 73.46759677474499,
+                            "width": 19.591457753017597,
+                            "height": 19.33341874272568,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 638,
+                        "original_height": 383
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:55:57.293357Z",
+                "updated_at": "2025-08-08T01:55:57.293357Z",
+                "draft_created_at": "2025-08-08T01:55:53.096023Z",
+                "lead_time": 82.983,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d4e4773c-d199-4b93-b86e-b30050f38fec",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083289,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092428_209.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092428_209.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:16:26.246885Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083290,
+        "annotations": [
+            {
+                "id": 914780,
+                "completed_by": 99,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:56:52.511856Z",
+                "updated_at": "2025-08-08T01:56:52.511856Z",
+                "draft_created_at": null,
+                "lead_time": 53.919,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "63824be0-e166-42b4-aca3-54d9f48a61d6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083290,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092445_142.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092445_142.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:16:31.530933Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083291,
+        "annotations": [
+            {
+                "id": 914783,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ZHWMpwhTiP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 60.72465928006552,
+                            "y": 60.8499130907431,
+                            "width": 39.27534071993416,
+                            "height": 17.571139540836143,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1128,
+                        "original_height": 825
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:57:15.849506Z",
+                "updated_at": "2025-08-08T02:37:20.763860Z",
+                "draft_created_at": "2025-08-08T01:57:14.203959Z",
+                "lead_time": 37.708,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "57f87c2b-8bb9-4b3d-bd90-174685661663",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083291,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092503_255.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092503_255.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:37:21.005841Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083292,
+        "annotations": [
+            {
+                "id": 914813,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "KqiKsIny9a",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.02169599407311,
+                            "y": 74.15730337078652,
+                            "width": 18.20846718792561,
+                            "height": 25.842696629213474,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 498,
+                        "original_height": 247
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:01:48.590984Z",
+                "updated_at": "2025-08-08T02:37:35.621866Z",
+                "draft_created_at": "2025-08-08T02:01:39.416895Z",
+                "lead_time": 77.896,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e7af2207-bb2d-47f9-9ab2-8394471c6831",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083292,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092518_894.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092518_894.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:37:35.696586Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083293,
+        "annotations": [
+            {
+                "id": 914826,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "KXQJAvApy8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 37.419336488275796,
+                            "width": 53.10734463276836,
+                            "height": 59.09925638966407,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 638,
+                        "original_height": 427
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:03:04.053431Z",
+                "updated_at": "2025-08-08T05:40:55.330759Z",
+                "draft_created_at": "2025-08-08T02:02:53.774578Z",
+                "lead_time": 74.561,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "29b60127-5db5-4ba1-98ca-9c7284b65b55",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083293,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092535_029.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092535_029.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T05:40:55.405047Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083294,
+        "annotations": [
+            {
+                "id": 914842,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "oXXNK_4ZUO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.910649931832744,
+                            "y": 51.69771803905686,
+                            "width": 9.754129045259438,
+                            "height": 9.862728450917196,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 636,
+                        "original_height": 416
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:03:55.752761Z",
+                "updated_at": "2025-08-08T02:26:46.030563Z",
+                "draft_created_at": "2025-08-08T02:03:54.140331Z",
+                "lead_time": 103.42699999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1852648f-1e9e-4fb9-89f2-ca77acd45e3d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083294,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092554_069.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092554_069.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:26:46.139476Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083295,
+        "annotations": [
+            {
+                "id": 914848,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "DBQOQ32UR8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 26.55367231638412,
+                            "y": 35.96323074960504,
+                            "width": 33.05084745762716,
+                            "height": 54.500155678696416,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 639,
+                        "original_height": 435
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:04:32.730320Z",
+                "updated_at": "2025-08-08T02:27:40.815572Z",
+                "draft_created_at": "2025-08-08T02:04:22.956417Z",
+                "lead_time": 96.03399999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0580b754-6615-4363-b85a-817dcd4b7570",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083295,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092620_682.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092620_682.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.723635Z",
+        "updated_at": "2025-08-08T02:27:40.970423Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083296,
+        "annotations": [
+            {
+                "id": 914853,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "5X4I-qnGjG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.77437325905299,
+                            "y": 21.872319713721243,
+                            "width": 10.565459030911603,
+                            "height": 4.37242945555032,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 637,
+                        "original_height": 311
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:05:08.194301Z",
+                "updated_at": "2025-08-08T02:28:09.685468Z",
+                "draft_created_at": "2025-08-08T02:05:05.938862Z",
+                "lead_time": 42.382999999999996,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "84f8fb7a-f0c2-4387-9723-a46a233a2233",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083296,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092640_663.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092640_663.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724633Z",
+        "updated_at": "2025-08-08T02:28:09.778169Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083297,
+        "annotations": [
+            {
+                "id": 914858,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "alK2VtKE0b",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.119777158774372,
+                            "y": 0.8162137152700335,
+                            "width": 14.577530176415983,
+                            "height": 46.415612321506195,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 297,
+                        "original_height": 167
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:05:42.431127Z",
+                "updated_at": "2025-08-08T05:40:57.731406Z",
+                "draft_created_at": "2025-08-08T02:05:29.083907Z",
+                "lead_time": 33.736,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6ed7b117-f8fd-443e-aa27-ce466487cb3e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083297,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092655_692.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092655_692.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724633Z",
+        "updated_at": "2025-08-08T05:40:57.809082Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083298,
+        "annotations": [
+            {
+                "id": 914864,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "q74rlBTW4H",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 24.512534818941496,
+                            "y": 72.59888261418598,
+                            "width": 27.29805013927572,
+                            "height": 17.79916949305756,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 800,
+                        "original_height": 530
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:06:25.426846Z",
+                "updated_at": "2025-08-08T02:06:25.426846Z",
+                "draft_created_at": "2025-08-08T02:06:21.219881Z",
+                "lead_time": 40.833,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "032b10b3-984e-4c74-a75e-f7186a7e502f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083298,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092713_960.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092713_960.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:18:41.746989Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083299,
+        "annotations": [
+            {
+                "id": 914869,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "vbMjBDcKCy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 10.494905274003083,
+                            "y": 78.68162692847113,
+                            "width": 7.804476231284796,
+                            "height": 9.537166900420775,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 838,
+                        "original_height": 555
+                    },
+                    {
+                        "id": "9ITSCpm5Yc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.69355675538165,
+                            "y": 79.66339410939692,
+                            "width": 6.502157343839443,
+                            "height": 7.293127629733519,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 838,
+                        "original_height": 555
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:06:54.089318Z",
+                "updated_at": "2025-08-08T05:40:59.281802Z",
+                "draft_created_at": "2025-08-08T02:06:45.382151Z",
+                "lead_time": 27.546999999999997,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ffcaeb82-a835-4ae1-82f7-77f0bd3ae7cf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083299,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092738_694.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092738_694.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T05:40:59.397611Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083300,
+        "annotations": [
+            {
+                "id": 914878,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qvaOHzhirY",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 28.693191432230247,
+                            "y": 0,
+                            "width": 40.76476064320076,
+                            "height": 83.309143686502,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 639,
+                        "original_height": 409
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:07:22.760372Z",
+                "updated_at": "2025-08-08T02:30:05.008633Z",
+                "draft_created_at": "2025-08-08T02:07:17.089438Z",
+                "lead_time": 133.44,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "189ef3b8-81ba-45ad-8690-74bc7b765cff",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083300,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092804_610.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092804_610.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:30:05.095266Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083301,
+        "annotations": [
+            {
+                "id": 914882,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "OnOYPirIlX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 9.792843691148775,
+                            "y": 33.07272573506383,
+                            "width": 47.740112994350284,
+                            "height": 30.411938665924776,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 430
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:07:47.281822Z",
+                "updated_at": "2025-08-08T02:07:47.281822Z",
+                "draft_created_at": "2025-08-08T02:07:43.520415Z",
+                "lead_time": 13.324,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "038201ba-9e70-4ed1-ae41-cda6a9b1c884",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083301,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092821_619.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092821_619.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:19:33.511000Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083302,
+        "annotations": [
+            {
+                "id": 914895,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "o0zHfE48_5",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.23752165276296,
+                            "y": 47.810218978102185,
+                            "width": 3.7160284467725693,
+                            "height": 11.313868613138652,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 495,
+                        "original_height": 252
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:09:00.833142Z",
+                "updated_at": "2025-08-08T02:09:00.833142Z",
+                "draft_created_at": "2025-08-08T02:08:52.178615Z",
+                "lead_time": 64.135,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "36afb217-af4a-49bf-b94f-9cc92fb5bc23",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083302,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092841_110.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092841_110.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:19:43.727780Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083303,
+        "annotations": [
+            {
+                "id": 914901,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "cN8MVgE6V2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.22547522088135,
+                            "y": 48.335974643423135,
+                            "width": 21.913034507068488,
+                            "height": 51.664025356576865,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 553,
+                        "original_height": 324
+                    },
+                    {
+                        "id": "_fIilo5zs8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 84.03091622413972,
+                            "y": 14.580031695721079,
+                            "width": 13.370665122957043,
+                            "height": 32.48811410459588,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 553,
+                        "original_height": 324
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:09:33.782276Z",
+                "updated_at": "2025-08-08T02:38:46.662621Z",
+                "draft_created_at": "2025-08-08T02:09:27.485311Z",
+                "lead_time": 57.736000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1a07fbea-cdc7-474f-9844-0d86bf9c6304",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083303,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092856_646.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092856_646.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:38:46.742854Z",
+        "need_audit": true,
+        "audit_status": "rejected",
+        "inner_id": 31,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083304,
+        "annotations": [
+            {
+                "id": 914907,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "s640ez-RPJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.10399257195906,
+                            "y": 71.10249580664247,
+                            "width": 33.79669849699021,
+                            "height": 21.08591695327728,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 498,
+                        "original_height": 318
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:09:51.464600Z",
+                "updated_at": "2025-08-08T02:34:22.495582Z",
+                "draft_created_at": "2025-08-08T02:09:49.760195Z",
+                "lead_time": 66.389,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4b75e98a-3918-450c-9771-dbb4c92e97bf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083304,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092920_719.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092920_719.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:34:22.585840Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 32,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083305,
+        "annotations": [
+            {
+                "id": 914916,
+                "completed_by": 99,
+                "result": [],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:10:21.672135Z",
+                "updated_at": "2025-08-08T02:10:21.672135Z",
+                "draft_created_at": null,
+                "lead_time": 25.643,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "95f82e45-a4d1-4c21-999f-a32864f4b5c1",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083305,
+                "project": 620,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092939_913.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092939_913.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T02:10:21.758963Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 33,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 99,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083306,
+        "annotations": [
+            {
+                "id": 914921,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "mPGLO3zVX0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 70.99811676082858,
+                            "y": 79.17471027952863,
+                            "width": 25.047080979284374,
+                            "height": 12.278633237710732,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 427
+                    },
+                    {
+                        "id": "TyBHEZoEq-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.973634651600776,
+                            "y": 81.00970586144267,
+                            "width": 17.043314500941616,
+                            "height": 6.351421788654164,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 640,
+                        "original_height": 427
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:11:03.112507Z",
+                "updated_at": "2025-08-08T05:41:01.085045Z",
+                "draft_created_at": "2025-08-08T02:10:48.744882Z",
+                "lead_time": 32.618,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4ffff439-6cc5-4e1c-ae0c-e604a119e9ce",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083306,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_092956_430.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_092956_430.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T05:41:01.196187Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 34,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    },
+    {
+        "id": 1083307,
+        "annotations": [
+            {
+                "id": 914925,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "kKUZjM9VC8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.218159185997735,
+                            "y": 48.35680751173704,
+                            "width": 39.10895125550245,
+                            "height": 31.924882629108005,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 898,
+                        "original_height": 533
+                    },
+                    {
+                        "id": "xlQwBo9Gwr",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 67.66771901189034,
+                            "y": 72.6134585289515,
+                            "width": 32.33228098810964,
+                            "height": 27.386541471048513,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "喷灌水雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 898,
+                        "original_height": 533
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:11:38.416007Z",
+                "updated_at": "2025-08-08T05:41:03.600230Z",
+                "draft_created_at": "2025-08-08T02:11:19.759784Z",
+                "lead_time": 60.175,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3b177a2e-feaf-4347-a5dd-6c3ecbd8e7ad",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083307,
+                "project": 620,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "wechat_2025-08-08_093014_183.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "wechat_2025-08-08_093014_183.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:36:37.724740Z",
+        "updated_at": "2025-08-08T05:41:03.711257Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 35,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 620,
+        "updated_by": 23,
+        "batch": 21503,
+        "comment_authors": []
+    }
+]

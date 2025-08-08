@@ -1,0 +1,2172 @@
+[
+    {
+        "id": 1082879,
+        "annotations": [
+            {
+                "id": 914448,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "4ANII0YzuW",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.462656442833183,
+                            "y": 49.02585776717904,
+                            "width": 2.526178946576913,
+                            "height": 1.4795066727616257,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:27:53.309159Z",
+                "updated_at": "2025-08-07T08:27:53.309159Z",
+                "draft_created_at": "2025-08-07T08:27:51.703724Z",
+                "lead_time": 15.045,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b2ca04cb-0763-448a-92dd-c7746db7c282",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082879,
+                "project": 613,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_21.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_21.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821653Z",
+        "updated_at": "2025-08-07T08:27:53.414603Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 23,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082880,
+        "annotations": [
+            {
+                "id": 914449,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "yZU6fjTa0A",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 14.374013434734504,
+                            "y": 85.59034134490486,
+                            "width": 1.5976823075843427,
+                            "height": 1.3254845811070055,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 720
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:27:58.901318Z",
+                "updated_at": "2025-08-07T08:27:58.901318Z",
+                "draft_created_at": null,
+                "lead_time": 4.326,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ab957b42-e5d4-4699-a26b-416666fd1af6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082880,
+                "project": 613,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_22.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_22.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821737Z",
+        "updated_at": "2025-08-07T08:27:58.967219Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 23,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082881,
+        "annotations": [
+            {
+                "id": 914450,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "C6x7m2A03K",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.94698845553463,
+                            "y": 29.71883090980738,
+                            "width": 1.2744872968948746,
+                            "height": 1.6236618987838027,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2400,
+                        "original_height": 2400
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:28:09.590332Z",
+                "updated_at": "2025-08-07T08:28:09.590332Z",
+                "draft_created_at": null,
+                "lead_time": 9.65,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "40fc6cd4-b312-41b4-babd-4741db3e1c59",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082881,
+                "project": 613,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_23.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_23.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821782Z",
+        "updated_at": "2025-08-07T08:28:09.650269Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 23,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082882,
+        "annotations": [
+            {
+                "id": 914451,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "dqYHS_NC2L",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 69.07791390919861,
+                            "y": 16.912823172793047,
+                            "width": 6.126073659498221,
+                            "height": 9.189110489247563,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2400,
+                        "original_height": 2400
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:28:26.952888Z",
+                "updated_at": "2025-08-07T08:28:26.952888Z",
+                "draft_created_at": "2025-08-07T08:28:23.271697Z",
+                "lead_time": 14.523,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0753302b-8dcc-4fca-b1ac-4d871bef16dd",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082882,
+                "project": 613,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_24.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_24.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821824Z",
+        "updated_at": "2025-08-07T08:28:27.018791Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 23,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082883,
+        "annotations": [
+            {
+                "id": 914452,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "BRM3-8P1hk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 15.975506783132118,
+                            "y": 46.14917318971087,
+                            "width": 2.303984803874871,
+                            "height": 3.8563144815379644,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 720
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:29:37.373750Z",
+                "updated_at": "2025-08-07T08:29:37.373750Z",
+                "draft_created_at": "2025-08-07T08:29:24.947689Z",
+                "lead_time": 32.923,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "151bc42c-205b-435b-8416-af9b865a4b48",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082883,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_25.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_25.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821867Z",
+        "updated_at": "2025-08-07T08:29:37.490579Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082884,
+        "annotations": [
+            {
+                "id": 914467,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "dafMSmeD5d",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 26.907276727344676,
+                            "y": 75.63163998767412,
+                            "width": 2.0155599514231564,
+                            "height": 3.30758556130983,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    },
+                    {
+                        "id": "PrNv3QEZvp",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 20.569047709395157,
+                            "y": 81.11919908752327,
+                            "width": 2.170603024609517,
+                            "height": 3.3764935938370155,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:40:12.618749Z",
+                "updated_at": "2025-08-07T08:40:35.100324Z",
+                "draft_created_at": null,
+                "lead_time": 51.161,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1a98f183-8c3a-4c50-968b-79cbcc0d6a9e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082884,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_26.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_26.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821909Z",
+        "updated_at": "2025-08-07T08:40:35.230051Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082885,
+        "annotations": [
+            {
+                "id": 914468,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Z712iCP6E9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.414460179420555,
+                            "y": 54.274868424383214,
+                            "width": 1.0864318327346005,
+                            "height": 0.9364530275422851,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 720
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:42:09.280792Z",
+                "updated_at": "2025-08-07T08:42:09.280792Z",
+                "draft_created_at": "2025-08-07T08:40:47.101631Z",
+                "lead_time": 87.812,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6ef6dacf-0d02-4a62-968a-3c977cc4228b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082885,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_27.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_27.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821950Z",
+        "updated_at": "2025-08-07T08:42:09.379421Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082886,
+        "annotations": [
+            {
+                "id": 914469,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "n7bzE-awaJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.57115156219773,
+                            "y": 60.34493956293488,
+                            "width": 0.8411379625760089,
+                            "height": 3.7032773270059103,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4912,
+                        "original_height": 2000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:42:33.693909Z",
+                "updated_at": "2025-08-07T08:42:33.693909Z",
+                "draft_created_at": "2025-08-07T08:42:27.583918Z",
+                "lead_time": 17.651,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "bc2aaeb1-ed62-44fa-bbcc-73358f488d99",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082886,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_28.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_28.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.821989Z",
+        "updated_at": "2025-08-07T08:42:33.813063Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082887,
+        "annotations": [
+            {
+                "id": 914470,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "PtMXJ_cTDF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.89301717346186,
+                            "y": 62.57697390300856,
+                            "width": 1.0118255419593583,
+                            "height": 1.8784655536084764,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2976,
+                        "original_height": 3200
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:42:55.012152Z",
+                "updated_at": "2025-08-07T08:42:55.012152Z",
+                "draft_created_at": "2025-08-07T08:42:48.107140Z",
+                "lead_time": 18.307,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4f2723d6-1f16-47f8-9dc7-067dc52c3452",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082887,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_29.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_29.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822030Z",
+        "updated_at": "2025-08-07T08:42:55.117310Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082888,
+        "annotations": [
+            {
+                "id": 914471,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "lpM1CeW1rx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 85.48618955355268,
+                            "y": 43.91406918502228,
+                            "width": 1.1997173645794255,
+                            "height": 2.6079008299356206,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5000,
+                        "original_height": 3376
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:43:15.950729Z",
+                "updated_at": "2025-08-07T08:43:15.950729Z",
+                "draft_created_at": "2025-08-07T08:43:13.671244Z",
+                "lead_time": 18.193,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5d5b6462-96be-4033-afbc-7c37d61cafb8",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082888,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_0.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_0.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822070Z",
+        "updated_at": "2025-08-07T08:43:16.071243Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082889,
+        "annotations": [
+            {
+                "id": 914453,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "oRox1Utqfw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.34089462470165,
+                            "y": 59.12392459080154,
+                            "width": 1.126212995403563,
+                            "height": 2.4500072180709083,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:30:39.703645Z",
+                "updated_at": "2025-08-07T08:30:39.703645Z",
+                "draft_created_at": "2025-08-07T08:30:12.079301Z",
+                "lead_time": 60.919,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "49e91a14-e83c-49f0-8187-7e4e978bc3d4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082889,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_1.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_1.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822111Z",
+        "updated_at": "2025-08-07T08:30:39.804163Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082890,
+        "annotations": [
+            {
+                "id": 914454,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "mOrUl88d6R",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 4.391685757298168,
+                            "y": 52.90184524795439,
+                            "width": 3.0835240423582873,
+                            "height": 5.886727717229452,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 8688,
+                        "original_height": 5792
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:30:58.334341Z",
+                "updated_at": "2025-08-07T08:30:58.334341Z",
+                "draft_created_at": null,
+                "lead_time": 16.726,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "601bdcb8-aeb5-4d79-abd4-92804c917e6b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082890,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_2.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_2.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822151Z",
+        "updated_at": "2025-08-07T08:30:58.440105Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082891,
+        "annotations": [
+            {
+                "id": 914472,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "56Tx_2Mg_s",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.25210197583512,
+                            "y": 88.58915259583029,
+                            "width": 1.8675729746181207,
+                            "height": 3.2015536707739245,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2400,
+                        "original_height": 2400
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:43:36.719918Z",
+                "updated_at": "2025-08-08T05:37:26.863379Z",
+                "draft_created_at": null,
+                "lead_time": 26.476999999999997,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8189b97e-4dcc-41da-9994-7d0f02ab2837",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082891,
+                "project": 613,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_3.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_3.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822191Z",
+        "updated_at": "2025-08-08T05:37:26.972030Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 23,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082892,
+        "annotations": [
+            {
+                "id": 914455,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "3CmDNdwsWq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 14.634947736833615,
+                            "y": 42.183644363235324,
+                            "width": 2.286081779941321,
+                            "height": 0.9611221711301589,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3200,
+                        "original_height": 3200
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:31:44.862652Z",
+                "updated_at": "2025-08-07T08:41:38.841067Z",
+                "draft_created_at": "2025-08-07T08:31:30.904596Z",
+                "lead_time": 60.6,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c6141ae2-4c52-4ed8-a1c3-04049321732f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082892,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_4.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_4.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822229Z",
+        "updated_at": "2025-08-07T08:41:38.989283Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082893,
+        "annotations": [
+            {
+                "id": 914456,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "OlNIMJJdcB",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 69.22483796109526,
+                            "y": 32.822113845702816,
+                            "width": 1.1909161055107282,
+                            "height": 1.3987850984723094,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:32:15.260192Z",
+                "updated_at": "2025-08-07T08:32:15.260192Z",
+                "draft_created_at": "2025-08-07T08:32:06.485564Z",
+                "lead_time": 28.437,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b77c1b6e-22f2-41c2-9189-b9c7804330f0",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082893,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_5.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_5.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822267Z",
+        "updated_at": "2025-08-07T08:32:15.361806Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082894,
+        "annotations": [
+            {
+                "id": 914466,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "VaJvSvUHi7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.1301266460382,
+                            "y": 23.072339967678314,
+                            "width": 1.6524559938582675,
+                            "height": 5.482293599066801,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4608,
+                        "original_height": 2000
+                    },
+                    {
+                        "id": "yUbvrxQwp6",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 68.64808695946849,
+                            "y": 30.546137509167533,
+                            "width": 1.6204468130572716,
+                            "height": 5.425191118229851,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4608,
+                        "original_height": 2000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:38:54.880846Z",
+                "updated_at": "2025-08-07T08:42:32.613517Z",
+                "draft_created_at": "2025-08-07T08:38:40.928708Z",
+                "lead_time": 68.658,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "80e3233d-3d57-4117-bb2d-48be0907dcaa",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082894,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_6.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_6.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822306Z",
+        "updated_at": "2025-08-07T08:42:32.776646Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082895,
+        "annotations": [
+            {
+                "id": 914465,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "1KGAwEKhJ5",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.1640134295786,
+                            "y": 43.33210977984121,
+                            "width": 1.7284958518841917,
+                            "height": 3.9253783558027977,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:38:24.212030Z",
+                "updated_at": "2025-08-07T08:38:24.212030Z",
+                "draft_created_at": "2025-08-07T08:38:09.749261Z",
+                "lead_time": 25.917,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1a4195d9-b01d-4041-ace4-00b6d21b605b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082895,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_7.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_7.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822345Z",
+        "updated_at": "2025-08-07T08:38:24.274101Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082896,
+        "annotations": [
+            {
+                "id": 914464,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "sDMLv-ysG3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.63217727348552,
+                            "y": 46.32425968917106,
+                            "width": 0.9110061716822434,
+                            "height": 1.487059358112453,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:37:56.158566Z",
+                "updated_at": "2025-08-07T08:37:56.158566Z",
+                "draft_created_at": "2025-08-07T08:37:36.608309Z",
+                "lead_time": 36.833,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f35a258e-7a7b-4691-b7b7-8769104873b7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082896,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_8.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_8.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822384Z",
+        "updated_at": "2025-08-07T08:37:56.260729Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082897,
+        "annotations": [
+            {
+                "id": 914463,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Na75VYNkns",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.15966954373468,
+                            "y": 28.34149860872247,
+                            "width": 1.1946929114061775,
+                            "height": 1.3390826816544887,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5000,
+                        "original_height": 3888
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:37:16.911619Z",
+                "updated_at": "2025-08-07T08:37:16.911619Z",
+                "draft_created_at": "2025-08-07T08:37:09.987382Z",
+                "lead_time": 24.903,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2de1e835-1e1d-4ec8-8acf-eea5ee65c19b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082897,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_9.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_9.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822422Z",
+        "updated_at": "2025-08-07T08:37:16.976293Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082898,
+        "annotations": [
+            {
+                "id": 914462,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "NWJwmrpOFj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.33257247667574,
+                            "y": 34.84905897703792,
+                            "width": 2.0423411821968016,
+                            "height": 3.3705981774377225,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2448
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:36:50.179905Z",
+                "updated_at": "2025-08-07T08:36:50.179905Z",
+                "draft_created_at": "2025-08-07T08:36:40.560587Z",
+                "lead_time": 29.79,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ac26c7e3-317b-4482-9c12-0478554860bb",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082898,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_10.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_10.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822461Z",
+        "updated_at": "2025-08-07T08:36:50.284025Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082899,
+        "annotations": [
+            {
+                "id": 914461,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "mRtSosO5lp",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.91514683090214,
+                            "y": 52.03184587897264,
+                            "width": 3.3310877708492073,
+                            "height": 1.6828403528934655,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3200,
+                        "original_height": 3200
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:36:17.698584Z",
+                "updated_at": "2025-08-07T08:43:57.808252Z",
+                "draft_created_at": "2025-08-07T08:36:13.770427Z",
+                "lead_time": 26.008,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f02c5ce0-5ee2-457f-8708-efc491a60fbc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082899,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_11.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_11.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822499Z",
+        "updated_at": "2025-08-07T08:43:57.907636Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082900,
+        "annotations": [
+            {
+                "id": 914460,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "gP5x9N0iVZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 70.30679213040312,
+                            "y": 42.07885142929754,
+                            "width": 3.623560556738564,
+                            "height": 4.769949392230774,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5000,
+                        "original_height": 4000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:35:11.708138Z",
+                "updated_at": "2025-08-07T08:35:48.144092Z",
+                "draft_created_at": "2025-08-07T08:34:50.423281Z",
+                "lead_time": 77.908,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2c0d088d-8265-4ee1-8e5c-66597bcc0934",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082900,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_12.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_12.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822537Z",
+        "updated_at": "2025-08-07T08:35:48.266042Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082901,
+        "annotations": [
+            {
+                "id": 914473,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Tf5FxmZHLk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.304070984440894,
+                            "y": 46.974595234314705,
+                            "width": 4.235860205898389,
+                            "height": 2.68271146373566,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:43:55.909628Z",
+                "updated_at": "2025-08-07T08:43:55.909628Z",
+                "draft_created_at": "2025-08-07T08:43:49.047251Z",
+                "lead_time": 11.607,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b8a62ff4-9413-46d3-99b0-3ac9e44e23e2",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082901,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_13.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_13.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822576Z",
+        "updated_at": "2025-08-07T08:43:56.029345Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082902,
+        "annotations": [
+            {
+                "id": 914474,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "VItzpXclyW",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.007559360364695,
+                            "y": 8.01468795506982,
+                            "width": 5.743739740305073,
+                            "height": 3.689409468225173,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2400,
+                        "original_height": 2400
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:44:11.692967Z",
+                "updated_at": "2025-08-07T08:44:11.692967Z",
+                "draft_created_at": "2025-08-07T08:44:08.833395Z",
+                "lead_time": 13.526,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "640a670c-b61e-41fd-b87d-b1b0c50123ff",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082902,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_14.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_14.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822614Z",
+        "updated_at": "2025-08-07T08:44:11.799941Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082903,
+        "annotations": [
+            {
+                "id": 914475,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "UnFM3zQt_H",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.55216067153922,
+                            "y": 45.0933863789934,
+                            "width": 1.0818037392791968,
+                            "height": 2.4504976397759313,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4000,
+                        "original_height": 3000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:44:27.716308Z",
+                "updated_at": "2025-08-07T08:44:27.716308Z",
+                "draft_created_at": "2025-08-07T08:44:24.399958Z",
+                "lead_time": 11.894,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "82574dbb-cd0c-433b-a0b4-9ec0ca0a05ff",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082903,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_15.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_15.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822653Z",
+        "updated_at": "2025-08-07T08:44:27.837658Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082904,
+        "annotations": [
+            {
+                "id": 914476,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "NlPAG8jJSe",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.496511127798115,
+                            "y": 34.12765290507801,
+                            "width": 1.1399621398531707,
+                            "height": 2.481405960238489,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3120,
+                        "original_height": 2000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:44:48.849519Z",
+                "updated_at": "2025-08-07T08:44:48.849519Z",
+                "draft_created_at": "2025-08-07T08:44:43.336735Z",
+                "lead_time": 17.213,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "21d89f01-dea8-44f7-8c0a-2c8ad8e91109",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082904,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_16.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_16.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822691Z",
+        "updated_at": "2025-08-07T08:44:48.952642Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082905,
+        "annotations": [
+            {
+                "id": 914459,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Xvr3id0zFO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.25286518898812,
+                            "y": 38.873942056827545,
+                            "width": 4.488202470196811,
+                            "height": 4.663522879188903,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3200,
+                        "original_height": 3200
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:34:22.110630Z",
+                "updated_at": "2025-08-07T08:34:22.110630Z",
+                "draft_created_at": null,
+                "lead_time": 17.118,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8b996a7f-32b7-4642-886a-2d9fbeaaad17",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082905,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_17.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_17.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822729Z",
+        "updated_at": "2025-08-07T08:34:22.172975Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082906,
+        "annotations": [
+            {
+                "id": 914458,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "kyNLksfSop",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 85.44496975612275,
+                            "y": 71.66660318670252,
+                            "width": 1.743915065422868,
+                            "height": 2.1824068012209716,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2400,
+                        "original_height": 2400
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:33:52.785469Z",
+                "updated_at": "2025-08-07T08:45:22.227643Z",
+                "draft_created_at": "2025-08-07T08:33:43.693523Z",
+                "lead_time": 58.007000000000005,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "cbf1ccf4-3c0f-4a27-9bb7-07d8a71177b3",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082906,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_18.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_18.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822767Z",
+        "updated_at": "2025-08-07T08:45:22.347650Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    },
+    {
+        "id": 1082907,
+        "annotations": [
+            {
+                "id": 914477,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "90vWvsfADp",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.140752321391616,
+                            "y": 55.37750550975002,
+                            "width": 1.5747383978436595,
+                            "height": 2.5482042487487093,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5000,
+                        "original_height": 3376
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:45:03.682931Z",
+                "updated_at": "2025-08-07T08:45:03.682931Z",
+                "draft_created_at": null,
+                "lead_time": 8.275,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4281a873-45c9-4176-a6cf-e72742f9d449",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082907,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_19.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_19.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822806Z",
+        "updated_at": "2025-08-07T08:45:03.793918Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21489,
+        "comment_authors": []
+    },
+    {
+        "id": 1082908,
+        "annotations": [
+            {
+                "id": 914457,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "OpP3lF2bgO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.144103717018496,
+                            "y": 68.77888237165828,
+                            "width": 3.069097454822666,
+                            "height": 2.5056323374994993,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子自爆区域"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3200,
+                        "original_height": 3200
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-07T08:33:18.899593Z",
+                "updated_at": "2025-08-07T08:45:45.908645Z",
+                "draft_created_at": "2025-08-07T08:32:39.915190Z",
+                "lead_time": 91.017,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "360d8eb9-1962-4321-91d9-e2f0ab4eb338",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1082908,
+                "project": 613,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "jueyuanzizibao_sichuan_20250807_20.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "jueyuanzizibao_sichuan_20250807_20.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-07T07:19:46.822844Z",
+        "updated_at": "2025-08-07T08:45:46.003477Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 613,
+        "updated_by": 99,
+        "batch": 21488,
+        "comment_authors": []
+    }
+]

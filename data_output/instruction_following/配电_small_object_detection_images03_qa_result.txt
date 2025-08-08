@@ -1,0 +1,4 @@
+图像文件：small_object_detection_images03.png
+输入指令：异常电缆：
+输出内容：
+问题：异常电缆：回答：图像未能清晰识别

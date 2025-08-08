@@ -1,0 +1,3298 @@
+[
+    {
+        "id": 1083570,
+        "annotations": [
+            {
+                "id": 914777,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "5rAMU7mrOz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.6827115613969,
+                            "y": 43.77170792793896,
+                            "width": 8.620580453832398,
+                            "height": 13.63134250023553,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1916,
+                        "original_height": 932
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:56:25.669002Z",
+                "updated_at": "2025-08-08T02:40:11.828192Z",
+                "draft_created_at": "2025-08-08T01:56:22.050197Z",
+                "lead_time": 142.62900000000002,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d85e77a6-aa42-4dd8-b614-b1227b98075c",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083570,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "540f8c32-c475-40a9-93c1-9b018f882c0d.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "540f8c32-c475-40a9-93c1-9b018f882c0d.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:40:11.953049Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083571,
+        "annotations": [
+            {
+                "id": 914781,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "FD2ae45M1K",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.68108525063749,
+                            "y": 36.21821602039492,
+                            "width": 8.159570534098126,
+                            "height": 10.83327180367218,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1914,
+                        "original_height": 887
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:56:56.884172Z",
+                "updated_at": "2025-08-08T02:40:29.535508Z",
+                "draft_created_at": "2025-08-08T01:56:41.818315Z",
+                "lead_time": 67.232,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f3c2653e-9738-4f1a-970d-5b1f924d4b86",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083571,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "1554e32a-e3f2-4dee-bbaa-05e36feded42.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "1554e32a-e3f2-4dee-bbaa-05e36feded42.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:40:29.572273Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083572,
+        "annotations": [
+            {
+                "id": 914782,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "YnrbRXB71L",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 27.420293779155852,
+                            "width": 14.227617943249465,
+                            "height": 35.82849416440364,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2552,
+                        "original_height": 1037
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:57:13.952711Z",
+                "updated_at": "2025-08-08T02:41:15.439964Z",
+                "draft_created_at": "2025-08-08T01:57:06.419245Z",
+                "lead_time": 56.466,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b2c924d3-b220-4f15-9a7f-f9445de3cd0e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083572,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "e69da762-5a42-4acc-83d8-2d4ec0cb2ce6.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "e69da762-5a42-4acc-83d8-2d4ec0cb2ce6.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:41:15.475395Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083573,
+        "annotations": [
+            {
+                "id": 914784,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qviv_4GJg7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.01969808841575,
+                            "y": 0,
+                            "width": 2.797747282861371,
+                            "height": 5.6916365963899205,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 834
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:57:46.877798Z",
+                "updated_at": "2025-08-08T02:43:55.502329Z",
+                "draft_created_at": "2025-08-08T01:57:32.000344Z",
+                "lead_time": 189.816,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "1077eb92-f0fe-4c87-8ca4-c8d2add8d7d6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083573,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_0ec56553-bceb-4332-8d55-e85ac4762f4g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_0ec56553-bceb-4332-8d55-e85ac4762f4g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:43:55.543408Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083574,
+        "annotations": [
+            {
+                "id": 914787,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "hZv-mSOUxZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0.449104175007779,
+                            "y": 80.7213724218231,
+                            "width": 3.614211360047711,
+                            "height": 5.735102911558528,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1917,
+                        "original_height": 963
+                    },
+                    {
+                        "id": "xiWgkYx3-1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0.01728389478971237,
+                            "y": 85.34335860681949,
+                            "width": 0.46666515932223396,
+                            "height": 1.0665939934249593,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1917,
+                        "original_height": 963
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:58:19.136629Z",
+                "updated_at": "2025-08-08T05:38:19.597640Z",
+                "draft_created_at": "2025-08-08T01:58:03.416489Z",
+                "lead_time": 136.053,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8994e8a1-8443-47cd-86a6-d23ca7203f2e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083574,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_1b159a75-8e59-409b-a9f4-7aed0381bebg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_1b159a75-8e59-409b-a9f4-7aed0381bebg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T05:38:19.635445Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083575,
+        "annotations": [
+            {
+                "id": 914794,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "92GR4NOodT",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 20.689655172413456,
+                            "width": 74.2411674084667,
+                            "height": 30.574712643677472,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1564
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:58:57.590470Z",
+                "updated_at": "2025-08-08T02:34:37.380381Z",
+                "draft_created_at": "2025-08-08T01:58:32.137616Z",
+                "lead_time": 50.493,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e2a9656f-6470-4377-bdbe-28d86af87009",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083575,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_5b16810a-e544-4d5f-88b4-84210cb499eg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_5b16810a-e544-4d5f-88b4-84210cb499eg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:34:37.415396Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083576,
+        "annotations": [
+            {
+                "id": 914796,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "PkcCG_x0oN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 27.734236680109685,
+                            "y": 38.85274904422816,
+                            "width": 3.786656061167979,
+                            "height": 10.622138176262084,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1438,
+                        "original_height": 952
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:59:12.440359Z",
+                "updated_at": "2025-08-08T01:59:26.658478Z",
+                "draft_created_at": "2025-08-08T01:59:11.718618Z",
+                "lead_time": 26.694000000000003,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "766e3b7b-3b1b-4475-b5f2-4c578d65d328",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083576,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_6ab9ceee-a567-434a-a1f9-28f0b5853e0g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_6ab9ceee-a567-434a-a1f9-28f0b5853e0g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T01:59:26.696199Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083577,
+        "annotations": [
+            {
+                "id": 914800,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "-U1WTSiHwP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.65563112479452,
+                            "y": 0,
+                            "width": 4.4411110692859035,
+                            "height": 9.583587044247754,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 878
+                    },
+                    {
+                        "id": "msGxig7PM8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 1.67396026194736e-14,
+                            "y": 25.03934684675687,
+                            "width": 9.290308411068354,
+                            "height": 15.623697942189832,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 878
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:59:46.926170Z",
+                "updated_at": "2025-08-08T02:27:06.898846Z",
+                "draft_created_at": "2025-08-08T01:59:36.354836Z",
+                "lead_time": 84.69200000000001,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a31c9835-cea6-408e-b318-0572b57b0a21",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083577,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_8bfb0d06-4cfc-43f1-9aee-4272cabf25dg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_8bfb0d06-4cfc-43f1-9aee-4272cabf25dg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:27:06.935375Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083578,
+        "annotations": [
+            {
+                "id": 914804,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "A5h3GjUZsv",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.25615539936778,
+                            "y": 24.050274541040636,
+                            "width": 23.232995489630756,
+                            "height": 41.28696126017593,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1916,
+                        "original_height": 811
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:00:11.893772Z",
+                "updated_at": "2025-08-08T02:27:27.251451Z",
+                "draft_created_at": "2025-08-08T02:00:02.341999Z",
+                "lead_time": 42.036,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d838f21d-3601-4097-ab4e-f7e1f4eec285",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083578,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_9baa0e5b-fdf2-42b2-b735-56d7fda9081g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_9baa0e5b-fdf2-42b2-b735-56d7fda9081g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:27:27.288925Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083579,
+        "annotations": [
+            {
+                "id": 914809,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "hOe8ZvsHrf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 86.94479228675527,
+                            "y": 43.11116726486921,
+                            "width": 2.0064713557036313,
+                            "height": 5.92039157896537,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1359
+                    },
+                    {
+                        "id": "6gu_wZPSXH",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 87.1349902885038,
+                            "y": 65.14133210656479,
+                            "width": 1.0202052752667354,
+                            "height": 1.7229123047906303,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1359
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:01:07.720330Z",
+                "updated_at": "2025-08-08T05:40:17.617447Z",
+                "draft_created_at": "2025-08-08T02:00:29.430924Z",
+                "lead_time": 101.173,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "560268de-f3f7-4385-a7fa-565f050a699d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083579,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_22c652b0-1ef1-4767-a051-c901ecd164bg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_22c652b0-1ef1-4767-a051-c901ecd164bg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T05:40:17.660756Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083580,
+        "annotations": [
+            {
+                "id": 914816,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "iocgdfP1X3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.33210233976735,
+                            "y": 21.17934840965868,
+                            "width": 1.1615601803815505,
+                            "height": 2.1923398187465657,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 971
+                    },
+                    {
+                        "id": "sdAJyJIzhK",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 71.97677975214677,
+                            "y": 18.330506855620303,
+                            "width": 2.059628565811131,
+                            "height": 5.319823319314742,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 971
+                    },
+                    {
+                        "id": "J-Tb9Z89Fz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 77.58024177405501,
+                            "y": 27.879452009049,
+                            "width": 1.5278178949162735,
+                            "height": 1.5510855249200886,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 971
+                    },
+                    {
+                        "id": "r8bsj31y4z",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 75.80181367390418,
+                            "y": 19.344727878072383,
+                            "width": 7.410869857581524,
+                            "height": 10.563234630951952,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 971
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:02:12.294384Z",
+                "updated_at": "2025-08-08T02:02:12.294424Z",
+                "draft_created_at": "2025-08-08T02:01:21.513254Z",
+                "lead_time": 63.006,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "364f4568-6c5e-4ba2-b281-993fa6df0528",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083580,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_24d2eed5-7a33-4c89-8602-64121f79902g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_24d2eed5-7a33-4c89-8602-64121f79902g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:02:12.362241Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083581,
+        "annotations": [
+            {
+                "id": 914820,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "KxPonmZnCV",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.429360522610594,
+                            "y": 29.488400929745236,
+                            "width": 5.073618304666512,
+                            "height": 16.957688751095386,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 577
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:02:44.147328Z",
+                "updated_at": "2025-08-08T02:02:44.147367Z",
+                "draft_created_at": "2025-08-08T02:02:29.002021Z",
+                "lead_time": 27.032,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "08d0931a-8f0f-4b11-97bb-7fcce10ee591",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083581,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_51cbd9ee-6246-42ff-9e5a-acb0120e4e8g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_51cbd9ee-6246-42ff-9e5a-acb0120e4e8g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:02:44.199182Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083582,
+        "annotations": [
+            {
+                "id": 914828,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "HZsVMfp-hg",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 52.8165159816194,
+                            "y": 53.111054779282675,
+                            "width": 21.781942050565288,
+                            "height": 20.434918166154578,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 900
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:03:12.437834Z",
+                "updated_at": "2025-08-08T02:28:07.190922Z",
+                "draft_created_at": "2025-08-08T02:03:00.192947Z",
+                "lead_time": 44.036,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a1c8c3fb-b43c-48c1-ac55-1ced738d20c6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083582,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_62d2e567-6f72-42de-8d7b-bab466679fdg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_62d2e567-6f72-42de-8d7b-bab466679fdg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:28:07.377248Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083583,
+        "annotations": [
+            {
+                "id": 914837,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "mAzESpXOnN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.05624657853326,
+                            "y": 6.104836846165591,
+                            "width": 4.634179415358892,
+                            "height": 14.08892690958461,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 829
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:03:42.483472Z",
+                "updated_at": "2025-08-08T02:03:42.483515Z",
+                "draft_created_at": "2025-08-08T02:03:30.096986Z",
+                "lead_time": 27.615,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "42fea5ae-0773-47e9-bba3-65f1d89a1d30",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083583,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_87f1a426-40cd-4163-a535-469a5148837g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_87f1a426-40cd-4163-a535-469a5148837g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:03:42.612658Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083584,
+        "annotations": [
+            {
+                "id": 914849,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "EyNrwmD_H1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 79.01883724982162,
+                            "y": 37.30348067551095,
+                            "width": 8.122761756042577,
+                            "height": 28.819914065148694,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1918,
+                        "original_height": 973
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:04:36.728065Z",
+                "updated_at": "2025-08-08T02:04:36.728092Z",
+                "draft_created_at": "2025-08-08T02:04:19.798467Z",
+                "lead_time": 46.715,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "eded3811-60d0-4a41-a78e-3a48c5981106",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083584,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_92d9ff33-ebae-41b6-922b-b3ecccacbddg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_92d9ff33-ebae-41b6-922b-b3ecccacbddg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:04:36.775180Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083585,
+        "annotations": [
+            {
+                "id": 914852,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "yauVILsqCJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.47881829332459,
+                            "y": 40.72704684718044,
+                            "width": 1.8539205657433544,
+                            "height": 3.2355654917987273,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2555,
+                        "original_height": 1036
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:05:02.141744Z",
+                "updated_at": "2025-08-08T02:05:02.141774Z",
+                "draft_created_at": "2025-08-08T02:04:53.335029Z",
+                "lead_time": 20.547,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5bea4f84-6dde-4a48-97d5-08b852e0530a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083585,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_201f9ea2-795e-4f1e-864a-1ab3ae4928fg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_201f9ea2-795e-4f1e-864a-1ab3ae4928fg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:05:02.269055Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083586,
+        "annotations": [
+            {
+                "id": 914857,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "CqD5_j_2F0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 3.121674849484666e-15,
+                            "y": 9.290569243725159e-16,
+                            "width": 99.99999999999987,
+                            "height": 94.14225941422595,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2558,
+                        "original_height": 1146
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:05:40.462210Z",
+                "updated_at": "2025-08-08T02:05:40.462242Z",
+                "draft_created_at": "2025-08-08T02:05:15.458565Z",
+                "lead_time": 35.343,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "92504e01-2fcd-4f64-8d92-c7570264afe0",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083586,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_495bd7df-0355-4dab-b852-4a12d21e9e0g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_495bd7df-0355-4dab-b852-4a12d21e9e0g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:05:40.506745Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083587,
+        "annotations": [
+            {
+                "id": 914865,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "jvySk7ec4X",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.62368925122109,
+                            "y": 42.80704072603051,
+                            "width": 1.8977176019286957,
+                            "height": 2.6546975799200725,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1917,
+                        "original_height": 977
+                    },
+                    {
+                        "id": "Lp04BJedaj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.34544317091118,
+                            "y": 35.36888808008504,
+                            "width": 11.635500606163053,
+                            "height": 10.624960606268008,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1917,
+                        "original_height": 977
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:06:27.383192Z",
+                "updated_at": "2025-08-08T02:35:28.676530Z",
+                "draft_created_at": "2025-08-08T02:05:55.729476Z",
+                "lead_time": 93.446,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9f6dd61a-4794-4008-8158-e366b63228b4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083587,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_602a4e16-523f-4692-94c2-c8605dfbfcfg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_602a4e16-523f-4692-94c2-c8605dfbfcfg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:35:28.700685Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083588,
+        "annotations": [
+            {
+                "id": 914877,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "STRN8lBKP2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.035660295037964,
+                            "y": 8.280254777070011,
+                            "width": 12.465940366067928,
+                            "height": 43.25734698084573,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 565
+                    },
+                    {
+                        "id": "iJ2mk11pNU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.17587398383048,
+                            "y": 14.59750429353873,
+                            "width": 12.617358753689773,
+                            "height": 32.45910730491087,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 565
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:07:20.141048Z",
+                "updated_at": "2025-08-08T02:07:20.141081Z",
+                "draft_created_at": "2025-08-08T02:06:53.958448Z",
+                "lead_time": 35.659,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d794de02-3f12-4f67-94e3-6fcf2c61c41e",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083588,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_768b6dce-9ea6-4890-a1cf-405f508a33ag.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_768b6dce-9ea6-4890-a1cf-405f508a33ag.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:07:20.197853Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083589,
+        "annotations": [
+            {
+                "id": 914885,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "spLwhS9R-A",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 29.2396496815287,
+                            "y": 23.77919320594492,
+                            "width": 23.983246697749717,
+                            "height": 22.469951592885764,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 565
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:08:02.618959Z",
+                "updated_at": "2025-08-08T02:28:58.989268Z",
+                "draft_created_at": "2025-08-08T02:07:30.834170Z",
+                "lead_time": 49.861,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e902d86d-76b9-413e-a280-ac9d47805ccc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083589,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_0964d78c-4fa3-4903-92b2-91d0719bb13g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_0964d78c-4fa3-4903-92b2-91d0719bb13g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T02:28:59.018901Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083590,
+        "annotations": [
+            {
+                "id": 914890,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "RKMWerxEhM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.27152245622808,
+                            "y": 57.1826472220042,
+                            "width": 1.010882131296997,
+                            "height": 4.151859955921591,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    },
+                    {
+                        "id": "imYlUqptHF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.12118302651617,
+                            "y": 45.2975759509521,
+                            "width": 6.31742281368615,
+                            "height": 16.036560895223857,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    },
+                    {
+                        "id": "mY0pCj1-77",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 60.575305428740634,
+                            "y": 48.256953715712655,
+                            "width": 9.097449847297344,
+                            "height": 13.746655578203121,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    },
+                    {
+                        "id": "Sv1tg_vyXV",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 8.081968321751436,
+                            "y": 13.00931614993879,
+                            "width": 6.146392905279193,
+                            "height": 10.724027051614303,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    },
+                    {
+                        "id": "xhvwoTtbVK",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 6.186255480496968,
+                            "width": 15.45536164512495,
+                            "height": 31.08990331165501,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    },
+                    {
+                        "id": "7vLSnW3__u",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 4.106733878124375,
+                            "y": 26.411633439325517,
+                            "width": 3.525877281439083,
+                            "height": 4.775984184416309,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 959
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:08:46.198560Z",
+                "updated_at": "2025-08-08T05:41:20.173602Z",
+                "draft_created_at": "2025-08-08T02:08:15.917371Z",
+                "lead_time": 188.50300000000001,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "566738ea-ebf4-43a7-83ee-09a51e78d488",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083590,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_39013df3-6acd-4959-aede-c3bf5c125c8g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_39013df3-6acd-4959-aede-c3bf5c125c8g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T05:41:20.216237Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083591,
+        "annotations": [
+            {
+                "id": 914897,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "gQ5SFLtfCD",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.184815044820777,
+                            "y": 39.103833751750145,
+                            "width": 1.1434892127302785,
+                            "height": 0.7952838509589952,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2590,
+                        "original_height": 1786
+                    },
+                    {
+                        "id": "2lKlpPXQrl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.639877078458444,
+                            "y": 35.76731915791756,
+                            "width": 3.7105058127370687,
+                            "height": 3.233916716313673,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2590,
+                        "original_height": 1786
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:09:07.455486Z",
+                "updated_at": "2025-08-08T05:41:38.379837Z",
+                "draft_created_at": "2025-08-08T02:09:02.357338Z",
+                "lead_time": 109.815,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "20495a72-2b50-4474-a67c-12a8219f5510",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083591,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_84601fa1-da90-411c-8810-3eb857a8a13g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_84601fa1-da90-411c-8810-3eb857a8a13g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.705067Z",
+        "updated_at": "2025-08-08T05:41:38.413558Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083592,
+        "annotations": [
+            {
+                "id": 914900,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "MrNpUvx_3l",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 64.68375860092942,
+                            "y": 27.26361728238995,
+                            "width": 0.9784684240456193,
+                            "height": 1.904156393682269,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1918,
+                        "original_height": 964
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:09:26.369007Z",
+                "updated_at": "2025-08-08T02:09:26.369038Z",
+                "draft_created_at": "2025-08-08T02:09:21.142041Z",
+                "lead_time": 17.613,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d9d57117-fe86-40db-b518-a2a1cb73e9b7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083592,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_34955957-ebc7-43d0-9c1c-32d1ce17854g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_34955957-ebc7-43d0-9c1c-32d1ce17854g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:09:26.418867Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083593,
+        "annotations": [
+            {
+                "id": 914922,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "x7jnJ6iKOU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 29.410652609314347,
+                            "y": 0,
+                            "width": 27.537362634198754,
+                            "height": 25.676429078172237,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 976
+                    },
+                    {
+                        "id": "mLL8uznpUG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.240424969592464,
+                            "y": 19.502325864475193,
+                            "width": 1.4539787353756057,
+                            "height": 2.4474587067247593,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 976
+                    },
+                    {
+                        "id": "oKjB0FbX3M",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 11.340865475766556,
+                            "y": 0,
+                            "width": 7.444260414862149,
+                            "height": 18.86777501008483,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 976
+                    },
+                    {
+                        "id": "d7vqd8FaW0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 15.913233591917397,
+                            "y": 8.407294113754883,
+                            "width": 13.497952298239213,
+                            "height": 13.49733142455522,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 976
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:11:11.810112Z",
+                "updated_at": "2025-08-08T02:11:11.810146Z",
+                "draft_created_at": "2025-08-08T02:09:37.510822Z",
+                "lead_time": 103.167,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "19399119-6e3a-408a-9483-e7af0f2daa96",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083593,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_aa3f9572-cea9-4ade-99df-1fd0ad84696g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_aa3f9572-cea9-4ade-99df-1fd0ad84696g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:11:11.866292Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083594,
+        "annotations": [
+            {
+                "id": 914926,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "IUj949PcGs",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 14.000080049223607,
+                            "width": 99.99999999999996,
+                            "height": 31.10176854040803,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2590,
+                        "original_height": 1827
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:11:52.260673Z",
+                "updated_at": "2025-08-08T02:11:52.260712Z",
+                "draft_created_at": "2025-08-08T02:11:25.163987Z",
+                "lead_time": 38.198,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "179cfb76-cfda-44db-b531-265ba14120a3",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083594,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_adae0744-8fb6-4b8d-a928-1bb1b95d0d1g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_adae0744-8fb6-4b8d-a928-1bb1b95d0d1g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:11:52.363484Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083595,
+        "annotations": [
+            {
+                "id": 914930,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "QLJ_eOF2U8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 17.97752808988761,
+                            "y": 1.5914728632119332e-14,
+                            "width": 39.98127340823976,
+                            "height": 38.33055817173786,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 722
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:12:24.050756Z",
+                "updated_at": "2025-08-08T02:12:24.050795Z",
+                "draft_created_at": "2025-08-08T02:12:01.699158Z",
+                "lead_time": 30.469,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ccfa199d-dcb2-4ce7-b6f1-7318d8d3a4ce",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083595,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_b843f054-bd87-43a4-8f04-f2322ae909bg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_b843f054-bd87-43a4-8f04-f2322ae909bg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:12:24.205847Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083596,
+        "annotations": [
+            {
+                "id": 914937,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Kkd5EYYTs8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.1269957308996,
+                            "y": 47.48483487455148,
+                            "width": 0.2196055625007628,
+                            "height": 0.9000122145657428,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3835,
+                        "original_height": 1758
+                    },
+                    {
+                        "id": "ykCXEvSIKl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.78808956047846,
+                            "y": 49.854415342444426,
+                            "width": 0.2538103531031821,
+                            "height": 1.4807618458803644,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3835,
+                        "original_height": 1758
+                    },
+                    {
+                        "id": "O-bKE5u__e",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.999587427674236,
+                            "y": 49.17564036220899,
+                            "width": 0.41464309078986267,
+                            "height": 0.5107910068433155,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3835,
+                        "original_height": 1758
+                    },
+                    {
+                        "id": "YBSJnRVu2p",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.503238836330354,
+                            "y": 5.099474800139486,
+                            "width": 46.798129451818824,
+                            "height": 49.5112264735844,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3835,
+                        "original_height": 1758
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:13:29.855749Z",
+                "updated_at": "2025-08-08T02:13:35.231976Z",
+                "draft_created_at": "2025-08-08T02:12:40.665455Z",
+                "lead_time": 68.006,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "db3eeb43-3d33-43d0-8d6c-d87519f58acc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083596,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_bb1f15f2-8779-4f2f-94fc-75120777298g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_bb1f15f2-8779-4f2f-94fc-75120777298g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:13:35.263524Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083597,
+        "annotations": [
+            {
+                "id": 914941,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "sEIhpbvhxj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 74.62477631389763,
+                            "y": 40.02296852163445,
+                            "width": 6.761673607788797,
+                            "height": 10.556412486235677,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 836
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:14:09.044141Z",
+                "updated_at": "2025-08-08T05:42:00.356429Z",
+                "draft_created_at": "2025-08-08T02:13:48.567504Z",
+                "lead_time": 33.041000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5bfc2bc2-4b99-43ba-b055-8e372b9ac125",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083597,
+                "project": 622,
+                "updated_by": 23,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_ca0f9c6e-d67c-47d6-bdc9-123c37bd470g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_ca0f9c6e-d67c-47d6-bdc9-123c37bd470g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T05:42:00.438373Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 23,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083598,
+        "annotations": [
+            {
+                "id": 914945,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "kvIOG6BT1u",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.286148381755204,
+                            "y": 46.158193474826035,
+                            "width": 1.6954584742284013,
+                            "height": 4.086491411322764,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1916,
+                        "original_height": 834
+                    },
+                    {
+                        "id": "aMkbD3bcsS",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.198149000584856,
+                            "y": 51.44732307374768,
+                            "width": 0.7777752655370442,
+                            "height": 1.3897577752974855,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1916,
+                        "original_height": 834
+                    },
+                    {
+                        "id": "SV8BcUX0Dz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 6.835205992509436,
+                            "y": 1.5857303353578408e-13,
+                            "width": 50.28089887640381,
+                            "height": 56.345788794176,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1916,
+                        "original_height": 834
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:15:09.226191Z",
+                "updated_at": "2025-08-08T02:15:09.226222Z",
+                "draft_created_at": "2025-08-08T02:14:20.980614Z",
+                "lead_time": 58.756,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "3a32130a-aaea-451f-9757-78fe57a2dd0b",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083598,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_cc4e6fd9-122f-493a-9095-0e1fbe45614g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_cc4e6fd9-122f-493a-9095-0e1fbe45614g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:15:09.312316Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083599,
+        "annotations": [
+            {
+                "id": 914949,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "FJzRw-L0H_",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.22379447123802,
+                            "y": 1.5777146318100264,
+                            "width": 5.355345991678836,
+                            "height": 17.31413193805715,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 833
+                    },
+                    {
+                        "id": "leZ0x1mvXU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.85171590730834,
+                            "y": 0,
+                            "width": 7.928004635586805,
+                            "height": 19.116230657250878,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 833
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:15:45.558041Z",
+                "updated_at": "2025-08-08T02:15:45.558082Z",
+                "draft_created_at": "2025-08-08T02:15:25.528899Z",
+                "lead_time": 33.31,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e63cc555-15eb-4d97-81e9-48e9d36b7641",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083599,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_cf332a59-ab78-4b46-a3d4-b4851e0b388g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_cf332a59-ab78-4b46-a3d4-b4851e0b388g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:15:45.735408Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083600,
+        "annotations": [
+            {
+                "id": 914966,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "YDi7cphq_T",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 20.601222993978887,
+                            "y": 12.244118419243243,
+                            "width": 1.6981087897617861,
+                            "height": 6.653262826408167,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "HtU70DZdDc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.521257731984736,
+                            "y": 19.17362372215483,
+                            "width": 0.9661923281992847,
+                            "height": 1.8445408476526421,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "RRcUvZG_dv",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 24.720504023276284,
+                            "y": 20.846617622979128,
+                            "width": 2.4615437998297227,
+                            "height": 3.4712691655005976,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "eO6ZBqxiuY",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 27.315955794010726,
+                            "y": 20.64486109540334,
+                            "width": 0.6434251179410992,
+                            "height": 0.9497203483752479,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "G_l5_PztfS",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.181632687842058,
+                            "y": 19.375734488410885,
+                            "width": 0.42680444355590874,
+                            "height": 0.9275437695758779,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "pILYmCQTMj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.724729013650943,
+                            "y": 19.203316831865806,
+                            "width": 0.43946801307362193,
+                            "height": 0.6580728170174055,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "DlzWnksaT7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.11103465118788,
+                            "y": 17.80542020126076,
+                            "width": 0.9513071347222216,
+                            "height": 1.4639957939381305,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "JfZ_z5xZjN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.40277043792632,
+                            "y": 3.7294567777383962,
+                            "width": 10.630939023459327,
+                            "height": 15.980147896564148,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "bxU4SMJDNy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.356077994973745,
+                            "y": 2.686254425156691,
+                            "width": 0.917645497647427,
+                            "height": 0.6131264436151147,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "rnCJgjlDYQ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.46691201844173,
+                            "y": 2.18574304261374,
+                            "width": 0.9015464538290641,
+                            "height": 1.3076846978160133,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    },
+                    {
+                        "id": "LrAiqiaGF0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 17.496628480233436,
+                            "y": 1.5071233284893148e-14,
+                            "width": 28.11822268326594,
+                            "height": 24.51561210122208,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1646
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:18:24.251818Z",
+                "updated_at": "2025-08-08T02:18:24.251839Z",
+                "draft_created_at": "2025-08-08T02:16:00.788732Z",
+                "lead_time": 155.776,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "559fccf9-0d3f-4ddb-bb64-88779a1e6d1f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083600,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_d657b1d2-cbd1-445f-affb-90fa8a66b7fg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_d657b1d2-cbd1-445f-affb-90fa8a66b7fg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:18:24.306900Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 31,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083601,
+        "annotations": [
+            {
+                "id": 914968,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qGTaToBb8L",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 80.1396456390003,
+                            "y": 38.79209955565002,
+                            "width": 12.334358559205914,
+                            "height": 20.774579068406236,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 605
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:18:51.413901Z",
+                "updated_at": "2025-08-08T02:18:51.413926Z",
+                "draft_created_at": "2025-08-08T02:18:37.240760Z",
+                "lead_time": 24.395,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b8b327b1-ede2-41e5-a2f0-b260f6f4fa87",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083601,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_de0ae143-c623-43fe-9359-d76b6a4f967g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_de0ae143-c623-43fe-9359-d76b6a4f967g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:18:51.459782Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 32,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083602,
+        "annotations": [
+            {
+                "id": 914970,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "8eaI_Vd3QC",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.764170644293316,
+                            "y": 82.05186378333222,
+                            "width": 3.7354645119338663,
+                            "height": 13.64880728315443,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 562
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:19:33.579681Z",
+                "updated_at": "2025-08-08T02:19:33.579711Z",
+                "draft_created_at": "2025-08-08T02:19:01.561638Z",
+                "lead_time": 40.865,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "96cdf6a0-c09e-42c2-bc33-8833461eebbf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083602,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_ec5399c4-5c37-4d10-ab00-36cd72cbd8fg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_ec5399c4-5c37-4d10-ab00-36cd72cbd8fg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:19:33.689792Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 33,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083603,
+        "annotations": [
+            {
+                "id": 914972,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "peis01er6j",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 5.265569771216628,
+                            "y": 52.04888656261826,
+                            "width": 5.8277793526487125,
+                            "height": 7.961570667452827,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1919,
+                        "original_height": 884
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:19:59.292640Z",
+                "updated_at": "2025-08-08T02:19:59.292668Z",
+                "draft_created_at": "2025-08-08T02:19:48.564584Z",
+                "lead_time": 23.839,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e4e829d8-a10e-494d-b821-c4044faaced4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083603,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_ee22bd1a-8a58-429e-be91-9bb4dffb600g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_ee22bd1a-8a58-429e-be91-9bb4dffb600g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:19:59.342639Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 34,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083604,
+        "annotations": [
+            {
+                "id": 914977,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "tcrb-J63gU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 26.256296128164706,
+                            "y": 0.079451637323037,
+                            "width": 13.06954656846457,
+                            "height": 40.262747473206396,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 605
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:20:25.022243Z",
+                "updated_at": "2025-08-08T02:20:25.022272Z",
+                "draft_created_at": "2025-08-08T02:20:09.256254Z",
+                "lead_time": 24.181,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ad09a969-979b-4f00-975a-91374b084ebf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083604,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_fcd4d76a-f1a6-4170-a5ec-c0d0b7ad4e5g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_fcd4d76a-f1a6-4170-a5ec-c0d0b7ad4e5g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:20:25.075971Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 35,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    },
+    {
+        "id": 1083605,
+        "annotations": [
+            {
+                "id": 914982,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "JLGgTj5JAf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.22338289503469,
+                            "y": 72.7041651407034,
+                            "width": 2.776139068015944,
+                            "height": 1.6742064785607222,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1700
+                    },
+                    {
+                        "id": "Y3b2VSMzmE",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 69.69441646580312,
+                            "y": 73.46227959464477,
+                            "width": 0.5642965593210789,
+                            "height": 1.0804661432850367,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1700
+                    },
+                    {
+                        "id": "5t90n9sd1p",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.12312320882408,
+                            "y": 74.67298655922282,
+                            "width": 0.424452233246025,
+                            "height": 0.6498567451025883,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1700
+                    },
+                    {
+                        "id": "V7-EjJuMxI",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.56328310195735,
+                            "y": 75.08600246284684,
+                            "width": 1.146508905894207,
+                            "height": 0.8591326460677772,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "山火"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1700
+                    },
+                    {
+                        "id": "1qTroqUTIJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 64.93465996761793,
+                            "y": 68.59715093986505,
+                            "width": 9.348212753834726,
+                            "height": 7.642325466119088,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "烟雾"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3838,
+                        "original_height": 1700
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T02:21:10.659455Z",
+                "updated_at": "2025-08-08T02:25:18.776293Z",
+                "draft_created_at": "2025-08-08T02:20:38.467866Z",
+                "lead_time": 131.13,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "53380940-abaa-47c5-a88d-63d4bc6528b1",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083605,
+                "project": 622,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_fd44828d-4cc4-43a6-a26c-c900384da96g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_fd44828d-4cc4-43a6-a26c-c900384da96g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:55:40.706064Z",
+        "updated_at": "2025-08-08T02:25:19.045771Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 36,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 622,
+        "updated_by": 99,
+        "batch": 21514,
+        "comment_authors": []
+    }
+]

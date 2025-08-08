@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>01wpdaqd00192.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工器具标注\images\01wpdaqd00192.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>5184</width>
+    <height>3888</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>扳手</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2889</xmin>
+      <ymin>1294</ymin>
+      <xmax>3047</xmax>
+      <ymax>1420</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -31,13 +31,13 @@ os.makedirs(output_dir, exist_ok=True)
 summary_txt_path = os.path.join(output_dir, "summary_v2.txt")
 
 # 图像列表
-log("开始处理抗干扰能力模拟图像...")
+log(f"开始读取图像目录：{input_dir}")
 time.sleep(1)
 image_files = sorted([f for f in os.listdir(input_dir) if f.lower().endswith((".jpg", ".png"))])
 
 # 清空汇总文本
 with open(summary_txt_path, "w", encoding="utf-8") as f:
-    f.write("抗干扰能力识别结果汇总（版本2）\n\n")
+    f.write("抗干扰能力识别结果汇总\n\n")
 
 for i, filename in enumerate(image_files):
     img_path = os.path.join(input_dir, filename)

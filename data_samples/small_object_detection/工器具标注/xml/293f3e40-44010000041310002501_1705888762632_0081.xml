@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>293f3e40-44010000041310002501_1705888762632_0081.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工器具标注\images\293f3e40-44010000041310002501_1705888762632_0081.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>电锤/冲击钻</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>911</xmin>
+      <ymin>627</ymin>
+      <xmax>1050</xmax>
+      <ymax>799</ymax>
+    </bndbox>
+  </object>
+</annotation>

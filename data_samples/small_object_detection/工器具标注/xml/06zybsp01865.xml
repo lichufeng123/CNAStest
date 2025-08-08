@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>06zybsp01865.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工器具标注\images\06zybsp01865.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>3472</width>
+    <height>4624</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绝缘操作杆</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1399</xmin>
+      <ymin>652</ymin>
+      <xmax>1541</xmax>
+      <ymax>1063</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,3392 @@
+[
+    {
+        "id": 1083182,
+        "annotations": [
+            {
+                "id": 914650,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ml6egH79T-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 20.499273147293298,
+                            "y": 17.64705882352928,
+                            "width": 79.50072685270668,
+                            "height": 52.12981744421914,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 573,
+                        "original_height": 313
+                    },
+                    {
+                        "id": "NQdofi9Jak",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.46355655061306,
+                            "y": 0,
+                            "width": 45.20778640433386,
+                            "height": 29.817444219066942,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 573,
+                        "original_height": 313
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:26:00.177094Z",
+                "updated_at": "2025-08-08T01:50:54.928604Z",
+                "draft_created_at": "2025-08-08T01:25:05.880280Z",
+                "lead_time": 83.582,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "24045889-d67b-42e6-846a-7027fad460b5",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083182,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_7675.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_7675.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:15.539934Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083183,
+        "annotations": [
+            {
+                "id": 914653,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "3q2au34j9c",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0.7754274203571778,
+                            "y": 2.1653543307086576,
+                            "width": 61.28418804477298,
+                            "height": 47.347082442509304,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 405,
+                        "original_height": 228
+                    },
+                    {
+                        "id": "uHKtS34Pm4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.27471566054241,
+                            "y": 2.1653543307086607,
+                            "width": 69.8167584523413,
+                            "height": 51.96850393700787,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 405,
+                        "original_height": 228
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:26:40.015219Z",
+                "updated_at": "2025-08-08T01:51:15.278441Z",
+                "draft_created_at": "2025-08-08T01:26:09.984745Z",
+                "lead_time": 66.711,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5ea134f6-0156-4c14-ab47-427538a73f4a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083183,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_7698.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_7698.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:17.398830Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083184,
+        "annotations": [
+            {
+                "id": 914654,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "kgkD0ymOf4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 45.95791805094131,
+                            "height": 51.364653861644314,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 400,
+                        "original_height": 282
+                    },
+                    {
+                        "id": "DRGjEdIjqk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 11.295681063122924,
+                            "y": 12.881204749184274,
+                            "width": 8.527131782945736,
+                            "height": 16.492424836721938,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 400,
+                        "original_height": 282
+                    },
+                    {
+                        "id": "zolYRLmM_e",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 35.88039867109634,
+                            "y": 0,
+                            "width": 30.011074197120603,
+                            "height": 47.441199856704785,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 400,
+                        "original_height": 282
+                    },
+                    {
+                        "id": "UhzCkoHjUn",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 20.604914933837424,
+                            "y": 30.567509954550953,
+                            "width": 10.586011342155016,
+                            "height": 25.606992988242215,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 400,
+                        "original_height": 282
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:27:45.440413Z",
+                "updated_at": "2025-08-08T02:03:34.735952Z",
+                "draft_created_at": "2025-08-08T01:26:51.403704Z",
+                "lead_time": 92.235,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "407a64c8-d27c-4018-864a-d9f9f4472374",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083184,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_7790.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_7790.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:21.808041Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083185,
+        "annotations": [
+            {
+                "id": 914655,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "e9cq_TLDGL",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 100,
+                            "height": 84.47368421052609,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 853,
+                        "original_height": 1249
+                    },
+                    {
+                        "id": "Kc2HMRRX2w",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 68.06888794857213,
+                            "y": 61.682618353323235,
+                            "width": 22.84913461894071,
+                            "height": 36.274877294509274,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 853,
+                        "original_height": 1249
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:28:22.849619Z",
+                "updated_at": "2025-08-08T02:03:56.296730Z",
+                "draft_created_at": "2025-08-08T01:27:56.310017Z",
+                "lead_time": 55.047,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6447da9c-e42f-4d79-b908-43d332eddf1f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083185,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_7954.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_7954.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:24.204232Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083186,
+        "annotations": [
+            {
+                "id": 914657,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "A0B-rXj8Va",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 24.913883865188843,
+                            "width": 78.51605758582491,
+                            "height": 68.35122702738872,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 768
+                    },
+                    {
+                        "id": "Re5-ohObvl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 24.918122471769394,
+                            "width": 91.58361018826136,
+                            "height": 61.94471821039824,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 768
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:30:18.718188Z",
+                "updated_at": "2025-08-08T01:30:18.719190Z",
+                "draft_created_at": "2025-08-08T01:28:37.246859Z",
+                "lead_time": 114.45,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "bd71c623-6eab-4214-9689-af9a28cf5478",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083186,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11221.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11221.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:26.504970Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083187,
+        "annotations": [
+            {
+                "id": 914660,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "hedPzhfIBT",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.35955871106926,
+                            "y": 0,
+                            "width": 37.64044128893069,
+                            "height": 84.257602862254,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "mvVhjfW0NI",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.055329201938584,
+                            "y": 0,
+                            "width": 46.94467079806134,
+                            "height": 81.03756708407867,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "mwHdekqlEr",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 21.15578413834228,
+                            "y": 0,
+                            "width": 78.84421586165762,
+                            "height": 82.82647584973162,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "yF-GMZdlqf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.17132207107212,
+                            "y": 0,
+                            "width": 83.82867792892785,
+                            "height": 82.64758497316633,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "w67OYC86n1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 20.800889877641822,
+                            "y": 77.96909082470879,
+                            "width": 16.462736373748612,
+                            "height": 17.605923734611665,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "kbXvM1Bl4J",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 34.482758620689644,
+                            "y": 88.38892323907078,
+                            "width": 7.3414916023369345,
+                            "height": 11.611076760929224,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    },
+                    {
+                        "id": "ljZGE6vl2D",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.50055617352614,
+                            "y": 77.07082940967757,
+                            "width": 19.911012235817573,
+                            "height": 21.558273960748977,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 743
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:31:47.271148Z",
+                "updated_at": "2025-08-08T02:04:19.853931Z",
+                "draft_created_at": "2025-08-08T01:31:00.727820Z",
+                "lead_time": 114.061,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d4897558-5927-4134-98dd-96ffce35cf82",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083187,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11241.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11241.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:28.330154Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083188,
+        "annotations": [
+            {
+                "id": 914663,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "NgjHjIw86J",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 19.237435008665514,
+                            "width": 96.15190270279443,
+                            "height": 61.87175043327564,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 767
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:32:10.240277Z",
+                "updated_at": "2025-08-08T01:32:10.240277Z",
+                "draft_created_at": "2025-08-08T01:32:00.656301Z",
+                "lead_time": 17.674,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e274249d-9ea3-442d-82f4-570bb4587432",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083188,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11285.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11285.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:30.883396Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083189,
+        "annotations": [
+            {
+                "id": 914664,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "X9Uipl6OLK",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 10.188261351052045,
+                            "y": 0,
+                            "width": 75.30454042081955,
+                            "height": 83.22259136212622,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 800
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:32:29.398426Z",
+                "updated_at": "2025-08-08T01:32:29.398426Z",
+                "draft_created_at": "2025-08-08T01:32:22.119628Z",
+                "lead_time": 17.426,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0903ee2d-9d86-440a-bc19-1f8bac5e0315",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083189,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11379.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11379.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:32.659137Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083190,
+        "annotations": [
+            {
+                "id": 914755,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "UH66kU-Qm4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 32.6688815060908,
+                            "height": 94.79329063466771,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 399,
+                        "original_height": 272
+                    },
+                    {
+                        "id": "wOPhaVKxNW",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.03630039727845,
+                            "y": 9.446492068974287,
+                            "width": 58.84358832409955,
+                            "height": 89.10909256754982,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 399,
+                        "original_height": 272
+                    },
+                    {
+                        "id": "CAG5wiv7Fz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.84760845383756,
+                            "y": 0.3263429954851796,
+                            "width": 37.15239154616238,
+                            "height": 62.65904138170468,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 399,
+                        "original_height": 272
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:52:04.541875Z",
+                "updated_at": "2025-08-08T02:04:58.655978Z",
+                "draft_created_at": "2025-08-08T01:32:43.363001Z",
+                "lead_time": 71.922,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "886b678a-6270-4e66-b943-a71f696f8a21",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083190,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11553.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11553.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:51.096638Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083191,
+        "annotations": [
+            {
+                "id": 914760,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "PaJxyzcEzi",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 33.554817275747496,
+                            "height": 99.99999999999989,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 500,
+                        "original_height": 332
+                    },
+                    {
+                        "id": "1Fw-1TjHoL",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 26.135105204872655,
+                            "y": 0,
+                            "width": 27.021040974529324,
+                            "height": 99.99999999999997,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 500,
+                        "original_height": 332
+                    },
+                    {
+                        "id": "qvH-vrpym-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 52.15946843853825,
+                            "y": 0,
+                            "width": 37.652270210409654,
+                            "height": 82.72162740379126,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 500,
+                        "original_height": 332
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:52:50.604165Z",
+                "updated_at": "2025-08-08T01:59:45.166270Z",
+                "draft_created_at": "2025-08-08T01:52:24.159139Z",
+                "lead_time": 50.492000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "10d538f4-3a1f-4342-8e6d-989ea38cc03f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083191,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230919174830_11748.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230919174830_11748.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:53.399548Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083192,
+        "annotations": [
+            {
+                "id": 914762,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ocuUPuCLE-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 56.146179401993344,
+                            "height": 45.671646288637234,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 625,
+                        "original_height": 294
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:53:05.808878Z",
+                "updated_at": "2025-08-08T01:53:05.808878Z",
+                "draft_created_at": "2025-08-08T01:53:02.899337Z",
+                "lead_time": 12.554,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "98e5ee9c-7ab3-4bd3-b82d-1e6723274dce",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083192,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230924113903_8499.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230924113903_8499.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:56.892453Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083193,
+        "annotations": [
+            {
+                "id": 914666,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "9JB3aIHX11",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 31.828259042624747,
+                            "width": 86.48947951273529,
+                            "height": 51.722162372235935,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 300,
+                        "original_height": 167
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:33:21.578036Z",
+                "updated_at": "2025-08-08T01:33:21.578036Z",
+                "draft_created_at": "2025-08-08T01:33:13.300583Z",
+                "lead_time": 18.694,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "389b8ef4-892c-4508-b632-00fd59ad7124",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083193,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "fire_smoke_20230924113903_11672.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "fire_smoke_20230924113903_11672.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:07:58.692658Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083194,
+        "annotations": [
+            {
+                "id": 914668,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "euEjZgCL9Q",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.823610567468286,
+                            "y": 27.001017130132443,
+                            "width": 5.000876456733362,
+                            "height": 15.29579884812223,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 856
+                    },
+                    {
+                        "id": "SvUuWm-wFi",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 52.54034631643284,
+                            "y": 27.12848212053367,
+                            "width": 5.34184530605606,
+                            "height": 16.952843723335594,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 856
+                    },
+                    {
+                        "id": "vJaivYGXsq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 67.65663196973979,
+                            "y": 20.62776761008166,
+                            "width": 8.410564949960508,
+                            "height": 17.33523869453864,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 856
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:34:13.610562Z",
+                "updated_at": "2025-08-08T01:34:13.610562Z",
+                "draft_created_at": "2025-08-08T01:33:37.692924Z",
+                "lead_time": 49.869,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d27dcea5-6469-4f5b-b5a4-9e5b90558dbf",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083194,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sd_sh_cc_20250717_21.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sd_sh_cc_20250717_21.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:01.076117Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083195,
+        "annotations": [
+            {
+                "id": 914669,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "LO_wQG3bEM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.842477098280455,
+                            "y": 33.84551495016591,
+                            "width": 5.732071755330104,
+                            "height": 13.26576066407833,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 2048
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:34:29.790814Z",
+                "updated_at": "2025-08-08T01:34:29.790814Z",
+                "draft_created_at": "2025-08-08T01:34:22.987376Z",
+                "lead_time": 14.675,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6e57f783-ae90-4435-abfb-c2573c18d8fc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083195,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sd_sh_cc_20250717_31.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sd_sh_cc_20250717_31.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:03.305639Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083196,
+        "annotations": [
+            {
+                "id": 914720,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "16yCjNRTtN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.53743938025609,
+                            "y": 0,
+                            "width": 16.067409031614137,
+                            "height": 15.392053336334103,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 960
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:46:31.792757Z",
+                "updated_at": "2025-08-08T02:00:11.564340Z",
+                "draft_created_at": "2025-08-08T01:46:07.965753Z",
+                "lead_time": 72.859,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "65972fc9-cf7b-4d82-bf96-5bc5fdefc6e9",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083196,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sd_sh_cc_20250717_38.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sd_sh_cc_20250717_38.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:05.997738Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083197,
+        "annotations": [
+            {
+                "id": 914671,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "c8R9UFMgSg",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 82.34394137222084,
+                            "y": 0,
+                            "width": 7.387654639969239,
+                            "height": 14.984297711756685,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 958
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:35:06.728798Z",
+                "updated_at": "2025-08-08T02:00:14.537629Z",
+                "draft_created_at": "2025-08-08T01:34:44.132908Z",
+                "lead_time": 31.706,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "47406fdb-7518-4625-9dc3-9d1151606cb6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083197,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "sd_sh_cc_20250717_52.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "sd_sh_cc_20250717_52.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:09.760767Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083198,
+        "annotations": [
+            {
+                "id": 914676,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Zp2KFl-oF2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 36.21262458471757,
+                            "y": 0,
+                            "width": 34.44075304540421,
+                            "height": 61.669590201194715,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 668
+                    },
+                    {
+                        "id": "-2-AOUvwyR",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.40088593576957,
+                            "y": 40.185409911074885,
+                            "width": 7.7519379844961644,
+                            "height": 25.262499557924826,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1200,
+                        "original_height": 668
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:35:49.833782Z",
+                "updated_at": "2025-08-08T01:35:49.833782Z",
+                "draft_created_at": "2025-08-08T01:35:17.179356Z",
+                "lead_time": 41.153,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "980b6472-a4cc-403f-b57e-97a96afc0b46",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083198,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_23.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_23.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:12.210842Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083199,
+        "annotations": [
+            {
+                "id": 914769,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "7okgswKcvG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 28.975935777347566,
+                            "y": 25.519767718302123,
+                            "width": 6.0753898199183975,
+                            "height": 9.773463984631885,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "74aHwPZaHo",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 35.75776627400064,
+                            "y": 25.91706300223021,
+                            "width": 5.404271177020451,
+                            "height": 8.104823792133779,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "XPLadoPRe4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.270376428653776,
+                            "y": 26.155440172587124,
+                            "width": 1.801423725673473,
+                            "height": 3.0194441578537514,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "dzEWUHiddQ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.41641031624564,
+                            "y": 29.969474898297126,
+                            "width": 1.0596610151020442,
+                            "height": 2.2248535899975046,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "8ul3qcopVF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.562444203837444,
+                            "y": 26.71165357008649,
+                            "width": 3.70881355285717,
+                            "height": 5.005920577494363,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "A-5G875Q1s",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 63.23830859898041,
+                            "y": 28.698129989727132,
+                            "width": 4.097355925061242,
+                            "height": 5.641593031779349,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "17dPQEeZqz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 61.93139334702123,
+                            "y": 11.376055610460806,
+                            "width": 9.32501693289801,
+                            "height": 14.938302675697507,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "8m2V1Wb6-4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 80.08691873910294,
+                            "y": 21.86465110616337,
+                            "width": 4.839118635632687,
+                            "height": 5.800511145350626,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    },
+                    {
+                        "id": "6WdzsSgVOc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 66.87647808416405,
+                            "y": 24.884095264017102,
+                            "width": 7.912135579428655,
+                            "height": 7.469151337848706,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1707
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:54:41.607907Z",
+                "updated_at": "2025-08-08T01:54:41.607907Z",
+                "draft_created_at": "2025-08-08T01:53:21.677779Z",
+                "lead_time": 90.837,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "025ffb36-89d0-4dd8-a9fe-47cbdcb116bd",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083199,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_69.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_69.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:15.044648Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083200,
+        "annotations": [
+            {
+                "id": 914679,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "vdtiL0IZbd",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 77.92116371994545,
+                            "y": 2.1856734665381827,
+                            "width": 3.2524064775149784,
+                            "height": 16.250007077305614,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2592,
+                        "original_height": 1706
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:36:28.774496Z",
+                "updated_at": "2025-08-08T01:36:28.774496Z",
+                "draft_created_at": "2025-08-08T01:36:19.688684Z",
+                "lead_time": 19.284,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "fb50a0b4-7b01-4bc1-8f41-4411118dc2bc",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083200,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_77.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_77.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:18.494953Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083201,
+        "annotations": [
+            {
+                "id": 914682,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "q_Sakz6LOC",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 78.6619396498212,
+                            "y": 9.709606337081341,
+                            "width": 3.3283833129915874,
+                            "height": 8.624672057511184,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2592,
+                        "original_height": 1701
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:36:46.297601Z",
+                "updated_at": "2025-08-08T01:36:46.297601Z",
+                "draft_created_at": "2025-08-08T01:36:38.716676Z",
+                "lead_time": 15.211,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "cd184d4d-7f72-464b-b43d-2416ac100203",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083201,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_79.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_79.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:21.657958Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083202,
+        "annotations": [
+            {
+                "id": 914694,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "7_QyotTF3r",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.68143479703108,
+                            "y": 17.04883430218052,
+                            "width": 6.569888899551149,
+                            "height": 9.983527255352923,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "I-09n9GY4n",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.25453226871686,
+                            "y": 17.78835483961407,
+                            "width": 3.984744645843133,
+                            "height": 9.650743013507821,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "FeIJI-c_B9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.407144356357406,
+                            "y": 21.190149311808394,
+                            "width": 3.540165697753194,
+                            "height": 6.433828675671889,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "qXU1CGfcjq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 79.08630034669739,
+                            "y": 22.1885020373437,
+                            "width": 2.3052241752811344,
+                            "height": 5.398499923264888,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "MRZjwR0TqA",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.26547866251664,
+                            "y": 21.756461624688008,
+                            "width": 4.754762678322686,
+                            "height": 8.908719051150978,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "dtnIy7X55i",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.5191123053417,
+                            "y": 27.816735108053436,
+                            "width": 1.5568889990648147,
+                            "height": 4.721638480279725,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "KWFBpES_x3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 63.026242895921655,
+                            "y": 30.544960038982826,
+                            "width": 1.6136569226967716,
+                            "height": 1.959729424198911,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "pVIlALqA-4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.97820523904484,
+                            "y": 29.177770947343223,
+                            "width": 1.3259237809043043,
+                            "height": 3.1561638349665904,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "Q8AohhhKwK",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.43092412511693,
+                            "y": 28.22496677074945,
+                            "width": 2.0949595738287927,
+                            "height": 7.324682107563936,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "gEVWV1j131",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.92795065154805,
+                            "y": 28.224966770749543,
+                            "width": 1.007702073487259,
+                            "height": 2.14380939733579,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "4mBIJQU2uh",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.693574189316095,
+                            "y": 26.79576050585903,
+                            "width": 4.428585428220351,
+                            "height": 3.69211618430051,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    },
+                    {
+                        "id": "qqABtAYl55",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.750303749211604,
+                            "y": 31.936019952760393,
+                            "width": 1.9380348959327955,
+                            "height": 2.23704962573648,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1710
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:40:23.124728Z",
+                "updated_at": "2025-08-08T02:08:49.631145Z",
+                "draft_created_at": "2025-08-08T01:37:19.029702Z",
+                "lead_time": 193.82399999999998,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f44777bb-3b30-4067-b77b-6b1970bc3a06",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083202,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_88.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_88.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:49.768737Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083203,
+        "annotations": [
+            {
+                "id": 914693,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "zvtVpEG1Du",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 12.121622463355362,
+                            "width": 2.6049607184059917,
+                            "height": 13.57112378791951,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "YjhfBJw5l2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 5.449011823937482,
+                            "width": 12.384239480946507,
+                            "height": 33.61937483825518,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "08t88FDaq3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 2.4674770523490523,
+                            "width": 14.604861732702409,
+                            "height": 34.647490276733876,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "9huBIlfjjb",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 64.96848474399506,
+                            "y": 25.58405416811751,
+                            "width": 8.629252661775451,
+                            "height": 11.693784997257318,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "3k444PAetS",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 25.775419293310115,
+                            "y": 42.36634408044964,
+                            "width": 6.571360145440592,
+                            "height": 6.326479536221395,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "Bm9IBL8qhb",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 35.912159281041184,
+                            "y": 34.01339138607147,
+                            "width": 6.567426494050619,
+                            "height": 14.803834198655471,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "b6hF6vy7xk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 57.291267039603554,
+                            "y": 47.48466558647536,
+                            "width": 0.5038038927869877,
+                            "height": 1.3405954764672958,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "hDs9OTLtNR",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.55069510778921,
+                            "y": 35.65645189978279,
+                            "width": 3.8603920132661966,
+                            "height": 12.511133025873605,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    },
+                    {
+                        "id": "eM2Rr77f3E",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.539084952811525,
+                            "y": 41.08683552825539,
+                            "width": 0.871636260510634,
+                            "height": 2.865238848150703,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1595
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:40:18.901491Z",
+                "updated_at": "2025-08-08T02:01:23.506160Z",
+                "draft_created_at": "2025-08-08T01:38:45.996666Z",
+                "lead_time": 209.878,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "7fcfcd53-9203-4322-bf66-5a5d82469069",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083203,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_91.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_91.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:26.337421Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083204,
+        "annotations": [
+            {
+                "id": 914697,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "FM43mXCzfk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 92.69583839800055,
+                            "y": 20.00208511734175,
+                            "width": 3.9872959469847378,
+                            "height": 19.368558569422845,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1644
+                    },
+                    {
+                        "id": "eq52EWA8ZD",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 96.01270405301456,
+                            "y": 7.30143950410361,
+                            "width": 3.9872959469842706,
+                            "height": 31.492268395486555,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1644
+                    },
+                    {
+                        "id": "qItO1Ocb3r",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 73.65667668017541,
+                            "y": 34.451068201500505,
+                            "width": 7.941423237418784,
+                            "height": 14.959120767447962,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1644
+                    },
+                    {
+                        "id": "eik1ZLE6XF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 84.15984934901925,
+                            "y": 32.15733635049173,
+                            "width": 6.276286106992374,
+                            "height": 14.261028464967037,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1644
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:41:25.714699Z",
+                "updated_at": "2025-08-08T02:01:34.282354Z",
+                "draft_created_at": "2025-08-08T01:41:00.725384Z",
+                "lead_time": 81.93299999999999,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "8739b081-6adf-4696-b0eb-d7ee90d62e81",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083204,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_96.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_96.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:28.184130Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083205,
+        "annotations": [
+            {
+                "id": 914699,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "u6Bf7wRTI3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 9.464533777232931e-15,
+                            "y": 9.008465746562282e-15,
+                            "width": 54.62664139364111,
+                            "height": 54.99207606973051,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1140,
+                        "original_height": 797
+                    },
+                    {
+                        "id": "vRH19XO_t_",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 0,
+                            "y": 0,
+                            "width": 72.57071737698243,
+                            "height": 49.44532488114104,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1140,
+                        "original_height": 797
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:41:53.096961Z",
+                "updated_at": "2025-08-08T01:41:53.096961Z",
+                "draft_created_at": "2025-08-08T01:41:36.400063Z",
+                "lead_time": 25.329,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "fdfb4321-9347-42a0-b38d-55670ede59cb",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083205,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "VH_01_20240403_109.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "VH_01_20240403_109.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:29.935684Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083206,
+        "annotations": [
+            {
+                "id": 914786,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "w7T-CpoJCw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.836674840742404,
+                            "y": 18.61766088312628,
+                            "width": 2.1901256006083916,
+                            "height": 5.542509056150088,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    },
+                    {
+                        "id": "WFKRHKxohm",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.4746015426537,
+                            "y": 13.510550498177126,
+                            "width": 4.544906500273154,
+                            "height": 9.626318262355595,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:58:15.656625Z",
+                "updated_at": "2025-08-08T02:01:42.917483Z",
+                "draft_created_at": "2025-08-08T01:57:58.902044Z",
+                "lead_time": 27.982,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f5ccb778-d2d7-4e03-844d-b3ecfefd4d78",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083206,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_04_20240403_1.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_04_20240403_1.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:31.908470Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083207,
+        "annotations": [
+            {
+                "id": 914704,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "8M_32O2ZI9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 68.50409732944037,
+                            "y": 56.72887956454704,
+                            "width": 1.1173951399674553,
+                            "height": 7.5145312390112045,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1713
+                    },
+                    {
+                        "id": "Udg3AS2tZO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.52717126035538,
+                            "y": 64.37056303778806,
+                            "width": 1.1733565045335501,
+                            "height": 1.6055024748725306,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1713
+                    },
+                    {
+                        "id": "yloWrSOGb0",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.681519266049165,
+                            "y": 67.78652575028326,
+                            "width": 0.6095358465109371,
+                            "height": 1.810460237622678,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1713
+                    },
+                    {
+                        "id": "szTDm_ZphE",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 59.38248548953676,
+                            "y": 67.44492947903375,
+                            "width": 0.7162046196504306,
+                            "height": 1.5371832206230216,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1713
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:42:35.608279Z",
+                "updated_at": "2025-08-08T02:02:12.905535Z",
+                "draft_created_at": "2025-08-08T01:42:20.665054Z",
+                "lead_time": 50.177,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "effd475b-0fdc-4a87-afa6-69dd90ad9198",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083207,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_20230628_4.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_20230628_4.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.717694Z",
+        "updated_at": "2025-08-08T02:08:33.856789Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083208,
+        "annotations": [
+            {
+                "id": 914707,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "XaS4y6lH1e",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 78.7576701529432,
+                            "y": 14.161346806064252,
+                            "width": 3.8387275830122283,
+                            "height": 3.6311497526040486,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2592,
+                        "original_height": 1696
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:42:57.364564Z",
+                "updated_at": "2025-08-08T01:42:57.364564Z",
+                "draft_created_at": "2025-08-08T01:42:45.462538Z",
+                "lead_time": 20.15,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6baaf32a-14a8-42cc-9d67-852c33b57b66",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083208,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_20230628_6.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_20230628_6.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.718691Z",
+        "updated_at": "2025-08-08T02:08:35.648206Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083209,
+        "annotations": [
+            {
+                "id": 914793,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "bhW4h1kS4L",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.600926549238224,
+                            "y": 45.73341515042731,
+                            "width": 6.856949311448814,
+                            "height": 10.211770433217108,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2560,
+                        "original_height": 989
+                    },
+                    {
+                        "id": "crxZ3iFiNG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 1.7377200309835947,
+                            "y": 40.14125515128463,
+                            "width": 10.003631529716364,
+                            "height": 17.14118608432861,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2560,
+                        "original_height": 989
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:58:49.552777Z",
+                "updated_at": "2025-08-08T01:58:49.552777Z",
+                "draft_created_at": "2025-08-08T01:58:31.784369Z",
+                "lead_time": 26.902,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "bae74aa3-321c-4f1c-a93e-cbf7b0f931f7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083209,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_20230628_9.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_20230628_9.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.718691Z",
+        "updated_at": "2025-08-08T02:08:38.638347Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083210,
+        "annotations": [
+            {
+                "id": 914710,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ZLwOGo1b1F",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 79.92569477335606,
+                            "y": 9.809851225512425,
+                            "width": 1.8080329753019584,
+                            "height": 17.953717277541447,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    },
+                    {
+                        "id": "OpYi6k9yx8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.21597673591238,
+                            "y": 23.210371652302758,
+                            "width": 1.35278324266869,
+                            "height": 4.496295667942848,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    },
+                    {
+                        "id": "d9gQQgxieq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.03092058237285,
+                            "y": 30.932104236890527,
+                            "width": 2.2280987700942614,
+                            "height": 4.802459228053988,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    },
+                    {
+                        "id": "0_8wTom2qe",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.116252389394624,
+                            "y": 28.21346185723431,
+                            "width": 4.00947667870709,
+                            "height": 7.0890535297153345,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    },
+                    {
+                        "id": "2pAoQZaDdm",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 59.1520568731741,
+                            "y": 26.140450350316907,
+                            "width": 3.560658488457656,
+                            "height": 5.982388275326763,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    },
+                    {
+                        "id": "jKTh7rSVdr",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 70.4114364177563,
+                            "y": 19.43729240326401,
+                            "width": 1.1548081584186833,
+                            "height": 5.910311308154167,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3840,
+                        "original_height": 1709
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:43:43.958787Z",
+                "updated_at": "2025-08-08T02:08:22.743308Z",
+                "draft_created_at": "2025-08-08T01:43:21.324482Z",
+                "lead_time": 725.558,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9d900463-4339-4680-b99b-173603b28f48",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083210,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_20230628_13.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_20230628_13.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.718691Z",
+        "updated_at": "2025-08-08T02:08:40.876683Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    },
+    {
+        "id": 1083211,
+        "annotations": [
+            {
+                "id": 914712,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "WYR4jbkZkx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 12.62458471760798,
+                            "y": 10.283421469113982,
+                            "width": 29.346622369878183,
+                            "height": 71.96562804423586,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 969,
+                        "original_height": 668
+                    },
+                    {
+                        "id": "l585cowHfm",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.011074197120756,
+                            "y": 17.18935742572413,
+                            "width": 25.24916943521586,
+                            "height": 65.5403283014885,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 969,
+                        "original_height": 668
+                    },
+                    {
+                        "id": "YD6-RJ-dlr",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.0454042081949,
+                            "y": 35.180635406927045,
+                            "width": 25.581395348837187,
+                            "height": 33.09009367887133,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "工厂排烟"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 969,
+                        "original_height": 668
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:44:58.294209Z",
+                "updated_at": "2025-08-08T01:44:58.294209Z",
+                "draft_created_at": "2025-08-08T01:43:58.260999Z",
+                "lead_time": 72.086,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "81439b35-2f52-4a0f-a00e-116a440a6fb2",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083211,
+                "project": 617,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "YH_20230628_32.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "YH_20230628_32.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:23:20.718691Z",
+        "updated_at": "2025-08-08T02:08:43.935072Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 617,
+        "updated_by": 99,
+        "batch": 21499,
+        "comment_authors": []
+    }
+]

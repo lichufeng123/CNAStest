@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>img_v3_02ov_fbcd3d7b-1aba-4e48-a3ef-1b16031b20eg.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\带电作业违规\违规带电作业—已截图\img_v3_02ov_fbcd3d7b-1aba-4e48-a3ef-1b16031b20eg.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1283</width>
+    <height>571</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>未带安全帽的工作人员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>453</xmin>
+      <ymin>204</ymin>
+      <xmax>566</xmax>
+      <ymax>571</ymax>
+    </bndbox>
+  </object>
+</annotation>

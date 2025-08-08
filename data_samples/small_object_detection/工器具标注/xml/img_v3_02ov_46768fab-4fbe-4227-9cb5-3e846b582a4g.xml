@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>img_v3_02ov_46768fab-4fbe-4227-9cb5-3e846b582a4g.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\工器具标注\images\img_v3_02ov_46768fab-4fbe-4227-9cb5-3e846b582a4g.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1277</width>
+    <height>569</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绝缘操作杆</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>500</xmin>
+      <ymin>34</ymin>
+      <xmax>659</xmax>
+      <ymax>429</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>ZBDZX_415.png</filename>
+  <path>D:\新建文件夹\513项目\0804主变变压器端子箱识别-497\images\ZBDZX_415.png</path>
+  <size>
+    <width>2703</width>
+    <height>1520</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <object>
+    <name>MainTR</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>298</xmin>
+      <xmax>2520</xmax>
+      <ymin>1</ymin>
+      <ymax>1520</ymax>
+    </bndbox>
+  </object>
+</annotation>

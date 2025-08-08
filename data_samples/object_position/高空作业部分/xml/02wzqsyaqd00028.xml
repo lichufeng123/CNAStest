@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>02wzqsyaqd00028.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\高空作业部分\高空作业违章\02wzqsyaqd00028.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>安全帽、工作服均未穿戴的工作人员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>525</xmin>
+      <ymin>734</ymin>
+      <xmax>705</xmax>
+      <ymax>1065</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>img_v3_02ov_0ec56553-bceb-4332-8d55-e85ac4762f4g.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\远距离山火\远距离山火-已截图\img_v3_02ov_0ec56553-bceb-4332-8d55-e85ac4762f4g.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1919</width>
+    <height>834</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>烟雾</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>863</xmin>
+      <ymin>0</ymin>
+      <xmax>917</xmax>
+      <ymax>47</ymax>
+    </bndbox>
+  </object>
+</annotation>

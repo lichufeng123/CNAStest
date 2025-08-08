@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>sample_images_20250515_11.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\异物外飘部分\异物外飘安全隐患\sample_images_20250515_11.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>8000</width>
+    <height>6000</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>异物</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2381</xmin>
+      <ymin>3380</ymin>
+      <xmax>2738</xmax>
+      <ymax>4146</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>异物</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>3026</xmin>
+      <ymin>3540</ymin>
+      <xmax>3122</xmax>
+      <ymax>3964</ymax>
+    </bndbox>
+  </object>
+</annotation>

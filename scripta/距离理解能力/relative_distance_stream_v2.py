@@ -47,7 +47,7 @@ scenes = [
 ]
 
 # 获取图像文件
-log("开始读取图像目录...")
+log(f"开始读取图像目录：{input_dir}")
 time.sleep(1)
 image_files = sorted([f for f in os.listdir(input_dir) if f.lower().endswith((".jpg", ".png"))])
 
@@ -60,7 +60,7 @@ for i, filename in enumerate(image_files):
     output_img_path = os.path.join(output_dir, f"annotated_{filename}")
     output_txt_path = os.path.join(output_dir, f"{filename.rsplit('.', 1)[0]}_result.txt")
 
-    log(f"加载图像：{filename}")
+    # log(f"加载图像：{filename}")
     time.sleep(0.8)
     image = Image.open(img_path).convert("RGB")
     draw = ImageDraw.Draw(image)
@@ -83,10 +83,10 @@ for i, filename in enumerate(image_files):
 
     result_text = f"图像文件：{filename}\n"
     result_text += f"- 场景类型：{scene['name']}\n"
-    result_text += f"  目标1：{scene['obj1']} 坐标：({obj1_x},{obj1_y})\n"
-    result_text += f"  目标2：{scene['obj2']} 坐标：({obj2_x},{obj2_y})\n"
+    # result_text += f"  目标1：{scene['obj1']} 坐标：({obj1_x},{obj1_y})\n"
+    # result_text += f"  目标2：{scene['obj2']} 坐标：({obj2_x},{obj2_y})\n"
     result_text += f"  预估相对距离：{scene['distance']}\n"
-    result_text += f"  建议：若低于5米，请立即排查风险区域\n\n"
+    # result_text += f"  建议：若低于5米，请立即排查风险区域\n\n"
 
     with open(output_txt_path, "w", encoding="utf-8") as ftxt:
         ftxt.write(result_text)

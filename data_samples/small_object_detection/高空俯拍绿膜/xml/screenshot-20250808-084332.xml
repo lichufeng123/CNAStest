@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>screenshot-20250808-084332.png</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\高空俯拍绿膜\绿膜已截图\screenshot-20250808-084332.png</path>
+  <source>Unknown</source>
+  <size>
+    <width>855</width>
+    <height>582</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绿膜</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>181</ymin>
+      <xmax>345</xmax>
+      <ymax>250</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>绿膜</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>66</xmin>
+      <ymin>217</ymin>
+      <xmax>92</xmax>
+      <ymax>227</ymax>
+    </bndbox>
+  </object>
+</annotation>

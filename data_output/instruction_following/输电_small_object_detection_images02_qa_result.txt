@@ -1,0 +1,4 @@
+图像文件：small_object_detection_images02.png
+输入指令：发现外飘物：
+输出内容：
+问题：发现外飘物：回答：请提供更多上下文

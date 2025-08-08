@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>01wpdaqd02068.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\高空作业部分\高空作业违章\01wpdaqd02068.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>3120</width>
+    <height>4160</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>未系安全绳的工作人员</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>561</xmin>
+      <ymin>491</ymin>
+      <xmax>1750</xmax>
+      <ymax>3706</ymax>
+    </bndbox>
+  </object>
+</annotation>

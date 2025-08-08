@@ -32,20 +32,20 @@ scene_labels = [
 ]
 
 # 获取图像
-log("读取图像目录中图片...")
+log(f"开始读取图像目录：{input_dir}")
 time.sleep(1)
 image_files = sorted([f for f in os.listdir(input_dir) if f.lower().endswith((".jpg", ".png"))])
 
 # 清空汇总
 with open(summary_path, "w", encoding="utf-8") as f:
-    f.write("物体位置理解能力识别结果（版本2）\n\n")
+    f.write("物体位置理解能力识别结果\n\n")
 
 for i, filename in enumerate(image_files):
     img_path = os.path.join(input_dir, filename)
     out_img_path = os.path.join(output_dir, f"annotated_{filename}")
     out_txt_path = os.path.join(output_dir, f"{filename.rsplit('.', 1)[0]}_result.txt")
 
-    log(f"加载图像：{filename}")
+    # log(f"加载图像：{filename}")
     time.sleep(0.5)
     image = Image.open(img_path).convert("RGB")
     draw = ImageDraw.Draw(image)
@@ -69,9 +69,9 @@ for i, filename in enumerate(image_files):
     result_text = f"图像文件：{filename}\n"
     result_text += f"- 场景识别：{label}\n"
     result_text += f"  说明：{desc}\n"
-    result_text += f"  区域坐标：({box_x}, {box_y})\n"
-    result_text += f"  风险等级：{risk}\n"
-    result_text += f"  建议：对目标区域进行核查并采取相应处理措施\n\n"
+    # result_text += f"  区域坐标：({box_x}, {box_y})\n"
+    # result_text += f"  风险等级：{risk}\n"
+    # result_text += f"  建议：对目标区域进行核查并采取相应处理措施\n\n"
 
     with open(out_txt_path, "w", encoding="utf-8") as f:
         f.write(result_text)
@@ -82,4 +82,4 @@ for i, filename in enumerate(image_files):
     time.sleep(0.8)
 
 log("全部图像处理完成", level="INFO_DONE")
-stream_print(f"汇总文本路径：{summary_path}")
+stream_print(f"输出结果文件已经保存至路径：{summary_path}")

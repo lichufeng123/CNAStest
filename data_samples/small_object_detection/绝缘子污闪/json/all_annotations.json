@@ -1,0 +1,3872 @@
+[
+    {
+        "id": 1083212,
+        "annotations": [
+            {
+                "id": 914651,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "qZL-L7rCan",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 9.062601622623042,
+                            "y": 66.333925660303,
+                            "width": 1.837370436519684,
+                            "height": 3.2250631426891845,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 761
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:26:16.577117Z",
+                "updated_at": "2025-08-08T01:52:02.755564Z",
+                "draft_created_at": "2025-08-08T01:26:16.137309Z",
+                "lead_time": 51.897,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "25446faf-54bb-4483-a80a-414070fe3c9a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083212,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "02b3c809ea8a45bbb179058fe070d6c5(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "02b3c809ea8a45bbb179058fe070d6c5(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:05.658825Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083213,
+        "annotations": [
+            {
+                "id": 914652,
+                "completed_by": 23,
+                "result": [
+                    {
+                        "id": "DO9GHAJjxg",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.563298621064995,
+                            "y": 97.80493591561239,
+                            "width": 1.6103294754692279,
+                            "height": 2.1950640843876155,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "CUsQLsXCHb",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.85548771674725,
+                            "y": 86.75912344737978,
+                            "width": 0.5604153036578934,
+                            "height": 0.6158217832152751,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "CVkPZ7YThX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.63680355583551,
+                            "y": 94.76562934847178,
+                            "width": 1.142476765313425,
+                            "height": 1.469088662059816,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "xrqWPf9JJ6",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.6330077370343,
+                            "y": 98.72612811626375,
+                            "width": 1.3693953061166337,
+                            "height": 1.2738718837362317,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "MVvM-aXwnx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.54057052165624,
+                            "y": 93.72365317421286,
+                            "width": 1.0849546359039692,
+                            "height": 1.2115146482676522,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:26:34.348057Z",
+                "updated_at": "2025-08-08T01:52:17.162383Z",
+                "draft_created_at": "2025-08-08T01:26:32.951711Z",
+                "lead_time": 177.63899999999998,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f0a15fe8-b9e6-4dd5-abe0-fddf8b8cd501",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083213,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "2d68958c83704835b7567d567639b0e4(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "2d68958c83704835b7567d567639b0e4(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:07.259805Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083214,
+        "annotations": [
+            {
+                "id": 914665,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "qVWjFRCEz7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.5654016191986,
+                            "y": 44.667335187397505,
+                            "width": 0.4896610306372864,
+                            "height": 1.8678748181589526,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "r-C5Y2ppZA",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.41698602030691,
+                            "y": 44.623896238138016,
+                            "width": 0.5961090807758548,
+                            "height": 1.4334853255638336,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "ZagtKsXqVO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.54643160045577,
+                            "y": 44.26108370068621,
+                            "width": 0.42153427854862713,
+                            "height": 1.385702481378388,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "atc7s-YViV",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.29582587343109,
+                            "y": 43.831038103017036,
+                            "width": 0.7493942729753371,
+                            "height": 1.2423539488220072,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "gjtk2D1XVX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 64.26491766949405,
+                            "y": 41.613697735078226,
+                            "width": 0.5610621247482186,
+                            "height": 1.5263751746603873,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "Eox8D5B7vh",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.66985668635267,
+                            "y": 50.91205966571087,
+                            "width": 0.7467736880398661,
+                            "height": 2.116255580701022,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "DD5mL9bKkP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 57.90033263400852,
+                            "y": 53.11296546963993,
+                            "width": 0.7467736880398803,
+                            "height": 2.4548564736131837,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "UvpijkGvxk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 57.11207151885533,
+                            "y": 53.45156636255209,
+                            "width": 0.5808239795865688,
+                            "height": 1.5237040181047448,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:32:50.365739Z",
+                "updated_at": "2025-08-08T01:49:52.800612Z",
+                "draft_created_at": "2025-08-08T01:31:37.593073Z",
+                "lead_time": 174.114,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "08cd91fb-adbe-4656-ab8e-67d2b673c43f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083214,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "03a6af4b923f4432a675fa7b2e84f4fd(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "03a6af4b923f4432a675fa7b2e84f4fd(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:09.503661Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083215,
+        "annotations": [
+            {
+                "id": 914667,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "3icBrOcs7Q",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.382974345259406,
+                            "y": 97.79643233783874,
+                            "width": 1.4514991138770308,
+                            "height": 1.7699652099453047,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "N4pGTFS40m",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.37270792577807,
+                            "y": 98.79328437548315,
+                            "width": 1.4672415929077751,
+                            "height": 1.206715624516854,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "fYs2RlWRR3",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.125826585286354,
+                            "y": 93.5939140107171,
+                            "width": 1.3308138658479294,
+                            "height": 1.8467995644779478,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "oAVvpVMpfk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.139024969009,
+                            "y": 94.74816373851579,
+                            "width": 1.2175531113076736,
+                            "height": 1.5582371325282907,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "hPbHdsNh0Q",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.940818648563564,
+                            "y": 86.43756569836502,
+                            "width": 0.5946189613363089,
+                            "height": 0.9233997822389739,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:33:44.140129Z",
+                "updated_at": "2025-08-08T01:52:28.460483Z",
+                "draft_created_at": "2025-08-08T01:33:18.300017Z",
+                "lead_time": 154.68800000000002,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "cfbf4bc6-fdf8-448b-9de6-44e4f7917c4f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083215,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3c4333f485a2410aa63841bda47e8388(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "3c4333f485a2410aa63841bda47e8388(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:11.768810Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083216,
+        "annotations": [
+            {
+                "id": 914672,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "DG07s_F1jt",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.250807703846256,
+                            "y": 81.85091957298172,
+                            "width": 1.222371124667291,
+                            "height": 1.4830899904609534,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "9vEBSjTq6l",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 57.27798711499283,
+                            "y": 83.49564393619029,
+                            "width": 1.1029022546433822,
+                            "height": 1.2290951374557437,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:35:28.284646Z",
+                "updated_at": "2025-08-08T01:52:33.205850Z",
+                "draft_created_at": "2025-08-08T01:35:15.844630Z",
+                "lead_time": 25.384999999999998,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f479e9c6-13b6-40e0-a78c-9ebdb5c5e8c7",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083216,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3de7c01c85b843a99173be73539d0129(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "3de7c01c85b843a99173be73539d0129(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:13.413177Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083217,
+        "annotations": [
+            {
+                "id": 914674,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "i60bK_ZSCa",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.387499692769644,
+                            "y": 79.34217231032744,
+                            "width": 1.3799955278376024,
+                            "height": 1.741829806278197,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "KDfLt2cK0a",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.19250595332407,
+                            "y": 80.52644812034147,
+                            "width": 1.1906020410848404,
+                            "height": 1.1536892158008143,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:35:44.573628Z",
+                "updated_at": "2025-08-08T01:52:36.910095Z",
+                "draft_created_at": "2025-08-08T01:35:38.406442Z",
+                "lead_time": 32.675000000000004,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "12b395f2-6fa9-4c59-9ea7-7987b66fa96a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083217,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3ed26aedaf804c80a7b5ae64eaaced51(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "3ed26aedaf804c80a7b5ae64eaaced51(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:15.132444Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083218,
+        "annotations": [
+            {
+                "id": 914677,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "bPhec0rrka",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.1259864432566,
+                            "y": 74.58517048820852,
+                            "width": 0.9852793223908163,
+                            "height": 1.188843491353689,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "JtcbU-9zkl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.387085039139926,
+                            "y": 75.32710035404664,
+                            "width": 0.9964829647335791,
+                            "height": 1.1529795793201738,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:36:19.899326Z",
+                "updated_at": "2025-08-08T01:52:40.912005Z",
+                "draft_created_at": "2025-08-08T01:35:56.718768Z",
+                "lead_time": 46.688,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "30c906aa-5ab7-48b5-bec1-7c9213fc4145",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083218,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "5be6af1cfb09427b96dae409338a1b74(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "5be6af1cfb09427b96dae409338a1b74(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:16.715001Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083219,
+        "annotations": [
+            {
+                "id": 914743,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "dX2jYRRGKc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 18.939721984620515,
+                            "y": 81.34070257220093,
+                            "width": 1.9460256916460952,
+                            "height": 3.5947749040094714,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "8uqtJZ2V05",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.407817770804076,
+                            "y": 77.71002216092462,
+                            "width": 1.1822878309167573,
+                            "height": 2.011236429108723,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "nfPaEYL6tg",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 25.15953928452061,
+                            "y": 72.55705384596766,
+                            "width": 0.8965618365083904,
+                            "height": 1.5418247238113543,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "txgwEmSYJc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 27.2714662404876,
+                            "y": 65.10608026371624,
+                            "width": 1.9170798465368855,
+                            "height": 3.3050649823609493,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "6yboR8AIfT",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.41767916354356,
+                            "y": 60.25647390388966,
+                            "width": 1.5075006429307152,
+                            "height": 2.1786722578485893,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "pXeW1wi4Ja",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.249875580266796,
+                            "y": 53.83994189788568,
+                            "width": 0.617785933855906,
+                            "height": 1.4256598473597748,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "6jp6hR3F4a",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.924804514204286,
+                            "y": 94.4415106617939,
+                            "width": 2.0556826949055242,
+                            "height": 3.9612222869974545,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "otoOmoNISw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 34.883741726568296,
+                            "y": 88.81913064153947,
+                            "width": 0.5917874424728069,
+                            "height": 2.172283189643764,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "4QL3lALLp6",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.69691969506578,
+                            "y": 85.83742904092774,
+                            "width": 1.0175629339782404,
+                            "height": 2.6284626594689513,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "bxrElEmQqU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.31235958998262,
+                            "y": 75.22012821307383,
+                            "width": 1.3567505786376615,
+                            "height": 2.718180651168875,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "8ec32bBqmU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.81729858479667,
+                            "y": 70.53049943578506,
+                            "width": 0.8668128696851322,
+                            "height": 1.7780776814054724,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "Ml_zBYsKrU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.865323781802985,
+                            "y": 80.29508934544629,
+                            "width": 1.5992895708387591,
+                            "height": 3.168294804561831,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:50:23.783949Z",
+                "updated_at": "2025-08-08T01:52:53.180231Z",
+                "draft_created_at": "2025-08-08T01:48:57.333306Z",
+                "lead_time": 145.75300000000001,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "626c55d3-c18d-479e-8b6b-822d6c916231",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083219,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "5e58771cf4b745b2a3bc95e89cb87a22(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "5e58771cf4b745b2a3bc95e89cb87a22(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:18.745140Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083220,
+        "annotations": [
+            {
+                "id": 914734,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "hiqi4yO5sU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.70370035660912,
+                            "y": 65.36825737714686,
+                            "width": 0.38292516561316536,
+                            "height": 0.696722405095692,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "_A7V4NAmWx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.66045388926841,
+                            "y": 73.11929413383687,
+                            "width": 0.6594822296671055,
+                            "height": 0.870903006369673,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "CK77F15NCa",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.34639390828099,
+                            "y": 79.5330043735529,
+                            "width": 1.1797189445657574,
+                            "height": 1.583460011581138,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "4pTL2GGqR_",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.852533483425745,
+                            "y": 80.48308038050148,
+                            "width": 1.1797189445658134,
+                            "height": 1.6230465118707542,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:48:44.502957Z",
+                "updated_at": "2025-08-08T01:52:57.005241Z",
+                "draft_created_at": "2025-08-08T01:48:22.027857Z",
+                "lead_time": 35.5,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "a9afe8db-d656-4e87-8827-368bbc94cae3",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083220,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "5e15584495be4562ba909df5bdf82e67(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "5e15584495be4562ba909df5bdf82e67(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:20.473566Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083221,
+        "annotations": [
+            {
+                "id": 914732,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "sJbnot-uUw",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.068538096175956,
+                            "y": 86.32806293880093,
+                            "width": 0.9029175100833555,
+                            "height": 1.8229249414932127,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "YKFVkKwwMz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.546475272029674,
+                            "y": 81.57096537683356,
+                            "width": 0.9576397834217403,
+                            "height": 2.1175390734516952,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "QhkvZVmHGB",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.946597707132376,
+                            "y": 55.39799313939069,
+                            "width": 0.9104418226673872,
+                            "height": 1.4704927861378536,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "oC4HrnT32_",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 70.25459616648602,
+                            "y": 53.32410424150714,
+                            "width": 1.1537279295509677,
+                            "height": 2.025472157214679,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "p7soZBq1Wk",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.15905059240701,
+                            "y": 30.031174433538375,
+                            "width": 1.504862516805595,
+                            "height": 2.2280193729361457,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "E77LRLA9y4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 58.416344367615395,
+                            "y": 31.75282576717085,
+                            "width": 1.1537279295509464,
+                            "height": 1.5191041179110023,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "aJxD_QarCo",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 62.469785038690816,
+                            "y": 17.05452876183161,
+                            "width": 1.4045383490185515,
+                            "height": 1.9241985493539389,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    },
+                    {
+                        "id": "4Lm87BSbxn",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 72.49924659831646,
+                            "y": 54.969613233754174,
+                            "width": 0.5917874424728069,
+                            "height": 1.2576588516772276,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 951
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:48:09.712012Z",
+                "updated_at": "2025-08-08T01:52:59.800323Z",
+                "draft_created_at": "2025-08-08T01:47:38.898689Z",
+                "lead_time": 43.024,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "6774b958-0499-4174-8ecf-e2d5d2fe1b50",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083221,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "5ff8b4a3d4c447908c159960aa57e494(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "5ff8b4a3d4c447908c159960aa57e494(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:22.585588Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083222,
+        "annotations": [
+            {
+                "id": 914723,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "1Z1o3-x1Bd",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.224722614797265,
+                            "y": 93.42780921429888,
+                            "width": 1.5444648346397614,
+                            "height": 1.9453684725675373,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 940
+                    },
+                    {
+                        "id": "ov7icHVOYy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.482133420570555,
+                            "y": 97.42370121200514,
+                            "width": 1.5187237540624352,
+                            "height": 2.0505235251387433,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 940
+                    },
+                    {
+                        "id": "zIE6KHQD1y",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.23019867434667,
+                            "y": 94.6896698451534,
+                            "width": 1.2613129482891763,
+                            "height": 1.6824808411395455,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 940
+                    },
+                    {
+                        "id": "e4SzJy8_qh",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.46186839954267,
+                            "y": 98.63298431657415,
+                            "width": 1.4157594317531235,
+                            "height": 1.3670156834258478,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 940
+                    },
+                    {
+                        "id": "aBRD_RQTGl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.78539473301495,
+                            "y": 86.4657766953507,
+                            "width": 0.7402205795850441,
+                            "height": 1.0374386248870318,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 940
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:47:01.811720Z",
+                "updated_at": "2025-08-08T01:53:19.811595Z",
+                "draft_created_at": "2025-08-08T01:46:47.713504Z",
+                "lead_time": 44.843,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "324abbd4-3602-4e55-bf70-7d446a55b358",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083222,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "6a555b304f024875bd08022a1eac1693(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "6a555b304f024875bd08022a1eac1693(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:24.618735Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083223,
+        "annotations": [
+            {
+                "id": 914719,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "M_HqA8NogJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 36.292996595940735,
+                            "y": 82.97048912023128,
+                            "width": 1.5007049976583104,
+                            "height": 3.0093832253293584,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 831
+                    },
+                    {
+                        "id": "y8ouz29Nls",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.518779590989205,
+                            "y": 76.7460747188957,
+                            "width": 0.28420184152552963,
+                            "height": 1.1256679437421582,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 831
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:46:17.489762Z",
+                "updated_at": "2025-08-08T01:53:36.741949Z",
+                "draft_created_at": null,
+                "lead_time": 23.962,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0023d82c-7457-4a03-86c1-1185cb882429",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083223,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "6c40189037f1404aa769bcf6b3fb40a0(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "6c40189037f1404aa769bcf6b3fb40a0(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:26.705398Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083224,
+        "annotations": [
+            {
+                "id": 914717,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "Y__r3xRWFC",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.41301941833335,
+                            "y": 97.91870822936363,
+                            "width": 1.7869841061947798,
+                            "height": 2.0812917706363674,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "S32AGDJPsx",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.24283045583863,
+                            "y": 93.88620542375577,
+                            "width": 1.4253325608934375,
+                            "height": 1.777770054085228,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "y9YNnuY4Az",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.17789083215586,
+                            "y": 94.97021155429557,
+                            "width": 1.446606181205297,
+                            "height": 1.6910495636420109,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "478GGYvhkC",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.56081599776903,
+                            "y": 98.95935411468186,
+                            "width": 1.3189644593342322,
+                            "height": 1.040645885318142,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    },
+                    {
+                        "id": "8pSKqAmsoi",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.67890633618075,
+                            "y": 86.79438816333501,
+                            "width": 0.7430049664407932,
+                            "height": 0.8480668151986634,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 942
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:46:05.701818Z",
+                "updated_at": "2025-08-08T01:53:50.234254Z",
+                "draft_created_at": "2025-08-08T01:45:42.532479Z",
+                "lead_time": 44.827,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "692d3deb-7ac1-4754-a4a6-6025d00ada2d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083224,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "6ceef232bb9e482394ecdfb3d519d47d(1).png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "6ceef232bb9e482394ecdfb3d519d47d(1).png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:29.045727Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083225,
+        "annotations": [
+            {
+                "id": 914715,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "MAhs2t6uha",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 84.57705908558847,
+                            "y": 67.90281454647842,
+                            "width": 1.8065090349169828,
+                            "height": 3.672032884041766,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1026
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:45:31.385157Z",
+                "updated_at": "2025-08-08T01:45:31.385157Z",
+                "draft_created_at": "2025-08-08T01:45:31.145700Z",
+                "lead_time": 9.423,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "96058170-24a4-4e44-ba7e-810ce13a7360",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083225,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "6ddfb305bafa49fd9271e68ea12b0128.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "6ddfb305bafa49fd9271e68ea12b0128.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:30.892538Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083226,
+        "annotations": [
+            {
+                "id": 914714,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "iPwRmcDzz-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 18.669214301885926,
+                            "y": 81.05648105280213,
+                            "width": 2.228084392526114,
+                            "height": 4.144116246373159,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "WzCWkCCIll",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 22.405540437045104,
+                            "y": 77.89571442421241,
+                            "width": 1.131181306974792,
+                            "height": 2.0369384939800312,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "3BMMGwJ1v4",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 25.147798150923396,
+                            "y": 72.69800930164266,
+                            "width": 0.8912337570104434,
+                            "height": 1.8262207187407284,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "AfTaGpILxA",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 27.091175001874333,
+                            "y": 64.76677799835134,
+                            "width": 1.9986186127491208,
+                            "height": 3.7168757985050127,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "SgsHVRCCrh",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 30.18077823929127,
+                            "y": 59.986336308117686,
+                            "width": 1.9164641977672185,
+                            "height": 2.80510056553426,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "rov0p_-lTK",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.34154187473077,
+                            "y": 53.751644315885386,
+                            "width": 0.5655906534873902,
+                            "height": 2.0088427906147843,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "qh0vui04NL",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.993039374173122,
+                            "y": 94.73065083384888,
+                            "width": 1.9908791002756345,
+                            "height": 4.249475133992831,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "zGMzQM4viZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 34.77197478497454,
+                            "y": 89.2063331596582,
+                            "width": 0.9539629022154088,
+                            "height": 3.569559112553975,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "DUyCo5nKX6",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.88272337915522,
+                            "y": 85.87348034795642,
+                            "width": 1.742019212741191,
+                            "height": 3.162873806342185,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "h5FZtXE6rt",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.74461208580145,
+                            "y": 80.62239338899275,
+                            "width": 1.7978927136614729,
+                            "height": 2.974632593794945,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "jJGv0oA8tf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.03557271532315,
+                            "y": 75.37186297501309,
+                            "width": 1.6590659168963753,
+                            "height": 2.907905298302507,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "KSDmBjCgk2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.552518233371984,
+                            "y": 70.4059474052065,
+                            "width": 1.1688873505406292,
+                            "height": 2.3951587118868645,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:45:16.920050Z",
+                "updated_at": "2025-08-08T01:52:45.594789Z",
+                "draft_created_at": "2025-08-08T01:43:47.340489Z",
+                "lead_time": 144.68099999999998,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "24a75852-e47a-4623-9496-c8c2dfd75b11",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083226,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "7aac84a69bf04e41a3cd7c53ce003f0c.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "7aac84a69bf04e41a3cd7c53ce003f0c.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:33.164108Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083227,
+        "annotations": [
+            {
+                "id": 914708,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "96TE8wz1Gd",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 36.245193387059565,
+                            "y": 64.323141305574,
+                            "width": 1.0200071908410844,
+                            "height": 1.748025924288898,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    },
+                    {
+                        "id": "ZhkR6RkaNG",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 36.762504079399775,
+                            "y": 60.07160082526221,
+                            "width": 0.9930530046922501,
+                            "height": 1.3674462402808467,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    },
+                    {
+                        "id": "rS_EeNVmkP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.84484772553185,
+                            "y": 50.93700844410311,
+                            "width": 0.808921305032996,
+                            "height": 1.7516491417255864,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    },
+                    {
+                        "id": "q28Tuulw0p",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 46.56279510404179,
+                            "y": 42.96561105002258,
+                            "width": 0.8531490568181752,
+                            "height": 1.3483094660525055,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    },
+                    {
+                        "id": "PSvpE0mttJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.76706035273064,
+                            "y": 51.4847216910731,
+                            "width": 0.7916802680836099,
+                            "height": 1.491511916320313,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    },
+                    {
+                        "id": "ImUbi5NfSq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 43.817056021002834,
+                            "y": 69.61192323785788,
+                            "width": 1.0323103587499887,
+                            "height": 1.3051635631388336,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 770
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:43:33.008882Z",
+                "updated_at": "2025-08-08T01:43:33.008882Z",
+                "draft_created_at": "2025-08-08T01:42:58.784904Z",
+                "lead_time": 46.143,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "da4e3e7c-3b7b-4845-9890-6b0e3017e5a8",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083227,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "7dd2b5120d6e43f8ace823d0bc687636.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "7dd2b5120d6e43f8ace823d0bc687636.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:35.943724Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083228,
+        "annotations": [
+            {
+                "id": 914706,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "FiW4MUn6-i",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.34217728735499,
+                            "y": 84.17268058485317,
+                            "width": 1.979269831565444,
+                            "height": 3.4371958422783364,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:42:44.947225Z",
+                "updated_at": "2025-08-08T01:42:44.947225Z",
+                "draft_created_at": "2025-08-08T01:42:41.101223Z",
+                "lead_time": 11.989,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "df136009-60b9-4783-b459-db3b770cdb45",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083228,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "7fb5c7b922f84696ab12847e64e51ae4.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "7fb5c7b922f84696ab12847e64e51ae4.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:37.786698Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083229,
+        "annotations": [
+            {
+                "id": 914703,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "EG2TTtf8Nv",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.606609851571335,
+                            "y": 74.73122734460374,
+                            "width": 1.05383569637155,
+                            "height": 1.767965234862089,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "Cb4Xj2cYG9",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.220068344575715,
+                            "y": 72.48543366788704,
+                            "width": 1.2177656935849015,
+                            "height": 2.054662299974865,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "-tKLoMaOWo",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.079556918392825,
+                            "y": 67.22932080748625,
+                            "width": 0.8899056991581914,
+                            "height": 1.3379196371929254,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:42:31.735283Z",
+                "updated_at": "2025-08-08T01:42:31.735283Z",
+                "draft_created_at": "2025-08-08T01:42:23.963380Z",
+                "lead_time": 15.956,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4d990492-5420-4814-929f-75e4a981c395",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083229,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "8e472e292c9040a1a11776c0d22acfb3.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "8e472e292c9040a1a11776c0d22acfb3.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:40.315181Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083230,
+        "annotations": [
+            {
+                "id": 914702,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "vUPVYdvL1M",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.52958244133772,
+                            "y": 97.90703244476991,
+                            "width": 1.625752038479477,
+                            "height": 1.9744976936140568,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "D0iZaNgTI6",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.572628728344604,
+                            "y": 99.03070113222573,
+                            "width": 0.9677095467140095,
+                            "height": 0.9692988677742216,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "I558FMNAhZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.85414423284325,
+                            "y": 95.00990582886612,
+                            "width": 0.7565729183400478,
+                            "height": 1.220598574234188,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:42:14.585545Z",
+                "updated_at": "2025-08-08T01:42:14.585545Z",
+                "draft_created_at": "2025-08-08T01:41:44.167836Z",
+                "lead_time": 39.737,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "40d3658c-8413-4eb8-b536-b992196251c0",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083230,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "9d8a841d092d448cb62f0f0c1518f830.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "9d8a841d092d448cb62f0f0c1518f830.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:42.504525Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083231,
+        "annotations": [
+            {
+                "id": 914698,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "vhorObgLH8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.423705771981695,
+                            "y": 83.84316951345437,
+                            "width": 1.9268800243878061,
+                            "height": 3.0643137976136643,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:41:33.697510Z",
+                "updated_at": "2025-08-08T01:41:33.697510Z",
+                "draft_created_at": null,
+                "lead_time": 7.652,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f938bd0c-2832-4870-9463-13504fa57201",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083231,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "13da049f61aa4e26988170f090dc4c33.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "13da049f61aa4e26988170f090dc4c33.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:44.275398Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083232,
+        "annotations": [
+            {
+                "id": 914696,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "HiV_ImO7XX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.32379741545143,
+                            "y": 97.57264386543507,
+                            "width": 1.8018756404130882,
+                            "height": 2.0941896062913,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "9uhJHg-dTM",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.49074025316779,
+                            "y": 98.8577147602048,
+                            "width": 1.2636530465234443,
+                            "height": 1.1422852397952,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    },
+                    {
+                        "id": "83g1Vtj80x",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.046121588650294,
+                            "y": 94.6217403292976,
+                            "width": 1.5444648346397543,
+                            "height": 1.6658326413679987,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 944
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:41:24.881491Z",
+                "updated_at": "2025-08-08T01:41:24.881491Z",
+                "draft_created_at": "2025-08-08T01:41:09.953990Z",
+                "lead_time": 26.382,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c6907e23-a440-4593-8f7d-f91d0e9206a4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083232,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "14f543505d7f491f8e61bf31a9ca110e.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "14f543505d7f491f8e61bf31a9ca110e.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:45.993592Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083233,
+        "annotations": [
+            {
+                "id": 914695,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "eWUSx6Usyy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 84.44434737636716,
+                            "y": 64.51256593774674,
+                            "width": 1.6216880763717554,
+                            "height": 4.497799090171442,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 934
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:40:57.097405Z",
+                "updated_at": "2025-08-08T01:40:57.097405Z",
+                "draft_created_at": "2025-08-08T01:40:48.410723Z",
+                "lead_time": 48.032,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "d92af083-c0dd-47e2-840a-6c15381f98ff",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083233,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "15b0766e47a7401c87578507a24961da.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "15b0766e47a7401c87578507a24961da.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:47.809065Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083234,
+        "annotations": [
+            {
+                "id": 914692,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "JpCr0l8xu-",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 44.067781690583075,
+                            "y": 72.19258807187327,
+                            "width": 1.4416833599761034,
+                            "height": 2.019618965820186,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "jMTB1_5kCq",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.641118582198004,
+                            "y": 72.2286526962629,
+                            "width": 1.4416833599761034,
+                            "height": 2.3081359609373493,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:39:58.180460Z",
+                "updated_at": "2025-08-08T01:39:58.180460Z",
+                "draft_created_at": "2025-08-08T01:39:55.882933Z",
+                "lead_time": 12.09,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e8dc647d-91d3-406e-9aea-d27de8579409",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083234,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "16ab239f6f8546368e9efa13eaa02202.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "16ab239f6f8546368e9efa13eaa02202.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.270017Z",
+        "updated_at": "2025-08-08T02:06:50.416274Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083235,
+        "annotations": [
+            {
+                "id": 914691,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "BLJE2G7pf7",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 35.306827751811454,
+                            "y": 78.73817950810194,
+                            "width": 1.0296432230931671,
+                            "height": 2.4428829328669224,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "xO1v7rG3Oy",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.366184304688776,
+                            "y": 66.06938062494795,
+                            "width": 1.3104550112094948,
+                            "height": 1.868086948662949,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "dDEFNW8PKF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 32.36430389041079,
+                            "y": 62.53945239413055,
+                            "width": 1.373115492855284,
+                            "height": 2.5335360185299294,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "CAh8Ftv3WZ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.02757973954186,
+                            "y": 54.007704797436894,
+                            "width": 1.0296432230931742,
+                            "height": 1.6860682203316841,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:39:44.879164Z",
+                "updated_at": "2025-08-08T01:54:21.772801Z",
+                "draft_created_at": "2025-08-08T01:39:30.362390Z",
+                "lead_time": 46.121,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "962d0600-5ff8-433b-9a37-01cf9844329d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083235,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "017dedce191a4b0f8d22ee8215c9e112.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "017dedce191a4b0f8d22ee8215c9e112.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:06:52.686727Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083236,
+        "annotations": [
+            {
+                "id": 914689,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "bL9NIsUHfY",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.0222305008103,
+                            "y": 86.76805713972196,
+                            "width": 0.7024660448676414,
+                            "height": 1.2187231604248296,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    },
+                    {
+                        "id": "9KRi5Jy_Bl",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.310752170612886,
+                            "y": 83.16672672976661,
+                            "width": 0.45795330316368843,
+                            "height": 1.0327410581773142,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    },
+                    {
+                        "id": "EJhU5yyCAj",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.79101954736098,
+                            "y": 87.70260965405447,
+                            "width": 0.22897665158186697,
+                            "height": 0.46819507032714114,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    },
+                    {
+                        "id": "NEYQU10C7H",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.882610207993736,
+                            "y": 83.46544426759382,
+                            "width": 0.4808509683219171,
+                            "height": 0.8193413730724899,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 939
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:39:07.837733Z",
+                "updated_at": "2025-08-08T01:54:41.505695Z",
+                "draft_created_at": "2025-08-08T01:39:00.538352Z",
+                "lead_time": 47.373,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "95560a30-709a-40c8-a627-7fa7317218f0",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083236,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "29e1a26d94054612a32a450977309972.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "29e1a26d94054612a32a450977309972.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:06:54.361252Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083237,
+        "annotations": [
+            {
+                "id": 914688,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "vO_tVQ2rpU",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.68369985437585,
+                            "y": 94.17026867847528,
+                            "width": 1.3858564967299118,
+                            "height": 1.5991254274989135,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    },
+                    {
+                        "id": "4pMvVHc8NJ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 37.42134339892229,
+                            "y": 90.23715920439395,
+                            "width": 1.528583826611,
+                            "height": 1.784170360822703,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 937
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:38:39.884339Z",
+                "updated_at": "2025-08-08T01:54:48.761830Z",
+                "draft_created_at": "2025-08-08T01:38:21.983110Z",
+                "lead_time": 34.921,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "00fe6a51-936b-4f2d-ae83-b1674f126e4d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083237,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "030f4a6a3d514a4691007c85da45db54.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "030f4a6a3d514a4691007c85da45db54.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:06:56.852404Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083238,
+        "annotations": [
+            {
+                "id": 914687,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "eM9pLLVfa2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.58108926448708,
+                            "y": 98.00180833406255,
+                            "width": 1.4902727019395765,
+                            "height": 1.9981916659374717,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    },
+                    {
+                        "id": "GGZAsw-a_M",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.713720295071575,
+                            "y": 99.1312210148098,
+                            "width": 0.9367428412191572,
+                            "height": 0.8687789851902039,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 941
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:38:08.637537Z",
+                "updated_at": "2025-08-08T01:38:08.637537Z",
+                "draft_created_at": "2025-08-08T01:38:02.475422Z",
+                "lead_time": 16.534,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "7d5ede37-5484-4906-96dc-a3dca42a1bcd",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083238,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "36a09571b0ab43c8b095afa1735ceb33.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "36a09571b0ab43c8b095afa1735ceb33.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:06:58.439346Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083239,
+        "annotations": [
+            {
+                "id": 914686,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "SHes12npQi",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 51.24842155682487,
+                            "y": 69.55403153161434,
+                            "width": 1.1844993701395554,
+                            "height": 1.6116139972703492,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 932
+                    },
+                    {
+                        "id": "BsCI7vwmWz",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.59849056051703,
+                            "y": 63.90256788861359,
+                            "width": 1.063681015592131,
+                            "height": 1.577717420552105,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 932
+                    },
+                    {
+                        "id": "sT9h6VDQ_a",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 50.337014974585244,
+                            "y": 61.02850439282097,
+                            "width": 1.0069407059700168,
+                            "height": 1.5804832662680683,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 932
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:37:50.655082Z",
+                "updated_at": "2025-08-08T01:37:50.655082Z",
+                "draft_created_at": "2025-08-08T01:37:27.637961Z",
+                "lead_time": 32.474,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f8d6c331-ce69-49b0-a031-c0fb33ebfdda",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083239,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "426952f51900406d87883629466f1145.png",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "426952f51900406d87883629466f1145.png"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:07:00.383648Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083240,
+        "annotations": [
+            {
+                "id": 914685,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "ObGdk-j1GC",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.54873234270017,
+                            "y": 77.97283852119341,
+                            "width": 1.1892379226726248,
+                            "height": 1.4489648768475405,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "V17a96p2kN",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.54873234270017,
+                            "y": 74.95899157735053,
+                            "width": 1.1609227340375625,
+                            "height": 1.3910062817736275,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "EXkCATcoJu",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.325030824252885,
+                            "y": 75.42266033794175,
+                            "width": 1.2741834885778047,
+                            "height": 1.7387578522170342,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "A1l7wSZjf2",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.40997639015808,
+                            "y": 69.51088364040379,
+                            "width": 0.7928252817817381,
+                            "height": 0.8693789261085101,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "k4pIUTrL2P",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.38166120152301,
+                            "y": 66.439078101487,
+                            "width": 0.9060860363220016,
+                            "height": 0.9852961162563219,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    },
+                    {
+                        "id": "vdDUeyoj6t",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.27952211358878,
+                            "y": 63.472576291637914,
+                            "width": 0.5148585133962499,
+                            "height": 0.748293485709549,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 938
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:37:16.969336Z",
+                "updated_at": "2025-08-08T01:53:45.978227Z",
+                "draft_created_at": "2025-08-08T01:36:53.958832Z",
+                "lead_time": 41.159,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "816cee5a-2dd9-4a6e-9e2d-afe2125f1719",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083240,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "986727e3615a4c2bad863e2816e3de1a.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "986727e3615a4c2bad863e2816e3de1a.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:07:02.900961Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    },
+    {
+        "id": 1083241,
+        "annotations": [
+            {
+                "id": 914681,
+                "completed_by": 99,
+                "result": [
+                    {
+                        "id": "egvDQQkDoI",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.20371054709493,
+                            "y": 79.71727773747847,
+                            "width": 1.1756227578556153,
+                            "height": 1.6799449377596143,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    },
+                    {
+                        "id": "Jvcb94kUqf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.82694611169556,
+                            "y": 80.74692140900856,
+                            "width": 1.2152504912664384,
+                            "height": 1.4360819629235522,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘子污闪"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 936
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T01:36:41.333739Z",
+                "updated_at": "2025-08-08T01:36:41.333739Z",
+                "draft_created_at": "2025-08-08T01:36:32.490386Z",
+                "lead_time": 18.429,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "62c3caf9-b0c7-4054-9e3c-ca1ac5acdd85",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083241,
+                "project": 616,
+                "updated_by": 99,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "3959008e60634c0e9bba1442c6b34ef9.jpeg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "3959008e60634c0e9bba1442c6b34ef9.jpeg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T01:25:49.271046Z",
+        "updated_at": "2025-08-08T02:07:05.019034Z",
+        "need_audit": true,
+        "audit_status": "accepted",
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 616,
+        "updated_by": 99,
+        "batch": 21500,
+        "comment_authors": []
+    }
+]

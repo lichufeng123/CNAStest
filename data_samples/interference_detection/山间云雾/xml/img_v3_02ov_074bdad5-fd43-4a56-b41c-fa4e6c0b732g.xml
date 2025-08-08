@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>img_v3_02ov_074bdad5-fd43-4a56-b41c-fa4e6c0b732g.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\山间云雾\山间烟雾-已截图\img_v3_02ov_074bdad5-fd43-4a56-b41c-fa4e6c0b732g.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>1136</width>
+    <height>545</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>山间云雾</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>550</xmin>
+      <ymin>0</ymin>
+      <xmax>1135</xmax>
+      <ymax>400</ymax>
+    </bndbox>
+  </object>
+</annotation>

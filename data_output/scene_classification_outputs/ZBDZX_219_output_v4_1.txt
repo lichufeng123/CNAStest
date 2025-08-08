@@ -1,0 +1,2 @@
+图像文件：ZBDZX_219.jpg
+识别失败：模型内部错误：CUDA out of memory

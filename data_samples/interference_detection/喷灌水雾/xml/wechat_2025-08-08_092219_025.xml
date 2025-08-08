@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>wechat_2025-08-08_092219_025.png</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\喷灌水雾\喷灌水雾-已截图\wechat_2025-08-08_092219_025.png</path>
+  <source>Unknown</source>
+  <size>
+    <width>640</width>
+    <height>385</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>喷灌水雾</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>248</xmin>
+      <ymin>171</ymin>
+      <xmax>405</xmax>
+      <ymax>292</ymax>
+    </bndbox>
+  </object>
+</annotation>

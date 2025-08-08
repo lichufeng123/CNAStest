@@ -1,0 +1,4 @@
+图像文件：small_object_detection_images03.png
+输入指令：电塔编号：
+输出内容：
+问题：电塔编号：回答：已识别目标区域

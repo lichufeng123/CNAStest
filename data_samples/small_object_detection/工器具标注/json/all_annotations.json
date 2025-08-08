@@ -1,0 +1,2345 @@
+[
+    {
+        "id": 1083648,
+        "annotations": [
+            {
+                "id": 915167,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "q-HJDt_DKP",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 40.29912170516962,
+                            "y": 14.109655376683182,
+                            "width": 4.1044932613457386,
+                            "height": 8.897803306046983,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3472,
+                        "original_height": 4624
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:54:29.530685Z",
+                "updated_at": "2025-08-08T07:54:29.530708Z",
+                "draft_created_at": "2025-08-08T07:54:21.837232Z",
+                "lead_time": 18.556,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ef613f93-71a0-412a-a0fc-05bd9dd065a2",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083648,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01865.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01865.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775580Z",
+        "updated_at": "2025-08-08T07:54:29.577215Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 1,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083649,
+        "annotations": [
+            {
+                "id": 915163,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "euQ4lEvJMO",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.4330903810512,
+                            "y": 2.1161533670083776,
+                            "width": 10.227510182246787,
+                            "height": 35.275774737170316,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2448
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:52:29.655670Z",
+                "updated_at": "2025-08-08T07:52:29.655670Z",
+                "draft_created_at": "2025-08-08T07:52:13.068209Z",
+                "lead_time": 44.734,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4bd041dc-827d-411f-86a3-3b8dfe29d618",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083649,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01907.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01907.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775662Z",
+        "updated_at": "2025-08-08T07:52:29.719588Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 2,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083650,
+        "annotations": [
+            {
+                "id": 915168,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "R1b8IWS4ZX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 42.12234188698918,
+                            "y": 3.601331851376101,
+                            "width": 11.917946612307615,
+                            "height": 71.11340754754991,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3968,
+                        "original_height": 2976
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:54:57.950305Z",
+                "updated_at": "2025-08-08T07:54:57.950336Z",
+                "draft_created_at": "2025-08-08T07:54:39.614996Z",
+                "lead_time": 27.085,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9abb8a23-4799-43c0-b392-4feff4f52415",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083650,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "11jyst02844.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "11jyst02844.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775712Z",
+        "updated_at": "2025-08-08T07:54:58.010959Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 3,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083651,
+        "annotations": [
+            {
+                "id": 915169,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "pxf1r6SGtf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 47.47544471887777,
+                            "y": 58.11667798921194,
+                            "width": 7.2550428795135025,
+                            "height": 15.932148089472106,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "电锤/冲击钻"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1920,
+                        "original_height": 1080
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:55:13.247298Z",
+                "updated_at": "2025-08-08T07:55:13.247327Z",
+                "draft_created_at": "2025-08-08T07:55:07.116820Z",
+                "lead_time": 14.116,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "369e7f7d-4590-4764-ae7e-80b76c787479",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083651,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "293f3e40-44010000041310002501_1705888762632_0081.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "293f3e40-44010000041310002501_1705888762632_0081.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775758Z",
+        "updated_at": "2025-08-08T07:55:13.303660Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 4,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083652,
+        "annotations": [
+            {
+                "id": 915164,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "xfo4IJtS06",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.807136401533654,
+                            "y": 8.776708941440495e-16,
+                            "width": 3.7513646493994335,
+                            "height": 31.910098696902665,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2448
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:53:04.958300Z",
+                "updated_at": "2025-08-08T07:53:04.958300Z",
+                "draft_created_at": "2025-08-08T07:52:41.820869Z",
+                "lead_time": 34.031,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "52c3418a-7d0e-450b-809b-d703705e3cc9",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083652,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "68085e2b-4b3d5601_491b_466d_9106_5a3989f0d68e.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "68085e2b-4b3d5601_491b_466d_9106_5a3989f0d68e.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775801Z",
+        "updated_at": "2025-08-08T07:53:05.065321Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 5,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083653,
+        "annotations": [
+            {
+                "id": 915165,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "I7XPh5K4xs",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 21.20873758889331,
+                            "y": 45.3468860888458,
+                            "width": 9.333865788896025,
+                            "height": 2.516739408272399,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2250,
+                        "original_height": 4000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:53:36.071525Z",
+                "updated_at": "2025-08-08T07:53:36.071525Z",
+                "draft_created_at": "2025-08-08T07:53:23.386586Z",
+                "lead_time": 28.781,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "b80276e5-010d-4df3-aa5a-dbbf76250c75",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083653,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "c3cdf014-3e994b28_a163_4a81_9516_0ed3da8d2b83.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "c3cdf014-3e994b28_a163_4a81_9516_0ed3da8d2b83.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775845Z",
+        "updated_at": "2025-08-08T07:53:36.156106Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 6,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083654,
+        "annotations": [
+            {
+                "id": 915171,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "iu8xD6gC8P",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.34831202800443,
+                            "y": 10.4693140794224,
+                            "width": 5.5194899535300035,
+                            "height": 23.978944456953606,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2448
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:55:30.796463Z",
+                "updated_at": "2025-08-08T07:55:30.796492Z",
+                "draft_created_at": "2025-08-08T07:55:21.992059Z",
+                "lead_time": 16.325,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9dbddf85-1500-4b05-a17b-02b95302e4d4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083654,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "f6981a90-1f5a91b3_4899_4cc8_88c9_d761ae8de6dd.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "f6981a90-1f5a91b3_4899_4cc8_88c9_d761ae8de6dd.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775892Z",
+        "updated_at": "2025-08-08T07:55:30.854958Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 7,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083655,
+        "annotations": [
+            {
+                "id": 915166,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "q7yKPIVbdb",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 53.659487926790305,
+                            "y": 4.839947982457371,
+                            "width": 1.9510382495898995,
+                            "height": 76.35703988442033,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1283,
+                        "original_height": 566
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:54:28.882685Z",
+                "updated_at": "2025-08-08T07:54:28.882685Z",
+                "draft_created_at": "2025-08-08T07:53:49.072308Z",
+                "lead_time": 49.421,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "bbbdc7a0-3890-4718-91be-d662a1fd2eb4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083655,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_0acb5ee1-2253-4419-a43a-f5907a478e9g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_0acb5ee1-2253-4419-a43a-f5907a478e9g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775935Z",
+        "updated_at": "2025-08-08T07:54:28.984524Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 8,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083656,
+        "annotations": [
+            {
+                "id": 915173,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "B1eUmWEoNe",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 21.67417914697332,
+                            "y": 0,
+                            "width": 28.452466717338766,
+                            "height": 99.99999999999993,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 541
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:55:44.946802Z",
+                "updated_at": "2025-08-08T07:55:44.946834Z",
+                "draft_created_at": "2025-08-08T07:55:41.418031Z",
+                "lead_time": 11.481,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "44c4bb47-d26d-4e8f-9d98-44848c9f4a05",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083656,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_2c1647c1-7c2c-482d-b89c-c4355a5ce39g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_2c1647c1-7c2c-482d-b89c-c4355a5ce39g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.775978Z",
+        "updated_at": "2025-08-08T07:55:44.997602Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 9,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083657,
+        "annotations": [
+            {
+                "id": 915170,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "SXF-bLxknX",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.93666760732983,
+                            "y": 28.56967280971961,
+                            "width": 2.6135349432416044,
+                            "height": 71.43032719028021,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1278,
+                        "original_height": 571
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:55:15.211982Z",
+                "updated_at": "2025-08-08T07:55:15.211982Z",
+                "draft_created_at": "2025-08-08T07:54:39.706704Z",
+                "lead_time": 43.596,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "87900e20-af65-4dac-b4c3-08f031c7ac22",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083657,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_2fd4fe8b-2735-41f1-856c-d23c0ede7b4g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_2fd4fe8b-2735-41f1-856c-d23c0ede7b4g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776020Z",
+        "updated_at": "2025-08-08T07:55:15.303895Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 10,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083658,
+        "annotations": [
+            {
+                "id": 915174,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "SJ81GqDjN_",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 38.20593923577076,
+                            "y": 44.030040828321006,
+                            "width": 4.951042632764759,
+                            "height": 43.65688816971956,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1284,
+                        "original_height": 570
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:01.203622Z",
+                "updated_at": "2025-08-08T07:56:01.203652Z",
+                "draft_created_at": "2025-08-08T07:55:53.522510Z",
+                "lead_time": 14.894,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5139a79b-dacd-4f53-8257-7868fc4f4a83",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083658,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_4b947d74-3355-4e7d-8a78-0eb7ed20d59g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_4b947d74-3355-4e7d-8a78-0eb7ed20d59g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776064Z",
+        "updated_at": "2025-08-08T07:56:01.256996Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 11,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083659,
+        "annotations": [
+            {
+                "id": 915172,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "TIGm0noW-o",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 23.470541734001905,
+                            "y": 2.8717085163514443e-15,
+                            "width": 13.100479742126062,
+                            "height": 99.99999999999982,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 542
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:55:35.194087Z",
+                "updated_at": "2025-08-08T07:55:35.194087Z",
+                "draft_created_at": "2025-08-08T07:55:24.002106Z",
+                "lead_time": 18.706,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "627105f8-33a1-4d7a-aec9-32ebd6fff38f",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083659,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_6eeb1e76-42df-477a-9977-41f054513e5g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_6eeb1e76-42df-477a-9977-41f054513e5g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776108Z",
+        "updated_at": "2025-08-08T07:55:35.259595Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 12,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083660,
+        "annotations": [
+            {
+                "id": 915175,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "RrVTgKEjhE",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.44376920399811,
+                            "y": 21.304397200132062,
+                            "width": 3.250271394453119,
+                            "height": 67.518777695678,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1277,
+                        "original_height": 547
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:03.917524Z",
+                "updated_at": "2025-08-08T07:56:03.917524Z",
+                "draft_created_at": "2025-08-08T07:55:45.358139Z",
+                "lead_time": 27.422,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0cbbceea-5d23-4c4d-a539-f88cdfadc19d",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083660,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_64b579b0-f6b7-4450-847a-18f02e7a404g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_64b579b0-f6b7-4450-847a-18f02e7a404g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776152Z",
+        "updated_at": "2025-08-08T07:56:03.985133Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 13,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083661,
+        "annotations": [
+            {
+                "id": 915176,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "LdMrOdLTAL",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 29.58722922882181,
+                            "y": 34.09201362500244,
+                            "width": 27.838985446570618,
+                            "height": 25.49797502082834,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1284,
+                        "original_height": 565
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:18.258307Z",
+                "updated_at": "2025-08-08T07:56:18.258338Z",
+                "draft_created_at": "2025-08-08T07:56:10.659586Z",
+                "lead_time": 15.277,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "e7652823-182f-4e45-8891-46febc11e8b4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083661,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_072d780b-6b13-413b-83ea-3a4669bb579g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_072d780b-6b13-413b-83ea-3a4669bb579g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776202Z",
+        "updated_at": "2025-08-08T07:56:18.311312Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 14,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083662,
+        "annotations": [
+            {
+                "id": 915177,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "86NkixRE15",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.49500753273313,
+                            "y": 5.8759696312896565,
+                            "width": 3.672594609871322,
+                            "height": 71.13985159833199,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1277,
+                        "original_height": 569
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:38.922373Z",
+                "updated_at": "2025-08-08T07:56:38.922373Z",
+                "draft_created_at": "2025-08-08T07:56:13.806446Z",
+                "lead_time": 32.351,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "33bbe556-6737-4e95-bac6-fb0cd5f19230",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083662,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_89d3a1b4-02b3-4500-b78d-12883711fefg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_89d3a1b4-02b3-4500-b78d-12883711fefg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776247Z",
+        "updated_at": "2025-08-08T07:56:39.024844Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 15,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083663,
+        "annotations": [
+            {
+                "id": 915180,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "ei5gTSbUph",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 54.34070737186004,
+                            "y": 9.67180628929424,
+                            "width": 12.35015582487438,
+                            "height": 65.48594679561512,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1281,
+                        "original_height": 568
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:58.929241Z",
+                "updated_at": "2025-08-08T07:56:58.929241Z",
+                "draft_created_at": "2025-08-08T07:56:47.364949Z",
+                "lead_time": 18.602,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "183db6e4-becc-4b6a-a6c7-4550b4c31fb6",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083663,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_289d7430-05ee-42b7-b756-3e8b51ef5ceg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_289d7430-05ee-42b7-b756-3e8b51ef5ceg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776292Z",
+        "updated_at": "2025-08-08T07:56:59.032902Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 16,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083664,
+        "annotations": [
+            {
+                "id": 915183,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "Df58HFhR9c",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 45.988321177449485,
+                            "y": 0,
+                            "width": 4.374091989608079,
+                            "height": 46.813043170393684,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1282,
+                        "original_height": 565
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:57:28.709638Z",
+                "updated_at": "2025-08-08T07:57:28.709638Z",
+                "draft_created_at": "2025-08-08T07:57:07.328101Z",
+                "lead_time": 28.461,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "c9cd8528-1860-4d68-ad08-9e011c93cc35",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083664,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_933b994e-6a21-4c9c-a6d3-137b95f22eeg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_933b994e-6a21-4c9c-a6d3-137b95f22eeg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776342Z",
+        "updated_at": "2025-08-08T07:57:28.810407Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 17,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083665,
+        "annotations": [
+            {
+                "id": 915185,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "Izm9OT07Ul",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 39.22311815537534,
+                            "y": 6.002327880586332,
+                            "width": 12.44160426839115,
+                            "height": 69.49158860542718,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1277,
+                        "original_height": 569
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:57:47.682042Z",
+                "updated_at": "2025-08-08T07:57:47.682042Z",
+                "draft_created_at": "2025-08-08T07:57:36.294075Z",
+                "lead_time": 17.616,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "115cf50c-ab61-4949-97fa-a86dedabe7ed",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083665,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_46768fab-4fbe-4227-9cb5-3e846b582a4g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_46768fab-4fbe-4227-9cb5-3e846b582a4g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776390Z",
+        "updated_at": "2025-08-08T07:57:47.781581Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 18,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083666,
+        "annotations": [
+            {
+                "id": 915178,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "z-iBfgisux",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 18.443578081659854,
+                            "y": 0,
+                            "width": 27.674672145701606,
+                            "height": 97.09677419354804,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1282,
+                        "original_height": 539
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:40.930088Z",
+                "updated_at": "2025-08-08T07:56:40.930119Z",
+                "draft_created_at": "2025-08-08T07:56:27.537686Z",
+                "lead_time": 20.471,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ec1b5a8a-0fa3-4272-bb34-3c0a391ae326",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083666,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_49486a25-cc75-41ec-b67e-e8d1b4def2bg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_49486a25-cc75-41ec-b67e-e8d1b4def2bg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776433Z",
+        "updated_at": "2025-08-08T07:56:40.980819Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 19,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083667,
+        "annotations": [
+            {
+                "id": 915186,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "Q0D9Z5nmOc",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.24070376837271,
+                            "y": 20.854679568975122,
+                            "width": 15.601247919541889,
+                            "height": 57.639052504649236,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1272,
+                        "original_height": 569
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:58:10.143274Z",
+                "updated_at": "2025-08-08T07:58:10.143274Z",
+                "draft_created_at": "2025-08-08T07:57:56.114693Z",
+                "lead_time": 21.086,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "f0ba14fb-6465-4a2c-8e09-75a493050f1c",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083667,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_18530453-235d-4f5a-9e0e-e71158b277fg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_18530453-235d-4f5a-9e0e-e71158b277fg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776475Z",
+        "updated_at": "2025-08-08T07:58:10.211624Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 20,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083668,
+        "annotations": [
+            {
+                "id": 915188,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "kopBJ-3uXf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 8.994104003330982,
+                            "y": 0,
+                            "width": 20.334608793374823,
+                            "height": 99.99999999999996,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1278,
+                        "original_height": 541
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:58:35.009628Z",
+                "updated_at": "2025-08-08T07:58:35.009628Z",
+                "draft_created_at": "2025-08-08T07:58:18.440328Z",
+                "lead_time": 23.561,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "5b41e275-1d2b-48ec-9a64-65ad7849a0b0",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083668,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_a8f29eed-92e8-48fb-997f-f932cc93abag.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_a8f29eed-92e8-48fb-997f-f932cc93abag.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776518Z",
+        "updated_at": "2025-08-08T07:58:35.098736Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 21,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083669,
+        "annotations": [
+            {
+                "id": 915179,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "fjPo1ED9Ey",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 12.188010495400158,
+                            "y": 0,
+                            "width": 25.602281422778443,
+                            "height": 99.99999999999997,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1282,
+                        "original_height": 540
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:56:54.039812Z",
+                "updated_at": "2025-08-08T07:56:54.039843Z",
+                "draft_created_at": "2025-08-08T07:56:52.104373Z",
+                "lead_time": 10.192,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "20c7615f-2e53-484e-8def-89dc99eb024a",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083669,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_d7c7d393-747a-4b25-b40a-95bd4b2a4d3g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_d7c7d393-747a-4b25-b40a-95bd4b2a4d3g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776560Z",
+        "updated_at": "2025-08-08T07:56:54.099703Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 22,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083670,
+        "annotations": [
+            {
+                "id": 915181,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "Hyrth9Jnvn",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.001262223801405,
+                            "y": 0,
+                            "width": 27.25113755313223,
+                            "height": 99.99999999999994,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1280,
+                        "original_height": 538
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:57:09.455664Z",
+                "updated_at": "2025-08-08T07:57:09.455685Z",
+                "draft_created_at": "2025-08-08T07:57:01.980946Z",
+                "lead_time": 14.103,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "65792f7d-7861-49fd-8e3d-888dd0e3ca21",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083670,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_f37bf96e-2870-4553-9370-7d58fb816f8g.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_f37bf96e-2870-4553-9370-7d58fb816f8g.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776602Z",
+        "updated_at": "2025-08-08T07:57:09.487651Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 23,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083671,
+        "annotations": [
+            {
+                "id": 915182,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "KCgOkdrxUF",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 33.96040974586406,
+                            "y": 16.891825401505336,
+                            "width": 12.82688971212202,
+                            "height": 62.465425960561646,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1283,
+                        "original_height": 571
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:57:25.280614Z",
+                "updated_at": "2025-08-08T07:57:25.280644Z",
+                "draft_created_at": "2025-08-08T07:57:18.700193Z",
+                "lead_time": 14.495,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4c74eed6-bc5d-4bcf-b2b0-26a773e00f36",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083671,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_fbcd3d7b-1aba-4e48-a3ef-1b16031b20eg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_fbcd3d7b-1aba-4e48-a3ef-1b16031b20eg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776646Z",
+        "updated_at": "2025-08-08T07:57:25.338843Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 24,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083672,
+        "annotations": [
+            {
+                "id": 915191,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "Okqk6fueJQ",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 31.302817262693416,
+                            "y": 65.22026627798286,
+                            "width": 22.12345842753006,
+                            "height": 15.750810223809736,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 1277,
+                        "original_height": 565
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:59:02.891330Z",
+                "updated_at": "2025-08-08T07:59:02.891330Z",
+                "draft_created_at": "2025-08-08T07:58:43.109363Z",
+                "lead_time": 26.723,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2c0eabd5-5703-4db0-85fd-5cadfa4fcb29",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083672,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "img_v3_02ov_fed2c8fe-1741-4c18-abda-e68dd5dcabeg.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "img_v3_02ov_fed2c8fe-1741-4c18-abda-e68dd5dcabeg.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776690Z",
+        "updated_at": "2025-08-08T07:59:02.992311Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 25,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083673,
+        "annotations": [
+            {
+                "id": 915184,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "SR0wv16zE1",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 55.735926350149334,
+                            "y": 33.30323087862697,
+                            "width": 3.05516538665979,
+                            "height": 3.2320428248056428,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "扳手"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 5184,
+                        "original_height": 3888
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:57:46.278891Z",
+                "updated_at": "2025-08-08T07:57:46.278923Z",
+                "draft_created_at": "2025-08-08T07:57:36.886436Z",
+                "lead_time": 19.367,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "2a02d241-237e-448c-b4ef-265a1e981e20",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083673,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "01wpdaqd00192.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "01wpdaqd00192.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776733Z",
+        "updated_at": "2025-08-08T07:57:46.340163Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 26,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083674,
+        "annotations": [
+            {
+                "id": 915187,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "sfvJoCfm0Q",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 48.143269249982055,
+                            "y": 28.96562927221542,
+                            "width": 3.2877795886210635,
+                            "height": 13.662656300885608,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2250,
+                        "original_height": 4000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:58:11.202108Z",
+                "updated_at": "2025-08-08T07:58:11.202137Z",
+                "draft_created_at": "2025-08-08T07:57:59.388560Z",
+                "lead_time": 23.249,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "0a5ca042-fa57-4b0b-8f6e-ec89daf0fc38",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083674,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "1f7c56ac-3c185560_d936_4c6b_9c98_52999c3b90f9.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "1f7c56ac-3c185560_d936_4c6b_9c98_52999c3b90f9.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776775Z",
+        "updated_at": "2025-08-08T07:58:11.258049Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 27,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083675,
+        "annotations": [
+            {
+                "id": 915193,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "P0qKnEKclf",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 24.32523731299189,
+                            "y": 13.334662730493546,
+                            "width": 1.590186863009699,
+                            "height": 8.30257520061236,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4344,
+                        "original_height": 5792
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:59:38.122471Z",
+                "updated_at": "2025-08-08T07:59:38.122471Z",
+                "draft_created_at": "2025-08-08T07:59:20.485019Z",
+                "lead_time": 34.014,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "9c8c1616-a3a3-48f8-a906-37c95cb1c516",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083675,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01776.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01776.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776817Z",
+        "updated_at": "2025-08-08T07:59:38.230811Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 28,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083676,
+        "annotations": [
+            {
+                "id": 915194,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "xOfDlj7W2g",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 56.0808992713537,
+                            "y": 16.624623703935494,
+                            "width": 1.3493918480865172,
+                            "height": 8.660401333751805,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3472,
+                        "original_height": 4624
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T08:00:00.418564Z",
+                "updated_at": "2025-08-08T08:00:00.418564Z",
+                "draft_created_at": "2025-08-08T07:59:49.080709Z",
+                "lead_time": 21.126,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "93945fe7-763f-407e-bb5c-2fcb30027072",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083676,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01793.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01793.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776859Z",
+        "updated_at": "2025-08-08T08:00:00.492925Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 29,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083677,
+        "annotations": [
+            {
+                "id": 915189,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "pvii781J1b",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 65.58418734304273,
+                            "y": 0.5546263432681572,
+                            "width": 5.245727921474494,
+                            "height": 15.195283800470637,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 3264,
+                        "original_height": 2448
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:58:35.784717Z",
+                "updated_at": "2025-08-08T07:58:35.784747Z",
+                "draft_created_at": "2025-08-08T07:58:20.381908Z",
+                "lead_time": 23.202,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "ad89887a-3141-4a33-b539-70f8d737ff53",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083677,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01794.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01794.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776901Z",
+        "updated_at": "2025-08-08T07:58:35.833595Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 30,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083678,
+        "annotations": [
+            {
+                "id": 915190,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "M-13KlEJDR",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 49.25231794520339,
+                            "y": 29.436838256808567,
+                            "width": 0.8943799219979472,
+                            "height": 11.424077703917897,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 6000,
+                        "original_height": 4000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:58:59.817547Z",
+                "updated_at": "2025-08-08T07:58:59.817573Z",
+                "draft_created_at": "2025-08-08T07:58:44.565617Z",
+                "lead_time": 22.753,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "4f5565b0-a3d2-4217-9f72-07436ac52af9",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083678,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01795.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01795.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776943Z",
+        "updated_at": "2025-08-08T07:58:59.866463Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 31,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    },
+    {
+        "id": 1083679,
+        "annotations": [
+            {
+                "id": 915195,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "o11Ip1i9q8",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 82.05451656699903,
+                            "y": 50.65607393461086,
+                            "width": 6.015085584125297,
+                            "height": 20.62666097775341,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 2250,
+                        "original_height": 4000
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T08:00:29.030433Z",
+                "updated_at": "2025-08-08T08:00:29.030433Z",
+                "draft_created_at": "2025-08-08T08:00:12.071811Z",
+                "lead_time": 27.684,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "dc85615a-b427-4421-b63e-acb4a6140cd4",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083679,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01804.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01804.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.776986Z",
+        "updated_at": "2025-08-08T08:00:29.132917Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 32,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21516,
+        "comment_authors": []
+    },
+    {
+        "id": 1083680,
+        "annotations": [
+            {
+                "id": 915192,
+                "completed_by": 85,
+                "result": [
+                    {
+                        "id": "WSM6e5Pzdo",
+                        "type": "rectanglelabels",
+                        "value": {
+                            "x": 16.996492055076313,
+                            "y": 3.4183845062511335,
+                            "width": 8.985075120768904,
+                            "height": 14.832625026142289,
+                            "rotation": 0,
+                            "rectanglelabels": [
+                                "绝缘操作杆"
+                            ]
+                        },
+                        "origin": "manual",
+                        "to_name": "image",
+                        "from_name": "label",
+                        "image_rotation": 0,
+                        "original_width": 4344,
+                        "original_height": 5792
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2025-08-08T07:59:26.118657Z",
+                "updated_at": "2025-08-08T07:59:26.118685Z",
+                "draft_created_at": "2025-08-08T07:59:09.498064Z",
+                "lead_time": 24.499,
+                "prediction": {},
+                "result_count": 0,
+                "unique_id": "866c7fc8-dfdf-4d65-a5e5-ef195a60ac88",
+                "import_id": null,
+                "last_action": null,
+                "audit_status": null,
+                "task": 1083680,
+                "project": 627,
+                "updated_by": 85,
+                "parent_prediction": null,
+                "parent_annotation": null,
+                "last_created_by": null
+            }
+        ],
+        "file_upload": "06zybsp01816.jpg",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "image": "06zybsp01816.jpg"
+        },
+        "meta": {},
+        "created_at": "2025-08-08T07:45:29.777028Z",
+        "updated_at": "2025-08-08T07:59:26.166159Z",
+        "need_audit": true,
+        "audit_status": null,
+        "inner_id": 33,
+        "total_annotations": 1,
+        "cancelled_annotations": 0,
+        "total_predictions": 0,
+        "comment_count": 0,
+        "unresolved_comment_count": 0,
+        "last_comment_updated_at": null,
+        "project": 627,
+        "updated_by": 85,
+        "batch": 21517,
+        "comment_authors": []
+    }
+]

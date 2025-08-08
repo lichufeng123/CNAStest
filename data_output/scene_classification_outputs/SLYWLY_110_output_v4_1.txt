@@ -1,0 +1,2 @@
+图像文件：SLYWLY_110.jpg
+识别失败：图像格式不受支持：unsupported image mode

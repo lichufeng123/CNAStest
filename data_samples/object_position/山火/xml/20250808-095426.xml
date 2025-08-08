@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>20250808-095426.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\山火\山火—已截图\20250808-095426.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>548</width>
+    <height>367</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>烟雾</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>52</xmin>
+      <ymin>0</ymin>
+      <xmax>328</xmax>
+      <ymax>285</ymax>
+    </bndbox>
+  </object>
+</annotation>

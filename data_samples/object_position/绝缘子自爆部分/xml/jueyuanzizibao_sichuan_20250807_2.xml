@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>jueyuanzizibao_sichuan_20250807_2.jpg</filename>
+  <path>C:\Users\ADMIN\Desktop\1213\无原图文件\绝缘子自爆部分\绝缘子自爆\jueyuanzizibao_sichuan_20250807_2.jpg</path>
+  <source>Unknown</source>
+  <size>
+    <width>8688</width>
+    <height>5792</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>绝缘子自爆区域</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>381</xmin>
+      <ymin>3064</ymin>
+      <xmax>649</xmax>
+      <ymax>3405</ymax>
+    </bndbox>
+  </object>
+</annotation>

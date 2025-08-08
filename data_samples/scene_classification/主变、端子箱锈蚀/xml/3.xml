@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<annotation>
+  <folder>images</folder>
+  <filename>3.png</filename>
+  <path>D:\新建文件夹\513项目\主变变压器与端子箱锈蚀-212\images\3.png</path>
+  <size>
+    <width>1312</width>
+    <height>736</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <object>
+    <name>HTX</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2</xmin>
+      <xmax>735</xmax>
+      <ymin>0</ymin>
+      <ymax>321</ymax>
+    </bndbox>
+  </object>
+</annotation>
